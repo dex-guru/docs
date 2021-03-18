@@ -8,11 +8,17 @@ Dexguru is a trading terminal that brings together permissionless, real-time dat
 
 Orders being routed thru any 0x API connected exchange: Uniswap, Kyber, Curve, Balancer, CREAM, Bancor, mStable, Shell, Swerve, SnowSwap, SushiSwap, DODO, Mooniswap\(1inch protocol AMM\). 
 
-
-
 ## What are 🤔-tokens?
 
 ![](.gitbook/assets/0_00__undefined___dexguru.png)
 
-We use [Ethereum token list standard](https://tokenlists.org/) to check the token smart contract address, at least 2 different token lists should have it to get verified status.
+We use [Ethereum token list standard](https://tokenlists.org/) to check the token smart contract address. At least 2 different token lists should have token listed to get verified status at our UI.
+
+ 
+
+
+
+
+
+
 

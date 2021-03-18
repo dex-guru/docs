@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Dex.Guru Gitbook](README.md)
+* [Market Selector](market-selector.md)
 * [Wall of Love 💌](wall-of-love.md)
 * [FAQ](faq.md)
 * [Brand Assets](brand-assets.md)
