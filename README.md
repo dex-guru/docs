@@ -4,11 +4,7 @@ Dex.guru is a  trading platform for traders of the DeFi era where on-chain analy
 
 The Dex.Guru Interface provides access to decentralized protocols on the Ethereum blockchain that allows users to perform certain actions with digital assets or Virtual Currencies.
 
-
-
-![](.gitbook/assets/02_dashboard.png)
-
-
+![](.gitbook/assets/_10_40_cake___dexguru.png)
 
 Website: [dex.guru](https://dex.guru) 
 
