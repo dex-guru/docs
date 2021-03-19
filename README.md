@@ -1,14 +1,20 @@
-# Dex.Guru Gitbook
+# Dexguru Gitbook
 
-Dex.guru is a  trading platform for traders of the DeFi era where on-chain analytics combined with execution capabilities. 
+Dexguru is a  trading platform for traders of the DeFi era where on-chain analytics combined with execution capabilities. 
 
-The Dex.Guru Interface provides access to decentralized protocols on the Ethereum blockchain that allows users to perform certain actions with digital assets or Virtual Currencies.
+The Dexguru Interface provides access to decentralized protocols on Ethereum and BSC blockchains that allows users to perform certain actions with digital assets or Virtual Currencies.
 
 ![](.gitbook/assets/_10_40_cake___dexguru.png)
+
+
+
+**Links**
 
 Website: [dex.guru](https://dex.guru) 
 
 Twitter: [@dexguru](https://twitter.com/dexguru) 
+
+Github:[ dex-guru](https://github.com/dex-guru/)
 
 Telegram Channel: [@dexguru ](https://t.me/dexguru) 
 
