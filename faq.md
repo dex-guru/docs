@@ -14,6 +14,16 @@ Orders being routed thru any 0x API connected exchange: Uniswap, Kyber, Curve, B
 
 We use [Ethereum token list standard](https://tokenlists.org/) to check the token smart contract address. At least 2 different token lists should have token listed to get verified status at our UI.
 
+
+
+### How to add/update token logo? 
+
+We pull token logos from this repo: [https://github.com/trustwallet/assets](https://github.com/trustwallet/assets)  
+
+
+
+
+
  
 
 
