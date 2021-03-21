@@ -8,8 +8,9 @@
   * [DYOR](market-selector/untitled.md)
   * [Multichain](market-selector/multichain.md)
   * [Token Liquidity](market-selector/token-liquidity.md)
-* [Wall of Love 💌](wall-of-love.md)
 * [FAQ](faq.md)
+* [API](api.md)
+* [Wall of Love 💌](wall-of-love.md)
 * [Brand Assets](brand-assets.md)
 
 ## Legal
