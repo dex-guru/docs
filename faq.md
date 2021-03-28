@@ -24,7 +24,9 @@ We use [Ethereum token list standard](https://tokenlists.org/) to check the toke
 
 We pull token logos from this repo: [https://github.com/trustwallet/assets](https://github.com/trustwallet/assets)  
 
+### What is the process for getting a new token listed on your platform?
 
+We're permissionless platform, there are no application process or listing fees. If your token has a liquid on-chain market on Uniswap or Pancakeswap it would be automatically indexed and available at Dexguru.
 
 
 
