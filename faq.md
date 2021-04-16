@@ -30,6 +30,16 @@ We're permissionless platform, there are no application process or listing fees.
 
 
 
+#### **How can I invest in your project?**
+
+We good for now, and not looking for new investors.
+
+#### When token?
+
+Eventually, we'll have a token. No ETA or any further details to share about it yet.
+
+
+
  
 
 
