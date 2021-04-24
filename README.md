@@ -1,4 +1,4 @@
-# DexGuru Gitbook
+# DexGuru Getting Started
 
 Dexguru is a  trading platform for traders of the DeFi era where on-chain analytics combined with execution capabilities. 
 

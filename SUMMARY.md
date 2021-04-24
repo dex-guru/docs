@@ -1,6 +1,6 @@
 # Table of contents
 
-* [DexGuru Gitbook](README.md)
+* [DexGuru Getting Started](README.md)
 * [Features](features/README.md)
   * [Market Activity](features/market-activity.md)
   * [Trading Tools](features/trading-tools.md)
