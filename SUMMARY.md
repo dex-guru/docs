@@ -10,6 +10,7 @@
   * [Token Liquidity](features/token-liquidity.md)
 * [FAQ](faq.md)
 * [API](api.md)
+* [Security](security.md)
 * [Wall of Love 💌](wall-of-love.md)
 * [Brand Assets](brand-assets.md)
 
