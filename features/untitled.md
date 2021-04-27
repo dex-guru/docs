@@ -2,7 +2,7 @@
 description: (Do Your Own Research)
 ---
 
-# DYOR
+# DYOR🍄
 
 To take a more thorough look at how a token has been performing, use the 🍄 DYOR button.   
 
