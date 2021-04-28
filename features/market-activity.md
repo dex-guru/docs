@@ -21,7 +21,7 @@ If we have enough data about the wallet that a trader used, we will add an icon 
 🤖 - Trader with 1000+ TXs in the last 30 days. Most likely a bot.  
 
 
-![](../.gitbook/assets/image.png)
+![Trading History](../.gitbook/assets/image%20%285%29.png)
 
 
 

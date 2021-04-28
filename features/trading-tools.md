@@ -2,16 +2,16 @@
 
 Once you connect your web3 wallet, you can exchange one crypto for another directly from the DexGuru interface in the Trading Section. Keep in mind that when you’re buying or selling crypto via our interface, you interact with smart contracts deployed on public chains like Ethereum or BSC. We do not control your transactions and couldn't stop a transaction or attempt to reverse a transaction after it occurred. You’re the only one ultimately responsible for any transactions.  
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%2812%29.png)
 
 Use percentage buttons to allocate only that percentage of an asset from your wallet to a given trade. This way, you can sell 50% of all your tokens in 2 clicks. First, by pressing the 50% button and then the sell button. 
 
-![Percentage buttons](../.gitbook/assets/image%20%283%29.png)
+![Percentage buttons](../.gitbook/assets/image%20%286%29.png)
 
 Before finalizing a trade, it needs to be verified. Pay close attention to the Swap Verify pop-up shown below.  
 
 
-![Swap Verify](../.gitbook/assets/image%20%284%29.png)
+![Swap Verify](../.gitbook/assets/image%20%287%29.png)
 
 Here you can set price slippage, which is a difference between the quoted price and the executed price of your trade.
 
@@ -25,7 +25,7 @@ DexGuru will tell you if you are making a shitty trade by placing the 💩 emoji
 
 The Swap Verify pop-up lets you know if you do not have sufficient balance to cover a transaction, including gas fees. 
 
-![Insufficient balance](../.gitbook/assets/image%20%286%29.png)
+![Insufficient balance](../.gitbook/assets/image%20%2811%29.png)
 
   
 ****We use 0x API to route orders most efficiently. Orders being routed thru any 0x API connected exchange: 

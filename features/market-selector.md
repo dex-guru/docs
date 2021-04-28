@@ -9,7 +9,7 @@ Note: All settings are stored on your browser’s local storage. Once you change
 In this section, you can also see assets at your connected wallet by pressing under the wallet tab.   
 ****
 
-![](../.gitbook/assets/_257_63_bnb___dexguru.png)
+![](../.gitbook/assets/image%20%289%29.png)
 
 
 
