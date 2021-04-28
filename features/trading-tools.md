@@ -25,7 +25,7 @@ DexGuru will tell you if you are making a shitty trade by placing the 💩 emoji
 
 The Swap Verify pop-up lets you know if you do not have sufficient balance to cover a transaction, including gas fees. 
 
-![](../.gitbook/assets/image%20%286%29.png)
+![Insufficient balance](../.gitbook/assets/image%20%286%29.png)
 
   
 ****We use 0x API to route orders most efficiently. Orders being routed thru any 0x API connected exchange: 
