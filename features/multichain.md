@@ -5,11 +5,11 @@ At DexGuru, we believe in EVM-compatible chains. Currently, we support Ethereum 
 
 To trade tokens of a different network, connect a wallet that supports the specific network or change network settings in your wallet. For Metamask network selector looks like this:
 
-![Metamask network selector](https://lh5.googleusercontent.com/EVNUhEEy1_dPsyRzXhOfbU0GyJVGrwUEnc41jmG6esKxdca--h_iVqgjhwyo0wCx8LAl9SAd0W1rBh57fJRE_K8WKcokvgh8CqgKpI4cBEyuZlO1jx20ZwxGnIXNMHNlDOTOC22G)
+![Meramask network selector](../.gitbook/assets/image%20%2814%29.png)
 
 To identify tokens from different networks, we use colored circles around the token’s icon. In the example below, Binance Smart Chain is wrapped in the orange circle. For your convenience, web3 wallets that are connected, displayed in the same color as the circles around specific networks. One of the wallets showed in orange in the example below, indicating the BSC wallet.
 
-![](https://lh3.googleusercontent.com/_OWDOdSFpFdg6sIrregPEjCYzOn8DSZotfKNR5lOWMpcCcVQfxhW6ExjEx7ootul-_FDlgEoW85XAC4o0OgP_OmzMZGYKYc7aR0Y3heEZcr4Pfhu2xFPppSGnMKiqmKISQQIJRDQ)
+![Market Selector identifies BSC network with orange color](../.gitbook/assets/image%20%2816%29.png)
 
   
   
