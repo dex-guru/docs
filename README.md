@@ -12,6 +12,8 @@ The Dexguru Interface provides access to decentralized protocols on Ethereum and
 
 Website: [dex.guru](https://dex.guru) 
 
+Blog: [blog.dex.guru](https://blog.dex.guru)
+
 Twitter: [@dexguru](https://twitter.com/dexguru) 
 
 Github:[ dex-guru](https://github.com/dex-guru/)
