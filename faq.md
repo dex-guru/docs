@@ -1,6 +1,6 @@
 # FAQ
 
-## What is Dex.guru?
+## What is DexGuru?
 
 DexGuru is a trading terminal that brings together permissionless, real-time data on every DEX market, on-chain research, powerful analytics, and trade execution capabilities — in one fully integrated UI.
 
