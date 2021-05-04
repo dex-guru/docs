@@ -24,8 +24,6 @@ No, we do not support these types of orders. We do not plan to add these feature
 
 When you are using a decentralized exchange that is based on smart contracts, you must first approve each token that you plan to trade. Decentralized exchanges use smart contracts on public blockchains such as Ethereum or BSC to execute transactions. To use a smart contract, you must 1\) permit it to validate your token balance, and 2\) allow it to transfer the number of tokens that you wish to trade from your wallet.
 
-
-
 ## What are 🤔-tokens and "full degen mode"?
 
 ![](.gitbook/assets/0_00__undefined___dexguru.png)
