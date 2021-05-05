@@ -38,6 +38,15 @@ We pull token logos from this repo: [https://github.com/trustwallet/assets](http
 
 We're a permissionless platform, there are no application process or listing fees. If your token has a liquid on-chain market on Uniswap or Pancakeswap it would be automatically indexed and available at Dexguru.
 
+## What is the process for getting a new exchange integrated on your platform?
+
+There are 2 steps needed:
+
+1. Integration with [0x Protocol API](https://0x.org/docs/api), which enables us to route orders via your exchange.  Reach out to the 0x team at their [discord](https://discord.gg/d3FTX3M) or [fill this form to get in touch](https://docs.google.com/forms/d/e/1FAIpQLSf9Xw5M4I8c2Kw1mTkc5LsucrT_3pRuJ6O6RRHPPvn9EXL1tQ/viewform).  
+2. Integration in DexGuru UI.   
+
+When your exchange would be available at 0x API we can discuss further integration at Dexguru UI. 
+
 ## **How can I invest in your project?**
 
 We good for now, and not looking for new investors.
