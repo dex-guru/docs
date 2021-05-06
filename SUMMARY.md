@@ -8,6 +8,8 @@
   * [DYOR🍄](features/untitled.md)
   * [Multichain](features/multichain.md)
   * [Token Liquidity](features/token-liquidity.md)
+* [How to](how-to/README.md)
+  * [Connect wallet](how-to/connect-wallet.md)
 * [FAQ](faq.md)
 * [API](api.md)
 * [Security](security.md)
