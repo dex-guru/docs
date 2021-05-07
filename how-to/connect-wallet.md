@@ -42,7 +42,7 @@ All set:
 
 ## On mobile 
 
-Open dex.guru inside of your mobile wallet dapp browser:
+You need to have your web3 wallet app installed on your phone. Go to your wallet app and look for the browser there. Now go to dex.guru
 
 ![](../.gitbook/assets/image_2021-05-06_14_40_40.png)
 
