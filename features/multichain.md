@@ -7,7 +7,7 @@ To trade tokens of a different network, connect a wallet that supports the speci
 
 ![Meramask network selector](../.gitbook/assets/image%20%2814%29.png)
 
-To identify tokens from different networks, we use colored circles around the token’s icon. In the example below, Binance Smart Chain is wrapped in the orange circle. For your convenience, web3 wallets that are connected, displayed in the same color as the circles around specific networks. One of the wallets showed in orange in the example below, indicating the BSC wallet.
+To identify tokens from different networks, we use colored circles around the token’s icon. In the example below, Binance Smart Chain is wrapped in the orange circle. For your convenience, web3 wallets that are connected, displayed in the same color as the circles around specific networks. 
 
 ![Market Selector identifies BSC network with orange color](../.gitbook/assets/image%20%2816%29.png)
 
