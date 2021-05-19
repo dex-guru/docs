@@ -10,6 +10,7 @@
   * [Token Liquidity](features/token-liquidity.md)
 * [How to](how-to/README.md)
   * [Connect wallet](how-to/connect-wallet.md)
+  * [Buy/Sell](how-to/buy-sell.md)
   * [See my wallet's balance](how-to/see-my-wallets-balance.md)
 * [FAQ](faq.md)
 * [API](api.md)
