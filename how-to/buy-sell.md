@@ -12,7 +12,7 @@ description: How to trade on DexGuru?
 
 DexGuru makes it easy to identify tokens from different networks. We use colored circles around the token’s icon. In the example below, the Binance Smart Chain token is wrapped in the orange circle. For your convenience, web3 wallets that are connected, displayed in the same color as the circles around specific networks.
 
-![](https://lh3.googleusercontent.com/SrCHJzzPxh7Adjou0-6O6Cpcnur2a26aELsg4vK4SrcUubnOJ1MInvMLFZjfnE22MtY-MQDLhzzjlr7xjH_x_c5T_J2ACLT1_eDSgT68sJ0T2jguRI-kKYAlKy2fOc6sXojFbNjP)
+![](../.gitbook/assets/image%20%2818%29.png)
 
 **Note:** You can't trade assets from different networks for each other. For example,  you can't trade UNI\(ERC20 token on Ethereum\) for CAKE \(BEP20 token on BSC\). However, many Ethereum based tokens have pegged versions on BSC, for example, ETH-BSC on a screenshot above.
 
