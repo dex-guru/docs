@@ -1,8 +1,8 @@
 # DexGuru Getting Started
 
-Dexguru is a  trading platform for traders of the DeFi era where on-chain analytics combined with execution capabilities. 
+DexGuru is a  trading platform for traders of the DeFi era where on-chain analytics combined with execution capabilities. 
 
-The Dexguru Interface provides access to decentralized protocols on Ethereum and BSC blockchains that allow users to perform certain actions with digital assets or Virtual Currencies.
+The DexGuru Interface provides access to decentralized protocols on Ethereum and BSC blockchains that allow users to perform certain actions with digital assets or Virtual Currencies.
 
 ![](.gitbook/assets/_10_40_cake___dexguru.png)
 

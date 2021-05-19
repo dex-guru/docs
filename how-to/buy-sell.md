@@ -18,6 +18,14 @@ DexGuru makes it easy to identify tokens from different networks. We use colored
 
 **3. It is time to trade.** To Buy/Sell a particular token, you need first to pick it in the [Market Selector](https://docs.dex.guru/features/market-selector) area.
 
+> **⚠️ Please Keep in Mind ⚠️**
+>
+> ✅  **We do not control your transactions and couldn't stop a transaction or attempt to reverse a transaction after it occurred.** 
+>
+> ✅ **You’re ultimately responsible for any transactions as relevant to the Services.** 
+>
+> ✅  **Please review, obtain, or otherwise seek additional information or support BEFORE transaction in Virtual Currency.**
+
 ![Market Selector](https://lh6.googleusercontent.com/kCOaE085hHNWIxRL5FrJsTyrVrNtsr2IDxgla86CO8hkQW5tSVKlTo10uhWcHK78UgABCzfB9wpsL_WpYxZADQ6TiA3NmxGNgMgea3X5gHw3Zo7NvKXx-qwooYGi1CTgrXxKPtPW)
 
 For both Buy and Sell options, you can only input the amount of assets that are going to be taken **from** your wallet—the amount of tokens\(coins\) you receive after the trade is calculated automatically.
