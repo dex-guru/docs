@@ -13,5 +13,9 @@ In this section, you can also see assets at your connected wallet by pressing un
 
 
 
+## What is a "full degen mode"?
 
+![](../.gitbook/assets/0_00__undefined___dexguru.png)
+
+We use [Ethereum token list standard](https://tokenlists.org/) to check and verify the token smart contract address. At least 2 different token lists should have the token listed to get verified status at our UI. Keep in mind, verified status doesn't mean to be investment advice, a stamp of approval, or any kind of recommendation. It just a sign that a particular token smart contract address is reputable enough and being recognized in the industry with an appropriate ticker. 
 
