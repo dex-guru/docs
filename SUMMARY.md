@@ -5,7 +5,7 @@
   * [Market Activity](features/market-activity.md)
   * [Trading Tools](features/trading-tools.md)
   * [Market Selector](features/market-selector.md)
-  * [DYOR🍄](features/untitled.md)
+  * [DYOR🍄](features/dyor.md)
   * [Multichain](features/multichain.md)
   * [Token Liquidity](features/token-liquidity.md)
 * [How to](how-to/README.md)
