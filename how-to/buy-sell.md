@@ -36,16 +36,18 @@ You can change what kind of digital asset you use to buy a specific token\(the o
 
 ![](https://lh5.googleusercontent.com/oJvBAjLUqONgaiQT0fRxIMJHmTgbE-5nOtiutiuHbAPaDMhqpJxUKgmM7VRWC1NUXOZbZEkLuHrm9VjvVWEPxnJkbRozagzAt3uC9T_wG7PgBP_Vr5jLEz-kMHKGTT0qraPlDzHm)
 
-If this is the first time you are making a transaction with a specific token, you’ll have to complete a token approval transaction. 
+If this is the first time you are making a transaction with a specific token, you’ll have to complete a token approval transaction. You only need to press Approve/Sell button once. 
+
+![Approve/Sell button. You only need to press it once. ](../.gitbook/assets/screen-shot-2021-06-02-at-3.53.46-pm%20%281%29.png)
 
   
-Once you approve the token spending limit in your wallet, wait for the Swap Verify/Confirmation pop-up. If the coin or token does not need approval from your wallet, you will be shown the Swap Verify/Confirmation pop-up right after pressing the Buy/Sell button.
+Once you approve the token spending limit in your wallet, wait for the Swap Confirmation pop-up. If the coin or token does not need approval from your wallet, you will be shown the Swap Confirmation pop-up right after pressing the Buy/Sell button.
 
-![Swap Verify pop-up](https://lh6.googleusercontent.com/d1Ne1PvRopavfRzBIOPPtf233WDce91fbeNeH5H1GOVQ-N362n8ceTt1NX89ehaKrWdLRVl4Q-w6VATRi5j2w8JeC8MdZ5bSQbkc3NNBISHenC7sMHsKrLS3mfMiVkpacAHUmvDh)
+![Swap Confirmation pop-up](../.gitbook/assets/screen-shot-2021-06-02-at-3.51.04-pm.png)
 
-Inside the Swap Verify pop-up, you can change price slippage, tip to DexGuru, and pick GAS price. Click the “Verify” button once you ready. If you do not click the “Verify” button during the first 90 seconds, the pop-up will automatically close, and we will need to refresh your quote.
+Inside the Swap Confirmation pop-up, you can change price slippage, tip to DexGuru, and pick GAS price. Click the “Confirm” button once you ready. If you do not click the “Confirm” button during the first 90 seconds, the pop-up will automatically close, and we will need to refresh your quote.
 
-After pressing the “Verify” button, the swap transaction in your wallet will be initiated. Once you approve it, there is no way back. No one can cancel the transaction at this point.
+After pressing the “Confirm” button, the swap transaction in your wallet will be initiated. Once you approve it, there is no way back. No one can cancel the transaction at this point.
 
 **4. Once the transaction has been made, you can use this** [**guide**](https://docs.dex.guru/how-to/see-my-wallets-balance) **to see your wallet’s new balance.**  
 
