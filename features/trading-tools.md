@@ -8,10 +8,14 @@ Use percentage buttons to allocate only that percentage of an asset from your wa
 
 ![Percentage buttons](../.gitbook/assets/image%20%286%29.png)
 
-Before finalizing a trade, it needs to be verified. Pay close attention to the Swap Verify pop-up shown below.  
+If this is the first time you are making a transaction with a specific token, you’ll have to complete a token approval transaction. You only need to press Approve/Sell button once. 
+
+![Approve/Sell button. You only need to press it once. ](../.gitbook/assets/screen-shot-2021-06-02-at-3.53.46-pm%20%281%29.png)
+
+Before finalizing a trade, it needs to be confirmed. Once you approve the token spending limit in your wallet \(if needed\), wait for the Swap Confirmation pop-up. Pay close attention to the Swap Confirmation pop-up shown below.  
 
 
-![Swap Verify](../.gitbook/assets/image%20%287%29.png)
+![Swap Confirmation pop-up](../.gitbook/assets/screen-shot-2021-06-02-at-3.51.04-pm.png)
 
 Here you can set price slippage, which is a difference between the quoted price and the executed price of your trade.
 
@@ -23,7 +27,7 @@ DexGuru will tell you if you are making a shitty trade by placing the 💩 emoji
 
 💩 - shows up when an estimated network fee is more than 25% of the trade size.
 
-The Swap Verify pop-up lets you know if you do not have sufficient balance to cover a transaction, including gas fees. 
+The Swap Confirmation pop-up lets you know if you do not have sufficient balance to cover a transaction, including gas fees. 
 
 ![Insufficient balance](../.gitbook/assets/image%20%2811%29.png)
 
