@@ -26,7 +26,7 @@ When you are using a decentralized exchange that is based on smart contracts, yo
 
 ## What is a "full degen mode"?
 
-![](.gitbook/assets/0_00__undefined___dexguru.png)
+![](.gitbook/assets/market-selector.png)
 
 We use [Ethereum token list standard](https://tokenlists.org/)\(and [Binance Smart Chain list](https://bsctokenlists.org/) for BSC\) to check and verify the token smart contract address. At least 2 different token lists should have the token listed to get verified status at our UI. Keep in mind, verified status doesn't mean to be investment advice, a stamp of approval, or any kind of recommendation. It just a sign that a particular token smart contract address is reputable enough and being recognized in the industry with an appropriate ticker. 
 
