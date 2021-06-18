@@ -10,12 +10,12 @@ Use percentage buttons to allocate only that percentage of an asset from your wa
 
 If this is the first time you are making a transaction with a specific token, you’ll have to complete a token approval transaction. You only need to press Approve/Sell button once. 
 
-![Approve/Sell button. You only need to press it once. ](../.gitbook/assets/screen-shot-2021-06-02-at-3.53.46-pm%20%281%29.png)
+![](../.gitbook/assets/003.png)
 
 Before finalizing a trade, it needs to be confirmed. Once you approve the token spending limit in your wallet \(if needed\), wait for the Swap Confirmation pop-up. Pay close attention to the Swap Confirmation pop-up shown below.  
 
 
-![Swap Confirmation pop-up](../.gitbook/assets/screen-shot-2021-06-02-at-3.51.04-pm.png)
+![](../.gitbook/assets/004.png)
 
 Here you can set price slippage, which is a difference between the quoted price and the executed price of your trade.
 
