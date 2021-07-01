@@ -14,15 +14,15 @@ If you do not see assets in your wallet, it is a good idea to check your wallet�
 
 Copy your wallet’s public address and search for it on a blockchain explorer.
 
-![](https://lh6.googleusercontent.com/DFjAF5z2RkQJx7JiiOY6N4MeAqkXHOpU0qXiy36O4qbpeN2a-JUcp4P4WIIIE3RdRoIFPa-zRrS9zWAQu3FMGbTFDm5DUZTcE2jWpY-uxa2UowOcsS9V1VBFc8R-d3wzcpCLMvfV)
+![](../.gitbook/assets/001.png)
 
 
 
 After entering your public address, you will see your ETH or BNB balance in native value. You will also see all up-to-date transactions that happened to your wallet. To view Expanded Token Holdings click on the button next to the value of your custom tokens.
 
-![](https://lh4.googleusercontent.com/PKB7PYJUdYn92Xh1fwojSkvhuaBimjqXX_3KOGnCl1CEuuQfeozqSABTSx4shSfYtWij4b2HdowuN6HKJwg3uTOU5d2AKdx8zYjnd3IGh_7nRSNOPe1x11Hsn0kF7p2thXZaI6nz)
+![](../.gitbook/assets/002.png)
 
-![](https://lh3.googleusercontent.com/h_eKc4zW7Oa7zBjY0VrVG0Zk1TB-O3oSDt32ylroDAnHe9pOXaMuD9LNn807VNb8nmlOKIV3rVaqmPsK7BIMU9C8jDvzbltCyuHjH1LqhKakbSopFMhVibkxOTK3QEHwJGjkhPoT)
+![](../.gitbook/assets/003%20%281%29.png)
 
 
 
@@ -31,23 +31,23 @@ Wallets like MetaMask display a limited list of standard token balances but do n
 
 Go to your Token Holdings, find the token you want to add to your wallet, and press it. Copy the Contract Address. You will need to add it to your wallet.
 
-![](https://lh3.googleusercontent.com/tx27yeUZPIL36wgEIVmLN6sJTkX4FGv-xlyRP_EfLLOvceChkOjRvIrjFsLzrO6TeucBeCr_8ziyqYDoCpuN9k4jqPgl_AlcpBN-pfgLxjO1C5ZZVFjay1DPkwjPLPcSTwv5K6Du)
+![](../.gitbook/assets/004%20%281%29.png)
 
 
 
 If you are using MetaMask, go to your Assets, scroll down, and press “Add Token”
 
-![](https://lh6.googleusercontent.com/9Kedft3HowU5YvSC7WhUtcDTL-UIaaHTjsGrnJnAJ2p-2wlEnKxHbXrKpnoeLoP8dnLrxJCdPoCnj74YsE_l43ehZs59bIkBNi-SKPaACr2nqBJuAL3kOBEAMB-xLkR8fhJ1YZ_u)
+![](../.gitbook/assets/005.png)
 
-![](https://lh4.googleusercontent.com/QgR-yVQfZLQZUhJpVz0tPgKnTv8_MkybwP1_FkIn-52JQj1rkKMxSq-tQC4FchnE1l6k4dHpsS2SkT_HFx2OakCBhJFvzGNzXDKTIVi7K-HVWP7jQSmcviSkz_m5gTG-vXH83fGf)
+![](../.gitbook/assets/006.png)
 
 Press “Custom Token.” Make sure you are connected to the correct network \(ETH or BSC\).
 
-![](https://lh4.googleusercontent.com/aMqM-q9udWODbREOvy5Tx1NDLQDXlyV2Z8oChubTymbC8WDfcrkDv66x0NNHiuWck-B2yY5tpLmp7Ar53WCNw_1JK-Odg0ixxGmDt3po7TqAfQ_mrgmoK6UNIxsxXx8edmBiUsrD)
+![](../.gitbook/assets/007.png)
 
 
 
 Now paste the Token Contract Address. Token Symbol and Decimals of Precision will be filled automatically.
 
-![](https://lh5.googleusercontent.com/q1f2ZD2ahY3peq_0t2hGeq5A07_vkm_AEjUWQc4iDvCZUaEe1bgVXGv64pdFl1HwcEHgpkPKJBSeyrknENHqCFgC0BdCCQCGub4mhXYrkN6iso9j4ecOvsWkfal-Ug6JbmMYjTw-)
+![](../.gitbook/assets/008.png)
 
