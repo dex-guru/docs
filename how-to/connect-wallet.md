@@ -6,37 +6,37 @@
 
 Click on a wallet icon at the top right corner 
 
-![](../.gitbook/assets/__209_77_nftx___dexguru.png)
+![](../.gitbook/assets/connect-wallet001.png)
 
 Choose Metamask 
 
-![](../.gitbook/assets/__209_77_nftx___dexguru%20%281%29.png)
+![](../.gitbook/assets/connect-wallet002.png)
 
 Click connect button at Metamask 
 
-![](../.gitbook/assets/metamask_notification_and___56_210_37_wbtc___dexguru.png)
+![](../.gitbook/assets/connect-wallet003.png)
 
 All set: 
 
-![](../.gitbook/assets/__209_60_nftx___dexguru.png)
+![](../.gitbook/assets/connect-wallet004.png)
 
 ### Walletconnect
 
 Click on a wallet icon at the top right corner 
 
-![](../.gitbook/assets/__209_77_nftx___dexguru.png)
+![](../.gitbook/assets/connect-wallet001.png)
 
 Choose Walletconnect 
 
-![](../.gitbook/assets/__209_77_nftx___dexguru%20%281%29.png)
+![](../.gitbook/assets/connect-wallet006.png)
 
 Scan QR code from your screen with a walletconnect-compatible wallet, and approve connection: 
 
-![](../.gitbook/assets/2021-05-06-14.35.37.jpg)
+![](../.gitbook/assets/connect-wallet007.png)
 
 All set: 
 
-![](../.gitbook/assets/__209_60_nftx___dexguru%20%281%29.png)
+![](../.gitbook/assets/connect-wallet004.png)
 
 
 

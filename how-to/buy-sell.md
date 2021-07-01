@@ -8,11 +8,11 @@ description: How to trade on DexGuru?
 
 **2.** **Make sure your wallet is using the correct network.** You can see what network you are connected to in the upper right corner next to a wallet icon.
 
-![](https://lh5.googleusercontent.com/EzWXGAoc7RlwTDdzMgdBt5Z7oa57PuC2uik_nsMIujK4LhvUmCTnh5LSLcB5SJHuUPO6fNB71C3MppSbYHgHhCoomD8MabTgLwiQhxPXcN0Wo5KDXLSa3Pb6Z9kvgE77YyyGnoNV)
+![](../.gitbook/assets/buysell.png)
 
 DexGuru makes it easy to identify tokens from different networks. We use colored circles around the token’s icon. In the example below, the Binance Smart Chain token is wrapped in the orange circle. For your convenience, web3 wallets that are connected, displayed in the same color as the circles around specific networks.
 
-![](../.gitbook/assets/image%20%2818%29.png)
+![](../.gitbook/assets/buysell-002.png)
 
 **Note:** You can't trade assets from different networks for each other. For example,  you can't trade UNI\(ERC20 token on Ethereum\) for CAKE \(BEP20 token on BSC\). However, many Ethereum based tokens have pegged versions on BSC, for example, ETH-BSC on a screenshot above.
 
@@ -26,7 +26,7 @@ DexGuru makes it easy to identify tokens from different networks. We use colored
 >
 > ✅  **Please review, obtain, or otherwise seek additional information or support BEFORE transaction in Virtual Currency.**
 
-![Market Selector](https://lh6.googleusercontent.com/kCOaE085hHNWIxRL5FrJsTyrVrNtsr2IDxgla86CO8hkQW5tSVKlTo10uhWcHK78UgABCzfB9wpsL_WpYxZADQ6TiA3NmxGNgMgea3X5gHw3Zo7NvKXx-qwooYGi1CTgrXxKPtPW)
+![](../.gitbook/assets/buysell-003.png)
 
 For both Buy and Sell options, you can only input the amount of assets that are going to be taken **from** your wallet—the amount of tokens\(coins\) you receive after the trade is calculated automatically.
 
