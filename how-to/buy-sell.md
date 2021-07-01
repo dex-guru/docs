@@ -38,12 +38,12 @@ You can change what kind of digital asset you use to buy a specific token\(the o
 
 If this is the first time you are making a transaction with a specific token, you’ll have to complete a token approval transaction. You only need to press Approve/Sell button once. 
 
-![Approve/Sell button. You only need to press it once. ](../.gitbook/assets/screen-shot-2021-06-02-at-3.53.46-pm%20%282%29.png)
+![](../.gitbook/assets/006.png)
 
   
 Once you approve the token spending limit in your wallet, wait for the Swap Confirmation pop-up. If the coin or token does not need approval from your wallet, you will be shown the Swap Confirmation pop-up right after pressing the Buy/Sell button.
 
-![Swap Confirmation pop-up](../.gitbook/assets/screen-shot-2021-06-02-at-3.51.04-pm%20%281%29.png)
+![](../.gitbook/assets/007.png)
 
 Inside the Swap Confirmation pop-up, you can change price slippage, tip to DexGuru, and pick GAS price. Click the “Confirm” button once you ready. If you do not click the “Confirm” button during the first 90 seconds, the pop-up will automatically close, and we will need to refresh your quote.
 

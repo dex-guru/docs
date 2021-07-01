@@ -39,11 +39,11 @@ If you are using MetaMask, go to your Assets, scroll down, and press “Add Toke
 
 ![](../.gitbook/assets/005.png)
 
-![](../.gitbook/assets/006.png)
+![](../.gitbook/assets/006%20%281%29.png)
 
 Press “Custom Token.” Make sure you are connected to the correct network \(ETH or BSC\).
 
-![](../.gitbook/assets/007.png)
+![](../.gitbook/assets/007%20%281%29.png)
 
 
 
