@@ -11,6 +11,11 @@ In this section, you can also see assets at your connected wallet by pressing un
 
 ![](../.gitbook/assets/market-selector-01.png)
 
+There is no need to use your computer mouse to open our Market Selector; use hotkeys instead. Just press the ~ key to open it. Use ↑  ↓ and ESC keys to navigate around and close the Market Selector. 
+
+![Hotkeys to navigate Market Selector ](https://lh5.googleusercontent.com/XLtDJ_A4cWseF_EFRSMcq-2AFNjX33JlzFcRYhgCUaNvQBlBrdlXzULlx0FtpSGgi5NKZEaMYKzIqPCgxYfQiqHbycYlFg8bN8KCBnWAcEHl22pVEIL2FEePPfU0nI7wwdA7DB6l)
+
+  
 
 
 ## What is a "full degen mode"?
