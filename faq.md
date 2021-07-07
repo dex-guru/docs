@@ -10,7 +10,7 @@ Orders being routed thru any 0x API connected exchange:
 
 * **on Ethereum network** - Uniswap, Kyber, Curve, Balancer, CREAM, Bancor, mStable, Shell, Swerve, SnowSwap, SushiSwap, DODO, Mooniswap\(1inch protocol AMM\).
 * **on BSC network** - PancakeSwap, BakerySwap, Mooniswap, DODO\_V2, SushiSwap, Nerve Finance, Belt Finance, Ellipsis.  
-* **on Polygon network** - QuickSwap, SushiSwap, mStable, Curve, Dfyn, Cometh, Dodo\(edited\)March 28, 2021
+* **on Polygon network** - QuickSwap, SushiSwap, mStable, Curve, Dfyn, Cometh, Dodo
 
 ## Is trading on DexGuru free?
 
