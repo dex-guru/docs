@@ -8,7 +8,7 @@ description: "Trending Tab shows tokens where Whale \U0001F433 buyers are strong
 
 **Which tokens get listed inside the Trending Tab?**
 
-The formula below shows how we calculate the _m_ value for each day. The _m_ value is the metric we use for the Market Screener. To pick tokens for the Trending Tab, we compare the current Market Screener \(_m_\) metric to the largest _m_ value __over the last 30 days. Below is the formula for the _m_ value over 24 hours. 
+The formula below shows how we calculate the _m_ value for each day. The _m_ value is the metric we use for the [Market Screener](https://docs.dex.guru/features/market-activity/market-screener). To pick tokens for the Trending Tab, we compare the current Market Screener \(_m_\) metric to the largest _m_ value __over the last 30 days. Below is the formula for the _m_ value over 24 hours. 
 
 ![Market Screener formula](../../.gitbook/assets/screen-shot-2021-08-14-at-10.07.33-pm.png)
 
