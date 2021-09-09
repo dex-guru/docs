@@ -12,7 +12,7 @@ All transactions and actions with your wallet on a blockchain are recorded; you 
 [**Avascan**](https://avascan.info/) ****for Avalanche Network.   
 
 
-If you do not see assets in your wallet, it is a good idea to check your wallet’s address on a blockchain explorer. Use ****[**Etherscan**](https://etherscan.io/) ****for **Ethereum** transactions, [**BscScan**](https://bscscan.com/) ****for **Binance Smart Chain** transactions and so on.    
+If you do not see assets in your wallet, it is a good idea to check your wallet’s address on a blockchain explorer. Use ****[**Etherscan**](https://etherscan.io/) ****for **Ethereum** transactions, [**BscScan**](https://bscscan.com/) ****for **Binance Smart Chain** transactions, and so on.    
 ****
 
 Copy your wallet’s public address and search for it on a blockchain explorer.
