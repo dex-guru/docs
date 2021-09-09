@@ -6,8 +6,11 @@ description: and check its activity
 
 All transactions and actions with your wallet on a blockchain are recorded; you can check them by using one of the blockchain explorers below. 
 
-[**Etherscan**](https://etherscan.io/) ****is a Block Explorer for Ethereum.   
-****[**BscScan**](https://bscscan.com/) ****is a Block Explorer for Binance Smart Chain.
+[**Etherscan**](https://etherscan.io/) ****is a Block Explorer for Ethereum Network.   
+****[**BscScan**](https://bscscan.com/) ****is a Block Explorer for Binance Smart Chain.   
+[**Polygonscan**](https://polygonscan.com/) ****for Polygon Network.   
+[**Avascan**](https://avascan.info/) ****for Avalanche Network.   
+
 
 If you do not see assets in your wallet, it is a good idea to check your wallet’s address on a blockchain explorer. Use ****[**Etherscan**](https://etherscan.io/) ****for **Ethereum** transactions and [**BscScan**](https://bscscan.com/) ****for **Binance Smart Chain** transactions.    
 ****
