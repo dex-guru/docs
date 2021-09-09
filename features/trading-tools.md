@@ -38,3 +38,7 @@ on Ethereum network - Uniswap, Kyber, Curve, Balancer, CREAM, Bancor, mStable, S
 
 on BSC network - PancakeSwap, BakerySwap, Mooniswap, DODO\_V2, SushiSwap, Nerve Finance, Belt Finance, Ellipsis. 
 
+on Polygon network - QuickSwap, SushiSwap, mStable, Curve, Dfyn, Cometh, Dodo. 
+
+on Avalanche network - Pangolin, TraderJoe, SushiSwap.
+
