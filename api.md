@@ -1,8 +1,21 @@
 # API
 
-We are sitting on a pile of trading data that is not easily accessible: Trading View UDF feeds, DEX trades, OHLC, trading volume, you name it. API is coming around Q3 2021. If you want to get early access register your interest below. 
+To start using DexGuru API, all you need is an API key. Go to [dev.dex.guru](https://dev.dex.guru/), connect your web3 wallet, create a project and copy your API key. 
 
-⤵️
+We currently support requests over HTTP and HTTPS. 
 
-[https://forms.gle/5Jj3WMi3x3xHXaJX7](https://forms.gle/5Jj3WMi3x3xHXaJX7) 
+There are two ways to authorize your API request.   
+Instead of YOUR\_API\_KEY, use the key you got at [dev.dex.guru](https://dev.dex.guru/).
+
+1. Query Parameter
+
+   `curl https://api-public-stage.prod-euc1.dexguru.net/v1/chain/?api-key=YOUR_API_KEY`
+
+2. Authorization Header
+
+   `curl https://api-public-stage.prod-euc1.dexguru.net/v1/chain/ -H 'api-key: YOUR_API_KEY'`
+
+For the complete list of requests, please refer to this [page](https://api-public-stage.prod-euc1.dexguru.net/docs).
+
+
 
