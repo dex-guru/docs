@@ -1,7 +1,7 @@
 ---
 description: >-
   DexGuru browser notifications help you stay on top of tokens’ prices.
-  Notifications only work on t desktop.
+  Notifications only work on desktops.
 ---
 
 # Enable push notifications
