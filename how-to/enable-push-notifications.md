@@ -43,6 +43,8 @@ In the example below the threshold is set to 10%, meaning when a token’s price
 
 ![](https://lh5.googleusercontent.com/p06Y-VA5zgi1Y2H-IEWMJz98ACyfNLAzNDyqzSlPfP8upRQjQRpfsPlRCQ-3uzajft65zGHwwklU6lNsAmgBIU4JZ7e2uWzIZIUxBT1FSIFrybkHXstBt56FMM9mAusAZg5a9Fp6=s1600)
 
+#### Note: if you are using the Brave browser, you will need to enable "Use Google Services for Push Messaging" in the Advanced Settings section for notifications to work.&#x20;
+
 ###
 
 ****
