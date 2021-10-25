@@ -32,7 +32,7 @@ Choose Walletconnect&#x20;
 
 ![](../.gitbook/assets/connect-wallet006.png)
 
-Scan QR code from your screen with a WalletConnect-compatible wallet, and conform a Signature Request. By signing it, you prove that you have a private key for an address.&#x20;
+Scan QR code from your screen with a WalletConnect-compatible wallet, and confirm a Signature Request. By signing it, you prove that you have a private key for an address.&#x20;
 
 ![](../.gitbook/assets/IMG\_0058.PNG)
 
