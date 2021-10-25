@@ -12,9 +12,9 @@ Choose Metamask&#x20;
 
 ![](../.gitbook/assets/connect-wallet002.png)
 
-Click connect button at Metamask&#x20;
+We use Signature Requests for authentication. By signing it, you prove that you have a private key for an address.&#x20;
 
-![](../.gitbook/assets/connect-wallet003.png)
+![](<../.gitbook/assets/Screen Shot 2021-10-25 at 10.05.16 AM (1).png>)
 
 All set:&#x20;
 
@@ -32,9 +32,11 @@ Choose Walletconnect&#x20;
 
 ![](../.gitbook/assets/connect-wallet006.png)
 
-Scan QR code from your screen with a walletconnect-compatible wallet, and approve connection:&#x20;
+Scan QR code from your screen with a WalletConnect-compatible wallet, and conform a Signature Request. By signing it, you prove that you have a private key for an address.&#x20;
 
-![](../.gitbook/assets/connect-wallet007.png)
+![](../.gitbook/assets/IMG\_0058.PNG)
+
+
 
 All set:&#x20;
 
