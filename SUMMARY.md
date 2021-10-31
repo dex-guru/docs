@@ -13,6 +13,7 @@
 * [How to](how-to/README.md)
   * [Connect wallet](how-to/connect-wallet.md)
   * [Buy/Sell](how-to/buy-sell.md)
+  * [Enable push notifications](how-to/enable-push-notifications.md)
   * [See my wallet's balance](how-to/see-my-wallets-balance.md)
 * [FAQ](faq.md)
 * [API](api.md)
@@ -23,4 +24,3 @@
 
 * [Privacy Policy](legal/privacy-policy.md)
 * [Terms of Service](legal/terms-of-service.md)
-
