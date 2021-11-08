@@ -2,7 +2,7 @@
 
 DexGuru is a  trading platform for traders of the DeFi era where on-chain analytics combined with execution capabilities.&#x20;
 
-The DexGuru Interface provides access to decentralized protocols on Ethereum, BSC, Polygon, Avalanche,  Fantom blockchains that allow users to perform certain actions with digital assets.
+The DexGuru Interface provides access to decentralized protocols on Ethereum, BSC, Polygon, Avalanche, Fantom, and Arbitrum blockchains that allow users to perform certain actions with digital assets.
 
 ![](.gitbook/assets/dexguru-getting-started.png)
 
