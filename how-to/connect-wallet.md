@@ -1,5 +1,9 @@
 # Connect wallet
 
+Some of our features are only available once you connect a wallet. After connecting it, you will be able to save your favorite tokens and change DexGuru settings.
+
+DexGuru is a fully non-custodial platform, so the assets in your wallet are always under your control.
+
 ## On desktop&#x20;
 
 ### Browser wallets such as Metamask
