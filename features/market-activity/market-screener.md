@@ -1,7 +1,7 @@
 ---
 description: >-
-  Market Screener shows a difference between a buying volume and a selling
-  volume of different types of traders.
+  Market Screener shows a difference between buying and selling volumes of
+  different types of traders over the last 24h.
 ---
 
 # Market Screener
