@@ -29,6 +29,8 @@ _`pip install dexguru-sdk`_
 
 While we are in Beta, API is free for personal use. After we are out of Beta, we’ll have a free tier and paid tiers based on API calls usage. Paid tier would require you to stake a certain amount of our upcoming token to get access to real-time data.
 
+> Need help with our API or want to provide some feedback? Join our [Community Discord Server](https://discord.gg/dPW8fzwzz9) and head to **#api-questions** channel where you can chat with fellow builders! &#x20;
+
 ### Authorization&#x20;
 
 We currently support requests over HTTP and HTTPS.&#x20;
@@ -48,3 +50,4 @@ ex:
 `curl https://api.dev.dex.guru/v1/chain/ -H 'api-key: YOUR_API_KEY'`
 
 For the complete list of requests, please [refer to this page](https://api.dev.dex.guru/docs).&#x20;
+
