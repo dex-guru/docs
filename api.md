@@ -51,3 +51,12 @@ ex:
 
 For the complete list of requests, please [refer to this page](https://api.dev.dex.guru/docs).&#x20;
 
+
+
+
+
+### SDK at GitHub
+
+{% embed url="https://github.com/dex-guru/dg-sdk-python" %}
+
+{% embed url="https://github.com/dex-guru/dg-sdk-node" %}
