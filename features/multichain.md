@@ -1,6 +1,6 @@
 # Multichain
 
-At DexGuru, we believe in EVM-compatible chains. Currently, we support Ethereum assets ERC-20, Binance Smart Chain assets BEP-20, Polygon Network (previously Matic Network), and Avalanche network assets. \
+At DexGuru, we believe in EVM-compatible chains. Currently, we support Ethereum assets ERC-20, Binance Smart Chain assets BEP-20, Polygon Network (previously Matic Network), Avalanche, Fantom, and Celo network assets. \
 
 
 To trade tokens of a different network, connect a wallet that supports the specific network or change network settings in your wallet. For Metamask network selector looks like this:
