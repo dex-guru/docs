@@ -3,10 +3,10 @@
 Explore on-chain markets in the top left corner. It will show the name of a token, its volume over the last 24 hours, and its price. You can search for tokens and add them to your favorites by pressing the heart button. \
 
 
-Note: Some of our features are only available once you connect a wallet. After connecting it, you will be able to save your favorite tokens by pressing a heart button and change DexGuru settings. DexGuru is a fully non-custodial platform, so the assets in your wallet are always under your control.\
+Note: Some of our features are only available once you connect a wallet. After connecting it, you will be able to save your favorite tokens by pressing a heart button. DexGuru is a fully non-custodial platform, so the assets in your wallet are always under your control.\
 
 
-In this section, you can also see assets at your connected wallet by pressing under the wallet tab. \
+Inside Market Selector, you can also see assets at your connected wallet by pressing under the wallet tab. \
 ****
 
 ![](../../.gitbook/assets/market-selector-01.png)
