@@ -6,6 +6,7 @@
     * [Market Screener](features/market-activity/market-screener.md)
   * [Trading Tools](features/trading-tools.md)
   * [Market Selector](features/market-selector/README.md)
+    * [Ecosystem Switch](features/market-selector/ecosystem-switch.md)
     * [Trending Tab](features/market-selector/trending-tab.md)
   * [DYOR🍄](features/dyor.md)
   * [Multichain](features/multichain.md)
