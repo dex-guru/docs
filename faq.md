@@ -4,9 +4,9 @@
 
 DexGuru is a trading terminal that brings together permissionless, real-time data on every DEX market, on-chain research, powerful analytics, and trade execution capabilities — in one fully integrated UI.
 
-## How orders routed?
+## How **are **orders routed?
 
-Orders being routed thru any 0x API connected exchange:&#x20;
+Orders being routed thru any [0x API](https://0x.org/docs/api) connected exchange:&#x20;
 
 * **on Ethereum network** - Uniswap, Kyber, Curve, Balancer, CREAM, Bancor, mStable, Shell, Swerve, SnowSwap, SushiSwap, DODO, Mooniswap(1inch protocol AMM).
 * **on BSC network** - PancakeSwap, BakerySwap, Mooniswap, DODO\_V2, SushiSwap, Nerve Finance, Belt Finance, Ellipsis. &#x20;
@@ -23,13 +23,13 @@ No, we do not support these types of orders. We do not plan to add these feature
 
 ## Why are token approvals necessary?
 
-When you are using a decentralized exchange that is based on smart contracts, you must first approve each token that you plan to trade. Decentralized exchanges use smart contracts on public blockchains such as Ethereum or BSC to execute transactions. To use a smart contract, you must 1) permit it to validate your token balance, and 2) allow it to transfer the number of tokens that you wish to trade from your wallet.
+When you are using a decentralized exchange that is based on smart contracts, you must first approve each token that you plan to trade. Decentralized exchanges use smart contracts on public blockchains such as Ethereum or BSC to execute transactions. To use a smart contract, you must 1) permit it to validate your token balance and spend tokens on your behalf, and 2) allow it to transfer the number of tokens that you wish to trade from your wallet.
 
 ## What is a "full degen mode"?
 
 ![](.gitbook/assets/market-selector.png)
 
-We use [Ethereum token list standard](https://tokenlists.org)(and [Binance Smart Chain list](https://bsctokenlists.org) for BSC) to check and verify the token smart contract address. At least 2 different token lists should have the token listed to get verified status at our UI. Keep in mind, verified status doesn't mean to be investment advice, a stamp of approval, or any kind of recommendation. It just a sign that a particular token smart contract address is reputable enough and being recognized in the industry with an appropriate ticker.&#x20;
+We use [Ethereum token list standard](https://tokenlists.org)(and [Binance Smart Chain list](https://bsctokenlists.org) for BSC) to check and verify the token smart contract address. At least 2 different token lists should have the token listed to get verified status at our UI. Keep in mind, verified status doesn't mean to be investment advice, a stamp of approval, or any kind of recommendation. It is just a sign that a particular token smart contract address is reputable enough and being recognized in the industry with an appropriate ticker.&#x20;
 
 ## How to add/update token logo?&#x20;
 
@@ -50,7 +50,7 @@ When your exchange would be available at 0x API we can discuss further integrati
 
 ## **How can I invest in your project?**
 
-We good for now, and not looking for new investors.
+We are good for now, and not looking for new investors.
 
 ## When token?
 
@@ -58,9 +58,17 @@ Eventually, we'll have a token. No ETA or any further details to share about it 
 
 
 
-&#x20;
+## **When airdrop?**&#x20;
+
+We aren't doing any airdrops and not speculating on the possibility of future airdrops. We want to make it clear: you won't get anything if you are using DexGuru with an expectation of a future airdrop.
+
+## **0x API estimation error - I can't buy/sell token!**&#x20;
+
+Usually, this error happens for tokens with transaction fees. Try to set a higher slippage 12-15%, if it doesn't help then try to sell this token directly on Pancakeswap. This kind of tokens with built-in transaction fees/huge slippage, doesn't work well with 0x protocol API we use for order routing.
 
 
 
+## **I have a problem with Polygon/Matic**
 
+First of all make sure you are using high-performance RPC endpoints in your wallet: [https://blog.polygon.technology/polygon-rpc-gateway-will-provide-a-free-high-performance-connection-to-the-polygon-pos-blockchain/](https://blog.polygon.technology/polygon-rpc-gateway-will-provide-a-free-high-performance-connection-to-the-polygon-pos-blockchain/)
 
