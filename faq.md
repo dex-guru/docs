@@ -8,6 +8,7 @@ DexGuru is a trading terminal that brings together permissionless, real-time dat
 
 Orders being routed thru any [0x API](https://0x.org/docs/api) connected exchange:&#x20;
 
+
 * **on Ethereum network** - Uniswap, Kyber, Curve, Balancer, CREAM, Bancor, mStable, Shell, Swerve, SnowSwap, SushiSwap, DODO, Mooniswap(1inch protocol AMM).
 * **on BSC network** - PancakeSwap, BakerySwap, Mooniswap, DODO\_V2, SushiSwap, Nerve Finance, Belt Finance, Ellipsis. &#x20;
 * **on Polygon network** - QuickSwap, SushiSwap, mStable, Curve, Dfyn, Cometh, Dodo
