@@ -4,14 +4,14 @@
 
 DexGuru is a trading terminal that brings together permissionless, real-time data on every DEX market, on-chain research, powerful analytics, and trade execution capabilities — in one fully integrated UI.
 
-## How **are **orders routed?
+## How **are** orders routed?
 
 Orders being routed thru any [0x API](https://0x.org/docs/api) connected exchange:&#x20;
 
 * **on Ethereum network** - Uniswap, Kyber, Curve, Balancer, CREAM, Bancor, mStable, Shell, Swerve, SnowSwap, SushiSwap, DODO, Mooniswap(1inch protocol AMM).
 * **on BSC network** - PancakeSwap, BakerySwap, Mooniswap, DODO\_V2, SushiSwap, Nerve Finance, Belt Finance, Ellipsis. &#x20;
 * **on Polygon network** - QuickSwap, SushiSwap, mStable, Curve, Dfyn, Cometh, Dodo
-* **on Avalanche network **- Pangolin, TraderJoe, SushiSwap.
+* **on Avalanche network** - Pangolin, TraderJoe, SushiSwap.
 
 ## Is trading on DexGuru free?
 
@@ -27,7 +27,7 @@ When you are using a decentralized exchange that is based on smart contracts, yo
 
 ## What is a "full degen mode"?
 
-![](.gitbook/assets/market-selector.png)
+![](../.gitbook/assets/market-selector.png)
 
 We use [Ethereum token list standard](https://tokenlists.org)(and [Binance Smart Chain list](https://bsctokenlists.org) for BSC) to check and verify the token smart contract address. At least 2 different token lists should have the token listed to get verified status at our UI. Keep in mind, verified status doesn't mean to be investment advice, a stamp of approval, or any kind of recommendation. It is just a sign that a particular token smart contract address is reputable enough and being recognized in the industry with an appropriate ticker.&#x20;
 

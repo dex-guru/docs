@@ -22,9 +22,9 @@ Types of traders:&#x20;
 
 
 
-We determine the length of the bar by using our custom metric_ m_. The formula below shows how we calculate the_ m _value for each day. The _m _value is calculated over the last 24 hours.&#x20;
+We determine the length of the bar by using our custom metric _m_. The formula below shows how we calculate the _m_ value for each day. The _m_ value is calculated over the last 24 hours.&#x20;
 
-![](<../../.gitbook/assets/image (23).png>)
+![](<../../../.gitbook/assets/image (23).png>)
 
 The _m_ value is similar to the [Speculative Sentiment Index](https://www.fxcm.com/markets/insights/speculative-sentiment-index-ssi/). The ratio inside the formula determines if the _m_ value is positive or negative. If _m_ is positive, more tokens have been bought than sold and vice versa. We multiply the ratio by the number of traders to filter tokens with a high probability of manipulation. For example, when one trader buys most of the token’s supply to drive the price up. \
 \

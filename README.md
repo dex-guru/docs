@@ -6,7 +6,7 @@ The DexGuru Interface provides access to decentralized protocols on Ethereum, BS
 
 ![](<.gitbook/assets/DexGuru Getting Started (1).png>)
 
-**Links**
+## **Links**
 
 Website: [dex.guru](https://dex.guru)&#x20;
 
