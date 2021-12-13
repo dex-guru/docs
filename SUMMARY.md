@@ -8,7 +8,7 @@
     * [Market Screener](general/features/market-activity/market-screener.md)
   * [Trading Tools](general/features/trading-tools.md)
   * [Market Selector](general/features/market-selector/README.md)
-    * [Ecosystem Switch](general/features/market-selector/ecosystem-switch.md)
+    * [Network Switch](general/features/market-selector/network-switch.md)
     * [Trending Tab](general/features/market-selector/trending-tab.md)
   * [DYOR🍄](general/features/dyor.md)
   * [Multichain](general/features/multichain.md)
