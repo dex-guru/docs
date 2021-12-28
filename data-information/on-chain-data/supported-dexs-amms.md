@@ -8,12 +8,14 @@ DexGuru currently supports the following DEXs below.
 
 ## **Ethereum**
 
-| DEX Name   | Date Added         |
-| ---------- | ------------------ |
-| Uniswap V2 | 1st April 2021     |
-| Uniswap V3 | 27th August 2021   |
-| SushiSwap  | 10th November 2021 |
-| KyberSwap  | 19th November 2021 |
+| DEX Name             | Date Added         |
+| -------------------- | ------------------ |
+| Uniswap V2           | 1st April 2021     |
+| Uniswap V3           | 27th August 2021   |
+| SushiSwap            | 10th November 2021 |
+| KyberSwap            | 19th November 2021 |
+| 1inch Exchange       | 27th December 2021 |
+| Crypto.com DeFi Swap | 27th December 2021 |
 
 ## **Binance Smart Chain**
 
@@ -30,6 +32,7 @@ DexGuru currently supports the following DEXs below.
 | WaultSwap          | 27th December 2021 |
 | JetSwap            | 27th December 2021 |
 | Impossible Finance | 27th December 2021 |
+| CheeseSwap         | 27th December 2021 |
 
 ## **Avalanche**
 
@@ -43,6 +46,7 @@ DexGuru currently supports the following DEXs below.
 | Baguette        | 27th December 2021 |
 | Canary Exchange | 27th December 2021 |
 | EmpireDEX       | 27th December 2021 |
+| SushiSwap       | 27th December 2021 |
 
 ## **Fantom**
 
@@ -57,6 +61,9 @@ DexGuru currently supports the following DEXs below.
 | Morpheus Swap  | 27th December 2021 |
 | Elk Finance    | 27th December 2021 |
 | Yoshi Exchange | 27th December 2021 |
+| Dyfn           | 27th December 2021 |
+| SoulSwap       | 27th December 2021 |
+| WakaSwap       | 27th December 2021 |
 
 ## **Polygon**
 
@@ -71,6 +78,8 @@ DexGuru currently supports the following DEXs below.
 | Elk Finance      | 27th December 2021 |
 | CafeSwap         | 27th December 2021 |
 | ApeSwap          | 27th December 2021 |
+| Dyfn             | 27th December 2021 |
+| Uniswap V3       | 27th December 2021 |
 
 ## **Arbitrum**
 
@@ -81,6 +90,7 @@ DexGuru currently supports the following DEXs below.
 
 ## **Celo**
 
-| DEX Name | Date Added         |
-| -------- | ------------------ |
-| UbeSwap  | 10th November 2021 |
+| DEX Name  | Date Added         |
+| --------- | ------------------ |
+| UbeSwap   | 10th November 2021 |
+| SushiSwap | 27th December 2021 |
