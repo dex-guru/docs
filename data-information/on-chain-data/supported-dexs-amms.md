@@ -1,5 +1,5 @@
 ---
-description: 'Last Updated: 13th December 2021'
+description: 'Last Updated: 28th December 2021'
 ---
 
 # Supported DEXs/AMMs
