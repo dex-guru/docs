@@ -66,7 +66,18 @@ All set:&#x20;
 
 ![](../../.gitbook/assets/image\_2021-05-06\_14\_49\_19.png)
 
+### TrustWallet. Change Network
 
+1. Click on a wallet icon at the top right corner of Browser
+2. Choose Wallet Connect on Browser
+3. Scan the QR code on your screen with Trust Wallet App
+4. Select your wallet inside the app
+5. Select the Network inside the app
+6. Approve the signature request in the app
+7. Select "save and leave" in the app
+8. All done
+
+![](<../../.gitbook/assets/image (24).png>)
 
 
 
