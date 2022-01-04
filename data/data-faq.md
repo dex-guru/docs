@@ -14,7 +14,7 @@ We have invested heavily in our data infrastructure. For each chain that we supp
 
 All market data displayed on DexGuru is from on-chain transactions. However, we have included the usage of limited amount of supplemental off-chain data sources to help us provide additional information and context for a better user experience. An example of off-chain data in DexGuru UI is the token logos or information about verified tokens.
 
-For more details, visit [on-chain-data](on-chain-data/ "mention") and [off-chain-data.md](off-chain-data.md "mention") sections_._
+For more details, visit [Broken link](broken-reference "mention") and [off-chain-data-usage.md](off-chain-data-usage.md "mention") sections_._
 
 ## Is there a delay in the data?
 
@@ -31,11 +31,11 @@ Yes! We have an API for developers. View [api.md](../resources/api.md "mention")
 We currently support Ethereum, BSC, Polygon, FTM, Arbitrum, Celo & Avalanche. Our team is always adding and supporting EVM-compatible chains on the DexGuru platform. We're also in the progress of adding some non-EVM chains, so keep on the look out!
 
 \
-For the most complete and updated list of chains on DexGuru, please visit [supported-chains.md](on-chain-data/supported-chains.md "mention").
+For the most complete and updated list of chains on DexGuru, please visit [supported-chains.md](supported-chains.md "mention").
 
 ## Which DEXs (Decentralized Exchanges/AMMs) do you cover?
 
-We prioritize in covering the most popular DEXs on all the chains that we support. For a complete list of supported DEXs, please visit [supported-dexs-amms.md](on-chain-data/supported-dexs-amms.md "mention")
+We prioritize in covering the most popular DEXs on all the chains that we support. For a complete list of supported DEXs, please visit [supported-dexs-amms.md](supported-dexs-amms.md "mention")
 
 {% hint style="info" %}
 We're aiming to connect all major DEXs/AMMs with significant trading volume on EVM compatible chains by the end of 2021.&#x20;
@@ -46,8 +46,6 @@ We're aiming to connect all major DEXs/AMMs with significant trading volume on E
 As mentioned above, we're always looking to add the most popular Chains and corresponding DEXs/AMMs in their ecosystems.&#x20;
 
 If there is a particular chain that you would really love to see on DexGuru, hop onto our [discord server](https://discord.com/invite/dPW8fzwzz9) and let us in the #suggestions channel.
-
-
 
 ## Why are some token prices & different from CoinMarketCap & CoinGecko?
 
@@ -65,7 +63,7 @@ In addition, other sites and wallets have their own methodology in which they de
 
 If these transactions are occurring on a DEX/AMM that is currently not supported on DexGuru then it won't show up. We do our best to cover all the major DEXs/AMMs that have high liquidity and volume.&#x20;
 
-Please check our [supported-dexs-amms.md](on-chain-data/supported-dexs-amms.md "mention") to see if the transaction occurred on a DexGuru supported DEX/AMM.&#x20;
+Please check our [supported-dexs-amms.md](supported-dexs-amms.md "mention") to see if the transaction occurred on a DexGuru supported DEX/AMM.&#x20;
 
 If you believe you found an exception to this case, where a transaction on a supported DEX/AMM is not showing or being accounted for, please send a message on [#support-dexguru channel on our discord](https://discord.com/invite/dPW8fzwzz9).
 
@@ -77,7 +75,7 @@ DexGuru is a fully permission-less. Tokens are automatically listed/indexed onto
 
 If you're trying to search using the Token name, try using the contract address for more accurate results. Sometimes there may be issues with the name in the token contract making it difficult for it be searched and found.&#x20;
 
-Additionally, if the Token has no liquidity or transactions on one of the [supported-dexs-amms.md](on-chain-data/supported-dexs-amms.md "mention") above then it won't be indexed on DexGuru.
+Additionally, if the Token has no liquidity or transactions on one of the [supported-dexs-amms.md](supported-dexs-amms.md "mention") above then it won't be indexed on DexGuru.
 
 ## I saw "X" token on trending, are you guys promoting it?
 

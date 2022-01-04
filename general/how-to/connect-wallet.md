@@ -1,4 +1,4 @@
-# Connect wallet
+# Connect your Wallet
 
 Some of our features are only available once you connect a wallet. After connecting it, you will be able to save your favorite tokens and change DexGuru settings.
 
@@ -77,7 +77,7 @@ All set:&#x20;
 7. Select "save and leave" in the app
 8. All done
 
-![](<../../.gitbook/assets/image (24).png>)
+![](<../../.gitbook/assets/image (24) (1).png>)
 
 
 

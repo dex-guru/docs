@@ -5,4 +5,4 @@ cover: ../../.gitbook/assets/Background.png
 
 # Features
 
-![](<../../.gitbook/assets/DexGuru Getting Started (1).png>)
+![Key Features on Every Token Page](<../../.gitbook/assets/DexGuru Getting Started (1).png>)

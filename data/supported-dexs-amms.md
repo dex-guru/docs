@@ -1,8 +1,12 @@
 ---
-description: 'Last Updated: 28th December 2021'
+description: 'Last Updated: 13th December 2021'
 ---
 
 # Supported DEXs/AMMs
+
+{% hint style="info" %}
+For the time being, for every DEX/AMM that is added onto DexGuru, we currently index and display transaction data **only from the date/time they are implemented**. For more information about this, please check out [data-completeness.md](data-completeness.md "mention").
+{% endhint %}
 
 DexGuru currently supports the following DEXs below.
 
@@ -88,7 +92,7 @@ DexGuru currently supports the following DEXs below.
 | Uniswap V3 | 15th October 2021 |
 | SushiSwap  | 2nd November 2021 |
 
-## **Celo**
+## **CELO**
 
 | DEX Name  | Date Added         |
 | --------- | ------------------ |

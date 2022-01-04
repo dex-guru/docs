@@ -2,7 +2,7 @@
 description: Information and details regarding usage of Off-Chain data sources
 ---
 
-# Off-Chain Data
+# Off-Chain Data Usage
 
 ## Usage of Off-Chain Data Sources
 
@@ -21,6 +21,7 @@ Currently, our usage of off-chain data sources are: &#x20;
   * Max Supply&#x20;
   * Token Rank&#x20;
   * Token Logos Fallback
-* [Token Lists](https://tokenlists.org) for Token Verification
+* [Token Lists](https://tokenlists.org) for Token Verification _(A_ [_Uniswap_](https://uniswap.org) _Project - An Ethereum token list standard)_
+* __[_https://bsctokenlists.org/_](https://bsctokenlists.org)__
 
 Any changes regarding our usage of off-chain data sources, including both additions or removal will be updated here immediately.

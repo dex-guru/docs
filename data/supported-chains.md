@@ -14,4 +14,4 @@ DexGuru currently supports the following chains below.
 | Avalanche           | 19th August 2021   |
 | Arbitrum            | 15th October 2021  |
 | Fantom              | 20th October 2021  |
-| Celo                | 10th November 2021 |
+| CELO                | 10th November 2021 |
