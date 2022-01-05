@@ -29,13 +29,7 @@ We do have future plans to introduce and add premium subscription plans for more
 
 ## How **are Token Swap O**rders being routed?
 
-All swaps on DexGuru are routed through the 0x Protocol API. All orders are optimized through their exchange network.  Below is their currently supported DEX/AMMs.
-
-
-
-\<TABLE> or OUTLINK TO 0X PROTOCOL API documentation. (Waiting for 0x protocol/matcha team to reply with docs)
-
-
+All swaps on DexGuru are routed through the 0x Protocol API. All orders are optimized through their exchange network.&#x20;
 
 For more details about 0x Protocol API and how token swaps work on DexGuru, please visit [swapping-tokens.md](../more-info/swapping-tokens.md "mention")
 
