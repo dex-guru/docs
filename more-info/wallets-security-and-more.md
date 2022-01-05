@@ -34,19 +34,11 @@ For guides and information on how to use the above features, visit [features](..
 
 If you are using MetaMask on desktop, changing your wallet is as simple clicking on the MetaMask icon and changing your wallet there. This will be updated and reflected on DexGuru.
 
-\<GIF>
-
-
-
 _**Note:** If you are changing your wallet that has not previously connected to DexGuru, then you will be asked to sign a transaction to confirm - for more details read the following section_[#whats-a-signature-request-and-why-do-i-need-to-sign-one-when-connecting-to-dexguru](wallets-security-and-more.md#whats-a-signature-request-and-why-do-i-need-to-sign-one-when-connecting-to-dexguru "mention")
 
 ## **Can I remove my wallet from DexGuru?**
 
 Removing your wallet is as simple as clicking on the wallet icon and pressing on **"Disconnect Wallet"**.
-
-\<GIF>
-
-***
 
 ## **Is DexGuru safe to connect my wallet to?**
 
