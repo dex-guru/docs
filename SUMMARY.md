@@ -44,5 +44,5 @@
 
 ## More
 
-* [Need more help? Join our Discord](https://discord.com/invite/dPW8fzwzz9)
-* [DexGuru App](https://dex.guru)
+* [🕹 Need more help? Join our Discord](https://discord.com/invite/dPW8fzwzz9)
+* [💻 DexGuru App](https://dex.guru)

@@ -98,3 +98,9 @@ DexGuru currently supports the following DEXs below.
 | --------- | ------------------ |
 | UbeSwap   | 10th November 2021 |
 | SushiSwap | 27th December 2021 |
+
+## Optimism
+
+| DEX Name   | Date Added    |
+| ---------- | ------------- |
+| Uniswap v3 | _Coming Soon_ |

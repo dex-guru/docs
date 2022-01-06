@@ -16,6 +16,8 @@ By integrating and using 0x Protocol API to route orders, we're able to offer De
 
 For more information about 0x Protocol, visit their [official site](https://0x.org) and check out their [performance analysis](https://blog.0xproject.com/a-comprehensive-analysis-on-dex-liquidity-aggregators-performance-dfb9654b0723) to see how they come out on top when compared with other DEX liquidity aggregators!
 
+For more information on how swaps are routed and which DEXs are being used, check out [#how-are-swaps-routed-which](swapping-tokens.md#how-are-swaps-routed-which "mention")
+
 ## **How do I know my swap orders conducted with my wallet are safe?**
 
 As discussed above, when trading on DexGuru all your token approvals and orders are interacting with the 0x Protocol API through their **"0x: Exchange Proxy"** smart contract at: [_**0xdef1c0ded9bec7f1a1670819833240f027b25eff**_](https://etherscan.io/address/0xdef1c0ded9bec7f1a1670819833240f027b25eff)&#x20;
@@ -34,24 +36,27 @@ Whilst inside the actual transaction details, you should see the full smart cont
 And as with navigating on Web3.0, you should always double & triple check every contract interaction before confirming to ensure you know exactly how a contract is going to interact with your wallet _(Even on DexGuru!)_.
 
 {% hint style="success" %}
-To date, DexGuru traders have done almost $800 Million USD equivalent in transaction volume with almost \~1 Million transactions directly on the DexGuru platform and we've only just begun. Feel rest assured you’re amongst great company when swapping on DexGuru!
+To date, DexGuru traders have done almost $800 Million USD equivalent in transaction volume with almost \~1 Million transactions completed directly on the DexGuru platform and we've only just begun! :rocket:
 
 __\
 _For more analytics & statistics about token swaps being performed on DexGuru, feel free to view our publicly available_ [_dashboard here_](https://metabase.spaceship.0x.org/public/dashboard/e79bb86a-6777-4655-88fd-6453fdbefe0f?affiliate\_address=0x720c9244473dfc596547c1f7b6261c7112a3dad4)_._
 {% endhint %}
 
-## **What chains are supported for swaps?**
+## **How are my swaps routed? And which chains are supported for swaps?**&#x20;
 
-As we use 0x Protocol API to route our orders, as a result you will only be able to support on Chains that are supported and added by 0x Protocol.
+All swaps are routed through 0x Protocol's extensive liquidity network which also includes most popular DEXs and their liquidity pools as well. You may find that your swap may be routed across more than 1 DEX as 0x Protocol optimizes your order to be filled with the lowest slippage possible. :raised\_hands:
 
-The following chains are currently supported:&#x20;
+Below are the chains we currently support Token Swaps for, along with the network of DEXs/AMMs/Protocols your swap could routed and optimized through:
 
-* Ethereum
-* Polygon (Matic)
-* Binance Smart Chain (BSC)
-* Avalanche
-* Fantom
-* CELO
+| Chain                     | Routed DEXs/AMMs & Protocols                                                                                                                                                                                                                                                                   |
+| ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Ethereum                  | 0x, Balancer, Balancer\_V2, Bancor, Component, CREAM, CryptoCom, Curve, Curve\_V2, DODO, DODO\_V2, Eth2Dai, Kyber, KyberDMM, Lido, Linkswap, MakerPsm, Mooniswap, mStable, MultiHop, Saddle, Shell, ShibaSwap, Smoothy, SnowSwap, SushiSwap, Swerve, Uniswap, Uniswap\_V2, Uniswap\_V3, xSigma |
+| Polygon (Matic)           | Aave\_V2, ApeSwap, Balancer\_V2, ComethSwap, Curve, Curve\_V2, Dfyn, DODO, DODO\_V2, FirebirdOneSwap, IronSwap, JetSwap, KyberDMM, mStable, MultiHop, Polydex, QuickSwap, SushiSwap, Uniswap\_V3, WaultSwap                                                                                    |
+| Binance Smart Chain (BSC) | ACryptoS, ApeSwap, BakerySwap, Belt, CafeSwap, CheeseSwap, DODO, DODO\_V2, Ellipsis, FirebirdOneSwap, JetSwap, JulSwap, KyberDMM, Mooniswap, MultiHop, Nerve, PancakeSwap, PancakeSwap\_V2, Smoothy, SushiSwap, WaultSwap                                                                      |
+| Avalanche                 | Aave\_V2, Curve, Curve\_V2, KyberDMM, MultiHop, Pangolin, SushiSwap, TraderJoe                                                                                                                                                                                                                 |
+| Fantom                    | Beethovenx, Curve, Curve\_V2, JetSwap, MorpheusSwap, MultiHop, SpiritSwap, SpookySwap, SushiSwap                                                                                                                                                                                               |
+| CELO                      | MultiHop, SushiSwap, UbeSwap                                                                                                                                                                                                                                                                   |
+| Optimism                  | _Coming Soon_                                                                                                                                                                                                                                                                                  |
 
 ## I **bought/sold** "X" Token but received less than the amount displayed
 
