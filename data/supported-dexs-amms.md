@@ -1,5 +1,5 @@
 ---
-description: 'Last Updated: 28th December 2021'
+description: 'Last Updated: 10th January 2022'
 ---
 
 # Supported DEXs/AMMs
@@ -101,6 +101,6 @@ DexGuru currently supports the following DEXs below.
 
 ## Optimism
 
-| DEX Name   | Date Added    |
-| ---------- | ------------- |
-| Uniswap v3 | _Coming Soon_ |
+| DEX Name   | Date Added        |
+| ---------- | ----------------- |
+| Uniswap v3 | 10th January 2022 |
