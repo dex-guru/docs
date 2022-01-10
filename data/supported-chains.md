@@ -15,4 +15,4 @@ DexGuru currently supports the following chains below.
 | Arbitrum            | 15th October 2021  |
 | Fantom              | 20th October 2021  |
 | CELO                | 10th November 2021 |
-| Optimism            | 10th January 2022  |
+| Optimism            | Coming Soon        |
