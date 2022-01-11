@@ -101,6 +101,6 @@ DexGuru currently supports the following DEXs below.
 
 ## Optimism
 
-| DEX Name   | Date Added  |
-| ---------- | ----------- |
-| Uniswap v3 | Coming Soon |
+| DEX Name   | Date Added        |
+| ---------- | ----------------- |
+| Uniswap v3 | 10th January 2022 |
