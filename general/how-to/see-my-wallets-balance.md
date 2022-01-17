@@ -2,15 +2,18 @@
 description: and check its activity
 ---
 
-# See my wallet's balance
+# Check Wallet Balance
 
 All transactions and actions with your wallet on a blockchain are recorded; you can check them by using one of the blockchain explorers below.&#x20;
 
 [**Etherscan**](https://etherscan.io) **** is a Block Explorer for Ethereum Network. \
 ****[**BscScan**](https://bscscan.com) **** is a Block Explorer for Binance Smart Chain. \
 [**Polygonscan**](https://polygonscan.com) **** for Polygon Network. \
-[**Avascan**](https://avascan.info) **** for Avalanche Network. \
-
+[**SnowTrace**](https://snowtrace.io) **** for Avalanche Network. \
+[**FTMScan**](https://ftmscan.com) for Fantom Network. \
+[**ArbiScan**](https://arbiscan.io) for Arbitrum Network. \
+[**Optimistic Ethereum Etherscan**](https://optimistic.etherscan.io) for Optimism Network. \
+[**Celo Explorer**](https://explorer.celo.org) for CELO Network.
 
 If you do not see assets in your wallet, it is a good idea to check your wallet’s address on a blockchain explorer. Use **** [**Etherscan**](https://etherscan.io) **** for **Ethereum** transactions, [**BscScan**](https://bscscan.com) **** for **Binance Smart Chain** transactions, and so on. **** \
 ****
