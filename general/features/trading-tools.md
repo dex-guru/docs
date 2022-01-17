@@ -32,7 +32,7 @@ The Swap Confirmation pop-up lets you know if you do not have sufficient balance
 ![Insufficient balance](<../../.gitbook/assets/image (11).png>)
 
 ****\
-****We use 0x API to route orders most efficiently. Orders being routed thru any 0x API connected exchange:&#x20;
+****We use 0x API to route orders most efficiently. Orders being routed through any 0x API connected exchange:&#x20;
 
 on Ethereum network - Uniswap, Kyber, Curve, Balancer, CREAM, Bancor, mStable, Shell, Swerve, SnowSwap, SushiSwap, DODO, Mooniswap(1inch protocol AMM).
 
