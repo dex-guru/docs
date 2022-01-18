@@ -56,7 +56,7 @@ Below are the chains we currently support Token Swaps for, along with the networ
 | Avalanche                 | Aave\_V2, Curve, Curve\_V2, KyberDMM, MultiHop, Pangolin, SushiSwap, TraderJoe                                                                                                                                                                                                                 |
 | Fantom                    | Beethovenx, Curve, Curve\_V2, JetSwap, MorpheusSwap, MultiHop, SpiritSwap, SpookySwap, SushiSwap                                                                                                                                                                                               |
 | CELO                      | MultiHop, SushiSwap, UbeSwap                                                                                                                                                                                                                                                                   |
-| Optimism                  | _Coming Soon_                                                                                                                                                                                                                                                                                  |
+| Optimism                  | Uniswap\_V3                                                                                                                                                                                                                                                                                    |
 
 ## I **bought/sold** "X" Token but received less than the amount displayed
 
