@@ -1,4 +1,6 @@
-# Token Liquidity
+# Pool Activity
+
+![](<../../.gitbook/assets/image (13).png>)
 
 
 
@@ -15,5 +17,12 @@ Note: We measure liquidity $ value for a token, not for a trading pair. ****&#x2
 \
 
 
-![](<../../.gitbook/assets/image (13).png>)
+### Liquidity Provider Categories:
 
+![](<../../.gitbook/assets/Screen Shot 2022-01-18 at 9.54.51 AM.png>)
+
+🐓 - Liquidity Provider constantly has had $10k-$100k inside Liquidity Pools during the last 30 days.
+
+🐅 - Liquidity Provider constantly has had $100k-$500k locked inside Liquidity Pools during the last 30 days.
+
+🐘 - Liquidity Provider constantly has had $500k+ locked inside Liquidity Pools during the last 30 days.
