@@ -1,5 +1,5 @@
 ---
-description: (aka Trading History)
+description: (aka Market Activity)
 ---
 
 # Market Activity
@@ -21,5 +21,5 @@ If we have enough data about the wallet that a trader used, we will add an icon 
 🤖 - Trader with 1000+ TXs in the last 30 days. Most likely a bot.\
 
 
-![](<../../../.gitbook/assets/image (17).png>)
+![](<../../.gitbook/assets/image (17).png>)
 

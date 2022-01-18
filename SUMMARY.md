@@ -10,6 +10,7 @@
   * [Check Wallet Balance](general/how-to/see-my-wallets-balance.md)
 * [Features](general/features/README.md)
   * [Market Activity](general/features/market-activity.md)
+  * [Token Liquidity](general/features/token-liquidity.md)
   * [Market Screener](general/features/market-screener.md)
   * [Trading Tools](general/features/trading-tools.md)
   * [Market Selector](general/features/market-selector/README.md)
@@ -17,7 +18,6 @@
     * [Trending Tab](general/features/market-selector/trending-tab.md)
   * [DYOR🍄](general/features/dyor.md)
   * [Multichain](general/features/multichain.md)
-  * [Token Liquidity](general/features/token-liquidity.md)
 * [FAQ](general/faq.md)
 * [Troubleshooting Errors](general/troubleshooting-errors.md)
 
