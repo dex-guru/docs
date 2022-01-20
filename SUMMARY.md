@@ -9,7 +9,7 @@
   * [Enable Price Alerts](general/how-to/enable-price-alerts.md)
   * [Check Wallet Balance](general/how-to/see-my-wallets-balance.md)
 * [Features](general/features/README.md)
-  * [Trading History](general/features/trading-history.md)
+  * [Market Activity](general/features/trading-history.md)
   * [Token Liquidity](general/features/token-liquidity.md)
   * [Market Screener](general/features/market-screener.md)
   * [Trading Tools](general/features/trading-tools.md)

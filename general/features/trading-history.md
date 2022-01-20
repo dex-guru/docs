@@ -1,8 +1,8 @@
 ---
-description: (aka Market Activity)
+description: aka Trading History
 ---
 
-# Trading History
+# Market Activity
 
 You can see a real-time transaction flow in our Trading History area.&#x20;
 
