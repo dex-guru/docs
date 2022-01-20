@@ -1,8 +1,8 @@
 ---
-description: aka Pool Activity
+description: aka Token Liquidity
 ---
 
-# Token Liquidity
+# Pool Activity
 
 
 
@@ -27,8 +27,8 @@ Note: We measure liquidity $ value for a token, not for a trading pair. ****&#x2
 
 ![](<../../.gitbook/assets/Screen Shot 2022-01-18 at 9.54.51 AM.png>)
 
-🐓 (Rooster) - During the last 30 days, this Liquidity Provider continuously has had $10k-$100k locked inside different liquidity pools across all supported chains.
+🐓 - Liquidity Provider constantly has had $10k-$100k inside Liquidity Pools during the last 30 days.
 
-🐅 (Tiger) - During the last 30 days, this Liquidity Provider continuously has had $100k-$500k locked inside different liquidity pools across all supported chains.
+🐅 - Liquidity Provider constantly has had $100k-$500k locked inside Liquidity Pools during the last 30 days.
 
-🐘 (Elephant) - During the last 30 days, this Liquidity Provider continuously has had $500k+ locked inside different liquidity pools across all supported chains.
+🐘 - Liquidity Provider constantly has had $500k+ locked inside Liquidity Pools during the last 30 days.
