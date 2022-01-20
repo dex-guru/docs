@@ -10,7 +10,7 @@
   * [Check Wallet Balance](general/how-to/see-my-wallets-balance.md)
 * [Features](general/features/README.md)
   * [Trading History](general/features/trading-history.md)
-  * [Pool Activity](general/features/token-liquidity.md)
+  * [Token Liquidity](general/features/token-liquidity.md)
   * [Market Screener](general/features/market-screener.md)
   * [Trading Tools](general/features/trading-tools.md)
   * [Market Selector](general/features/market-selector/README.md)
