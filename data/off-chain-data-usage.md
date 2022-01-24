@@ -59,7 +59,7 @@ Below is the complete list of Token Lists that are currently being used:
 
 * ****[Top 15 Tokens](https://raw.githubusercontent.com/pangolindex/tokenlists/main/top15.tokenlist.json)
 * [AVAX Bridge Tokens](https://raw.githubusercontent.com/pangolindex/tokenlists/main/ab.tokenlist.json)
-* [AEB Tokens](https://raw.githubusercontent.com/pangolindex/tokenlists/main/aeb.tokenlist.json)
+* [AVAX - Ethereum Bridge Tokens](https://raw.githubusercontent.com/pangolindex/tokenlists/main/aeb.tokenlist.json)
 * [AVAX DeFi Tokens](https://raw.githubusercontent.com/pangolindex/tokenlists/main/defi.tokenlist.json)
 * [AVAX Stablecoins](https://raw.githubusercontent.com/pangolindex/tokenlists/main/stablecoin.tokenlist.json)
 * [Fuji Token List](https://raw.githubusercontent.com/pangolindex/tokenlists/main/fuji.tokenlist.json)
