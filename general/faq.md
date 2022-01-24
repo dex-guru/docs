@@ -49,7 +49,7 @@ For more in-depth information about Signature Requests, Token Approvals and usin
 
 ![Full Degen Mode in the bottom portion of the DexGuru Market Selector](../.gitbook/assets/market-selector.png)
 
-Tokens that are fall under the Full Degen Mode in the [market-selector](features/market-selector/ "mention") are tokens that are not on at least 2 verified Token Lists.&#x20;
+Tokens that are fall under the Full Degen Mode in the [market-selector](features/market-selector/ "mention") are tokens that are not on at least one verified Token List.&#x20;
 
 ### **What exactly are token lists?**
 
@@ -64,7 +64,7 @@ Directly from Uniswap's [official blog post on Token Lists](https://uniswap.org/
 
 For more information about Token Lists, check out the full [Uniswap official blog post](https://uniswap.org/blog/token-lists) that covers everything you need to know.
 
-For more information on the exact sources of the token lists that we use, check out [off-chain-data-usage.md](../data/off-chain-data-usage.md "mention").
+For more information on the exact sources of the token lists that we use, check out [#usage-of-token-lists](../data/off-chain-data-usage.md#usage-of-token-lists "mention").
 
 ### How we use Token Lists on DexGuru
 

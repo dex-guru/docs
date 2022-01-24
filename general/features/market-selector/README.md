@@ -18,8 +18,14 @@ There is no need to use your computer mouse to open our Market Selector; use hot
 \
 
 
-## What is a "full degen mode"?
+## What is the "Full Degen Mode" ?
 
 ![](<../../../.gitbook/assets/market-selector (1).png>)
 
-We use [Ethereum token list standard](https://tokenlists.org) to check and verify the token smart contract address. At least 2 different token lists should have the token listed to get verified status at our UI. Keep in mind, verified status doesn't mean to be investment advice, a stamp of approval, or any kind of recommendation. It just a sign that a particular token smart contract address is reputable enough and being recognized in the industry with an appropriate ticker.&#x20;
+Tokens that are fall under the Full Degen Mode in the [.](./ "mention") are tokens that are not on at least one verified Token List.&#x20;
+
+For detailed and complete information about Full Degen mode and token lists, please visit:
+
+* [#what-is-the-full-degen-mode-inside-the-market-selector](../../faq.md#what-is-the-full-degen-mode-inside-the-market-selector "mention")&#x20;
+* [#what-exactly-are-token-lists](../../faq.md#what-exactly-are-token-lists "mention")
+* [#how-we-use-token-lists-on-dexguru](../../faq.md#how-we-use-token-lists-on-dexguru "mention")

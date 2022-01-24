@@ -1,5 +1,5 @@
 ---
-description: 'Last Updated: 10th January 2022'
+description: 'Last Updated: 24th January 2022'
 ---
 
 # Supported DEXs/AMMs
@@ -17,15 +17,17 @@ DexGuru currently supports the following DEXs below.
 | Uniswap V2           | 1st April 2021     |
 | Uniswap V3           | 27th August 2021   |
 | SushiSwap            | 10th November 2021 |
-| KyberSwap            | 19th November 2021 |
+| Kyber Network        | 19th November 2021 |
 | 1inch Exchange       | 27th December 2021 |
 | Crypto.com DeFi Swap | 27th December 2021 |
+| Swapr                | 14th January 2022  |
+| Standard Protocol    | 14th January 2022  |
 
 ## **Binance Smart Chain**
 
 | DEX Name           | Date Added         |
 | ------------------ | ------------------ |
-| Pancake Swap       | 1st April 2021     |
+| PancakeSwap        | 1st April 2021     |
 | ApeSwap            | 27th December 2021 |
 | JulSwap            | 27th December 2021 |
 | SafeSwap           | 27th December 2021 |
@@ -37,6 +39,11 @@ DexGuru currently supports the following DEXs below.
 | JetSwap            | 27th December 2021 |
 | Impossible Finance | 27th December 2021 |
 | CheeseSwap         | 27th December 2021 |
+| YieldFields        | 14th January 2022  |
+| United Farmers     | 14th January 2022  |
+| Kyber Network      | 14th January 2022  |
+| BiSwap             | 14th January 2022  |
+| SushiSwap          | 19th January 2022  |
 
 ## **Avalanche**
 
@@ -84,6 +91,10 @@ DexGuru currently supports the following DEXs below.
 | ApeSwap          | 27th December 2021 |
 | Dyfn             | 27th December 2021 |
 | Uniswap V3       | 27th December 2021 |
+| Kyber Network    | 14th January 2022  |
+| SushiSwap        | 14th January 2022  |
+| Polycat Finance  | 14th January 2022  |
+| Gravity Finance  | 14th January 2022  |
 
 ## **Arbitrum**
 
@@ -91,6 +102,8 @@ DexGuru currently supports the following DEXs below.
 | ---------- | ----------------- |
 | Uniswap V3 | 15th October 2021 |
 | SushiSwap  | 2nd November 2021 |
+| Swpr       | 14th January 2022 |
+| Dfyn       | 14th January 2022 |
 
 ## **CELO**
 
