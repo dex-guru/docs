@@ -24,7 +24,7 @@ _If you need to receive data even faster, you may need to run your own nodes!_
 
 ## Do you have an API where I can access the data?
 
-Yes! We have an API for developers. View [api.md](../resources/api.md "mention") for more information on how to get started.&#x20;
+Yes! We have an API for developers. Visit our [Public API documentaion](https://api.dev.dex.guru/docs) for more information on how to get started.&#x20;
 
 ## Which Blockchains (L1s & L2s) do you cover?
 
