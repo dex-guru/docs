@@ -1,5 +1,5 @@
 ---
-description: 'Last Updated: 24th January 2022'
+description: 'Last Updated: 28th January 2022'
 ---
 
 # Supported DEXs/AMMs
@@ -21,6 +21,7 @@ DexGuru currently supports the following DEXs below.
 | Crypto.com DeFi Swap | 27th December 2021 |
 | Swapr                | 14th January 2022  |
 | Standard Protocol    | 14th January 2022  |
+| ShibaSwap            | 28th January 2022  |
 
 ## **Binance Smart Chain**
 
