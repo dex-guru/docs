@@ -47,7 +47,7 @@ For more in-depth information about Signature Requests, Token Approvals and usin
 
 ## What is the "Full Degen Mode" inside the Market Selector?
 
-![Full Degen Mode in the bottom portion of the DexGuru Market Selector](../.gitbook/assets/market-selector.png)
+![Degen Mode in the bottom portion of the DexGuru Market Selector](../.gitbook/assets/market-selector.png)
 
 Tokens that are fall under the Full Degen Mode in the [market-selector](features/market-selector/ "mention") are tokens that are not on at least one verified Token List.&#x20;
 
@@ -78,15 +78,27 @@ As always, DYOR, double check all Token contract addresses that you're interacti
 _You may have previously seen the button "Manage Token Lists" when selecting tokens to swap on leading DEXs, the lists that appear there are likely to be the same ones that we use!_
 {% endhint %}
 
+### Why are Recently Listed Tokens under Degen Mode?
+
+For the vast majority of cases, Tokens shown in the Recently Listed tab will also fall under Degen Mode due to their recency of being created within the past 24 hours. During this time period, it is very unlikely that these tokens have been able to been verified into an existing established Token and as a result will fall under Degen Mode.
+
 ## How can I add/update a Token's Logo?&#x20;
 
-All token logos are being pulled directly from [Trust Wallet's Asset Repo](https://github.com/trustwallet/assets) for Token Logos. If you are a developer looking to update their Token Logo, please visit Trust Wallet's Asset Repo and follow their instructions on "How to add Logo".
+Currently Token logos are being pulled from 3 off-chain data sources, if one source does not contain a Token's Logo, then the next one will be used. They are listed and ranked below in terms of priority:
+
+* [DexGuru Asset Repo](https://github.com/dex-guru/assets)&#x20;
+* [Trust Wallet's Asset Repo](https://github.com/trustwallet/assets)&#x20;
+* [Coingecko's API](https://www.coingecko.com/en/api/documentation)&#x20;
+
+If you are looking to update a Token's logo, you can do it directly on the [DexGuru Asset Repo](https://github.com/dex-guru/assets). You will need make a PR request with your token logo into the `token// folder` with a `<checsum_address>.svg|png` filename. For full list of requirements and instructions, please visit our [Asset Repo](https://github.com/dex-guru/assets).&#x20;
+
+Alternatively, you may visit Trust Wallet's Asset Repo & CoinGecko to update your Token Assets through their channels.
 
 For more information about how Token data is pulled and displayed on DexGuru, please visit our [Broken link](broken-reference "mention") section.
 
 ## What does the :thinking: Emoji mean on Token Logos?
 
-The :thinking: is used a placeholder for Tokens that currently do not have their Logo updated on the [Trust Wallet's Asset Repo](https://github.com/trustwallet/assets) where we pull token logos from.&#x20;
+The :thinking: is used a placeholder for Tokens that currently do not have their Logos in one of the sources listed above in [#how-can-i-add-update-a-tokens-logo](faq.md#how-can-i-add-update-a-tokens-logo "mention")
 
 ## What is the process for getting a new Token listed on DexGuru?
 

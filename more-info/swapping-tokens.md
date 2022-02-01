@@ -31,7 +31,7 @@ When a swap is successfully completed through DexGuru, you should see this in yo
 Whilst inside the actual transaction details, you should see the full smart contract address you’ve interacted with, as below:\
 
 
-![Transaction Details on EtherScan](<../.gitbook/assets/image (25).png>)
+![Transaction Details on EtherScan](<../.gitbook/assets/image (25) (1).png>)
 
 And as with navigating on Web3.0, you should always double & triple check every contract interaction before confirming to ensure you know exactly how a contract is going to interact with your wallet _(Even on DexGuru!)_.
 
