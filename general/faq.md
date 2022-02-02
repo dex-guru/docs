@@ -1,5 +1,7 @@
 ---
 description: Most commonly asked questions from the DexGuru community.
+cover: ../.gitbook/assets/fag.jpg
+coverY: 0
 ---
 
 # FAQ
