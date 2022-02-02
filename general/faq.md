@@ -1,6 +1,6 @@
 ---
 description: Most commonly asked questions from the DexGuru community.
-cover: ../.gitbook/assets/fag.jpg
+cover: ../.gitbook/assets/fag2.jpg
 coverY: 0
 ---
 
