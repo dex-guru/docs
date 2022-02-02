@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/Price Charts.jpg
+coverY: 0
+---
+
 # Price Charts
 
 ## How are price charts displayed on DexGuru?
