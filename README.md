@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/Getting Started.jpg
+coverY: 0
+---
+
 # DexGuru Getting Started
 
 DexGuru is a trading terminal made for traders in DeFi era, leveraging on-chain analytics combined with token swap execution capabilities.&#x20;
