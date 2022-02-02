@@ -77,7 +77,7 @@ All set:&#x20;
 7. Select "save and leave" in the app
 8. All done
 
-![](<../../.gitbook/assets/image (24) (1) (1).png>)
+![](<../../.gitbook/assets/image (24) (1) (1) (1).png>)
 
 
 
