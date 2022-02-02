@@ -1,5 +1,7 @@
 ---
 description: Guidance on how to deal and solve common errors.
+cover: ../.gitbook/assets/Troubleshooting Errors.jpg
+coverY: 0
 ---
 
 # Troubleshooting Errors
