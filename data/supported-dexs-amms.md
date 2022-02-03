@@ -1,5 +1,7 @@
 ---
 description: 'Last Updated: 28th January 2022'
+cover: ../.gitbook/assets/AMMs.jpg
+coverY: 0
 ---
 
 # Supported DEXs/AMMs

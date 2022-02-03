@@ -1,5 +1,7 @@
 ---
 description: Frequently Asked Questions regarding Data on DexGuru
+cover: ../.gitbook/assets/Data FAQ.jpg
+coverY: 0
 ---
 
 # Data FAQ

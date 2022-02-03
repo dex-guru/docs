@@ -2,6 +2,8 @@
 description: >-
   Information and more details about buying and selling tokens directly on the
   DexGuru platform
+cover: ../.gitbook/assets/Swapping Tokens.jpg
+coverY: 0
 ---
 
 # Swapping Tokens

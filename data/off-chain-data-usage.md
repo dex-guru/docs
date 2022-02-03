@@ -2,6 +2,8 @@
 description: >-
   Information and details regarding usage of Off-Chain data sources. Last
   updated: 25th January 20
+cover: ../.gitbook/assets/Off Chain Data Usage.jpg
+coverY: 0
 ---
 
 # Off-Chain Data Usage

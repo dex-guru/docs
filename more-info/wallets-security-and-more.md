@@ -2,6 +2,8 @@
 description: >-
   Everything you need to know when you connect your wallet with DexGuru & tips
   on staying safe on Web 3.0!
+cover: ../.gitbook/assets/Wallets, Security & More.jpg
+coverY: 0
 ---
 
 # Wallets, Security & More

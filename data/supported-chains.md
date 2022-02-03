@@ -1,5 +1,7 @@
 ---
 description: 'Last Updated: 10th January 2022'
+cover: ../.gitbook/assets/Supported Chains2.jpg
+coverY: 0
 ---
 
 # Supported Chains

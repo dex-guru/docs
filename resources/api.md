@@ -1,5 +1,7 @@
 ---
 description: DexGuru Public API
+cover: ../.gitbook/assets/API.jpg
+coverY: 0
 ---
 
 # API
