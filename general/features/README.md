@@ -1,6 +1,6 @@
 ---
 coverY: 0
-cover: ../../.gitbook/assets/Background.png
+cover: ../../.gitbook/assets/All.jpg
 ---
 
 # Features

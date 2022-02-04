@@ -2,7 +2,11 @@
 description: How to trade on DexGuru?
 ---
 
-# Buy/Sell
+# Buying & Selling Tokens
+
+**\<For more info about how Buying & Selling tokens work under the hood, please visit** [swapping-tokens.md](../../more-info/swapping-tokens.md "mention") section> This section is a practical guide on trading directly on DexGuru
+
+****
 
 **1. Firstly, you need to** [**connect your wallet**](https://docs.dex.guru/how-to/connect-wallet)**.**
 
