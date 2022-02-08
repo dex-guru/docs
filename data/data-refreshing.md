@@ -1,3 +1,10 @@
+---
+description: >-
+  In this article, we go over different values that are shown on our platforms
+  and go into details about how often they are updated and how we calculate
+  them.
+---
+
 # Data Refreshing
 
 ## Main Page
