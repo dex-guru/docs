@@ -14,12 +14,13 @@ For the time being, a complete list of DEXs dates and their added date are avail
 
 ### Types of Transactions&#x20;
 
-Currently, we only support the following types of transactions:&#x20;
+We only show swaps, mints, and burns from [supported-dexs-amms.md](supported-dexs-amms.md "mention")&#x20;
 
-1. **Swap** - an exchange of one token for another.
+Currently, we only support the following types of transactions:
+
+1. **Swap** - an exchange of one token for another.&#x20;
    * Buy&#x20;
    * Sell&#x20;
 2. **Mint** - adding liquidity to a liquidity pool.&#x20;
 3. **Burn** - removing liquidity from a liquidity pool.&#x20;
-4. **Transfer** - trasfering tokens from one account to another.&#x20;
 
