@@ -1,5 +1,5 @@
 ---
-description: 'Last Updated: 28th January 2022'
+description: 'Last Updated: 11th February 2022'
 cover: ../.gitbook/assets/AMMs.jpg
 coverY: 0
 ---
@@ -77,6 +77,7 @@ DexGuru currently supports the following DEXs below.
 | Dyfn           | 27th December 2021 |
 | SoulSwap       | 27th December 2021 |
 | WakaSwap       | 27th December 2021 |
+| Solidy         | 11th February 2022 |
 
 ## **Polygon**
 
