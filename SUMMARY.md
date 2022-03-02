@@ -16,8 +16,9 @@
   * [Market Selector](general/features/market-selector/README.md)
     * [Network Switch](general/features/market-selector/network-switch.md)
     * [Trending Tab](general/features/market-selector/trending-tab.md)
-  * [DYOR🍄](general/features/dyor.md)
   * [Multichain](general/features/multichain.md)
+  * [Token Profile - DYOR 🍄](general/features/dyor.md)
+  * [Trader Profile 🐋](general/features/trader-profile.md)
 * [FAQ](general/faq.md)
 * [Troubleshooting Errors](general/troubleshooting-errors.md)
 
@@ -35,6 +36,7 @@
 * [Supported Chains](data/supported-chains.md)
 * [Supported DEXs/AMMs](data/supported-dexs-amms.md)
 * [Off-Chain Data Usage](data/off-chain-data-usage.md)
+* [Incident Reports](data/incident-reports.md)
 
 ## Other Resources <a href="#resources" id="resources"></a>
 

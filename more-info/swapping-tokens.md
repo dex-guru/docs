@@ -28,7 +28,7 @@ As discussed above, when trading on DexGuru all your token approvals and orders 
 
 When a swap is successfully completed through DexGuru, you should see this in your transaction list on your Block Explorer:
 
-![Transaction List on EtherScan](<../.gitbook/assets/image (29).png>)
+![Transaction List on EtherScan](<../.gitbook/assets/image (29) (1).png>)
 
 Whilst inside the actual transaction details, you should see the full smart contract address you’ve interacted with, as below:\
 

@@ -85,6 +85,9 @@ Below is the complete list of Token Lists that are currently being used:
 ### Polygon
 
 * [CoinGecko Polygon Token List](https://tokens.coingecko.com/polygon-pos/all.json)
+* [Polygon All Tokens List](https://api-polygon-tokens.polygon.technology/tokenlists/allTokens.tokenlist.json)
+* [Polygon Default Token List](https://api-polygon-tokens.polygon.technology/tokenlists/default.tokenlist.json)
+* [Quickswap Default Token List](https://unpkg.com/quickswap-default-token-list@1.2.25/build/quickswap-default.tokenlist.json)
 
 ### Avalanche
 

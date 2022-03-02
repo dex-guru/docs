@@ -82,7 +82,7 @@ _You may have previously seen the button "Manage Token Lists" when selecting tok
 
 ### Why are Recently Listed Tokens under Degen Mode?
 
-![Recently Listed tab in Market Selector](<../.gitbook/assets/image (27).png>)
+![Recently Listed tab in Market Selector](<../.gitbook/assets/image (27) (1).png>)
 
 For the vast majority of cases, Tokens shown in the Recently Listed tab will also fall under Degen Mode due to their recency of being created within the past 24 hours. During this time period, it is very unlikely that these tokens have been able to been verified into an existing established Token and as a result will fall under Degen Mode.
 
