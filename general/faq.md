@@ -47,7 +47,7 @@ Additionally, you will be asked for token approvals before swapping a token on D
 
 For more in-depth information about Signature Requests, Token Approvals and using your Wallet on DexGuru, check out the [wallets-security-and-more.md](../more-info/wallets-security-and-more.md "mention") section.
 
-## What is the "Full Degen Mode" inside the Market Selector?
+## What is the "Full Degen Mode" inside the Market Selector aka Unverified Tokens?
 
 ![Degen Mode in the bottom portion of the DexGuru Market Selector](<../.gitbook/assets/image (25).png>)
 
