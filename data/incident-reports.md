@@ -4,11 +4,11 @@ description: Reports of Incidents affecting DexGuru Data
 
 # Incident Reports
 
-## **Incorrect Token Prices on Polygon Network**&#x20;
+## **21st Feb 2022 - Incorrect Token Prices on Polygon Network**&#x20;
 
 Our engineering team identified an issue that impacted all Tokens Prices on the Polygon Network.
 
-_**Identified:** 21th February 2022 - 21:00 UTC_\
+_**First Identified:** 21st February 2022 - 21:00 UTC_\
 _**Resolved:** 22nd February 2022 - 03:00 UTC_&#x20;
 
 **Issue Description**
