@@ -38,6 +38,11 @@
 * [Off-Chain Data Usage](data/off-chain-data-usage.md)
 * [Incident Reports](data/incident-reports.md)
 
+***
+
+* [GuruDAO](gurudao/README.md)
+  * [GuruDAO Bootstrap Guide](gurudao/gurudao-bootstrap-guide.md)
+
 ## Other Resources <a href="#resources" id="resources"></a>
 
 * [API](resources/api.md)
