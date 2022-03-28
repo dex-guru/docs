@@ -90,7 +90,7 @@ Once we find consensus on all major topics, we will announce the DAO launch date
 
 Season Pass NFT holders can vote and participate in the DAO bootstrap phase. Multiple NFTs in a single wallet won't add up your voting power. 1 wallet with an NFT has 1 vote in the bootstrap phase.&#x20;
 
-#### Selling Season Pass NFT on Marketplaces
+#### What about Buying/Selling Season Pass NFT on Marketplaces?
 
 Opensea and LooksRare collection pages will be available soon after minting starts.&#x20;
 
