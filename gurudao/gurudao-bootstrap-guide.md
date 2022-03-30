@@ -29,7 +29,7 @@ The following users are eligible to participate in the DAO bootstrap:
 
 Full list of whitelisted addresses —[ ](https://github.com/dex-guru/dao-bootstrap)[https://raw.githubusercontent.com/dex-guru/dao-bootstrap/main/wallets.csv](https://raw.githubusercontent.com/dex-guru/dao-bootstrap/main/wallets.csv)
 
-If you have found your address on the list that’s means you are eligible to mint GURU Season Pass NFT to participate in GuruDAO bootstrap.
+If you have found your address on the list that’s means you are eligible to mint GURU Season Pass NFT to participate in GuruDAO bootstrap.&#x20;
 
 #### **GURU Season Pass NFT Minting**
 
@@ -39,7 +39,7 @@ Minting is free; there is only a gas fee for publishing a unique instance of ERC
 
 #### Where can I mint my Season Pass?
 
-Minting website —  [https://dex.guru/season-pass](https://dex.guru/season-pass)  (page will be available on March 30)
+Minting website —  [https://dex.guru/season-pass](https://dex.guru/season-pass)&#x20;
 
 #### **Why participate in the DAO bootstrap phase?**
 
@@ -95,6 +95,16 @@ Season Pass NFT holders can vote and participate in the DAO bootstrap phase. Mul
 Opensea and LooksRare collection pages will be available soon after minting starts.&#x20;
 
 
+
+### **Links**
+
+**Minting page:** [**https://dex.guru/season-pass**](https://dex.guru/season-pass) ****&#x20;
+
+**Opensea:** [**https://opensea.io/collection/guru-season-pass-nft-v2**](https://opensea.io/collection/guru-season-pass-nft-v2)  **** &#x20;
+
+**Icy.tools:** [**https://icy.tools/collections/0xbe223020724cc3e2999f5dceda3120484fdbfef7/overview**](https://icy.tools/collections/0xbe223020724cc3e2999f5dceda3120484fdbfef7/overview)****
+
+**Etherscan:** [**https://etherscan.io/token/0xbe223020724cc3e2999f5dceda3120484fdbfef7**](https://etherscan.io/token/0xbe223020724cc3e2999f5dceda3120484fdbfef7)  **** &#x20;
 
 ****
 
