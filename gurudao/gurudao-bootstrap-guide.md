@@ -82,7 +82,7 @@ To make the governance process effective, the following is proposed:
 * Initial discussion and temperature check on Discord in a form of emoji voting
 * Based on the discussion, the community publishes a formal proposal on Discourse.
   * Once the draft proposal is published, there is a 3-day period to discuss and leave comments on the topic. Based on this discussion, the proposal is amended.
-  * The updated final proposal gets published for voting on Snapshot. The voting period is 3 days. At the end of the period, a decision will be made by a simple majority.
+  * The updated final proposal gets published for voting on [Snapshot](https://snapshot.org/#/thegurudao.eth). The voting period is 3 days. At the end of the period, a decision will be made by a simple majority.
 
 Once we find consensus on all major topics, we will announce the DAO launch date. The current expectation is the end of May 2022.
 
@@ -105,6 +105,8 @@ Opensea and LooksRare collection pages will be available soon after minting star
 **Icy.tools:** [**https://icy.tools/collections/0xbe223020724cc3e2999f5dceda3120484fdbfef7/overview**](https://icy.tools/collections/0xbe223020724cc3e2999f5dceda3120484fdbfef7/overview)****
 
 **Etherscan:** [**https://etherscan.io/token/0xbe223020724cc3e2999f5dceda3120484fdbfef7**](https://etherscan.io/token/0xbe223020724cc3e2999f5dceda3120484fdbfef7)  **** &#x20;
+
+**Snapshot:** [**https://snapshot.org/#/thegurudao.eth**](https://snapshot.org/#/thegurudao.eth) ****&#x20;
 
 ****
 
