@@ -33,7 +33,7 @@ If you have found your address on the list that’s means you are eligible to mi
 
 #### **GURU Season Pass NFT Minting**
 
-Minting lasts for 3 days — it starts March 30, 2022 and finishes April 2, 2022.&#x20;
+Minting lasts for 3 days — it starts March 30, 2022 and finishes April 1, 2022.&#x20;
 
 Minting is free; there is only a gas fee for publishing a unique instance of ERC-721 token on the Ethereum blockchain.
 
