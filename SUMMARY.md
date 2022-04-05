@@ -12,6 +12,7 @@
   * [Market Activity](general/features/trading-history.md)
   * [Token Liquidity](general/features/token-liquidity.md)
   * [Market Screener](general/features/market-screener.md)
+  * [Multi-Chart](general/features/multi-chart.md)
   * [Trading Tools](general/features/trading-tools.md)
   * [Market Selector](general/features/market-selector/README.md)
     * [Network Switch](general/features/market-selector/network-switch.md)
