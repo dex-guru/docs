@@ -1,8 +1,8 @@
 ---
-coverY: 0
 cover: ../../.gitbook/assets/All.jpg
+coverY: 0
 ---
 
 # Features
 
-![](<../../.gitbook/assets/DexGuru Getting Started (1).png>)
+![](<../../.gitbook/assets/DexGuru Getting Started (2).png>)
