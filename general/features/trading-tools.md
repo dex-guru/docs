@@ -2,20 +2,20 @@
 
 Once you connect your web3 wallet, you can exchange one crypto for another directly from the DexGuru interface in the Trading Section. Keep in mind that when you’re buying or selling crypto via our interface, you interact with smart contracts deployed on public chains like Ethereum or BSC. We do not control your transactions and couldn't stop a transaction or attempt to reverse a transaction after it occurred. You’re the only one ultimately responsible for any transactions. &#x20;
 
-![](<../../.gitbook/assets/image (12).png>)
+![](<../../.gitbook/assets/001 (1).png>)
 
 Use percentage buttons to allocate only that percentage of an asset from your wallet to a given trade. This way, you can sell 50% of all your tokens in 2 clicks. First, by pressing the 50% button and then the sell button.&#x20;
 
-![Percentage buttons](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/002 (1).png>)
 
 If this is the first time you are making a transaction with a specific token, you’ll have to complete a token approval transaction. You only need to press Approve/Sell button once.&#x20;
 
-![](../../.gitbook/assets/003.png)
+![](<../../.gitbook/assets/003 (3).png>)
 
 Before finalizing a trade, it needs to be confirmed. Once you approve the token spending limit in your wallet (if needed), wait for the Swap Confirmation pop-up. Pay close attention to the Swap Confirmation pop-up shown below.\
 
 
-![](../../.gitbook/assets/004.png)
+![](<../../.gitbook/assets/004 (2).png>)
 
 Here you can set price slippage, which is a difference between the quoted price and the executed price of your trade.
 
