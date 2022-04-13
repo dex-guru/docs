@@ -6,14 +6,13 @@ Once you connect your web3 wallet, you can exchange one crypto for another direc
 
 Use percentage buttons to allocate only that percentage of an asset from your wallet to a given trade. This way, you can sell 50% of all your tokens in 2 clicks. First, by pressing the 50% button and then the sell button.&#x20;
 
-![](<../../.gitbook/assets/002 (1).png>)
+![Percentage buttons](<../../.gitbook/assets/002 (1).png>)
 
 If this is the first time you are making a transaction with a specific token, you’ll have to complete a token approval transaction. You only need to press Approve/Sell button once.&#x20;
 
 ![](<../../.gitbook/assets/003 (3).png>)
 
-Before finalizing a trade, it needs to be confirmed. Once you approve the token spending limit in your wallet (if needed), wait for the Swap Confirmation pop-up. Pay close attention to the Swap Confirmation pop-up shown below.\
-
+Before finalizing a trade, it needs to be confirmed. Once you approve the token spending limit in your wallet (if needed), wait for the Swap Confirmation pop-up. Pay close attention to the Swap Confirmation pop-up shown below.
 
 ![](<../../.gitbook/assets/004 (2).png>)
 
@@ -31,6 +30,5 @@ The Swap Confirmation pop-up lets you know if you do not have sufficient balance
 
 ![Insufficient balance](<../../.gitbook/assets/image (11).png>)
 
-****\
-****We use 0x API to route orders most efficiently. Orders being routed through any 0x API connected exchange. You can find more information about exchages inside our [Swapping Tokens](../../more-info/swapping-tokens.md) article.&#x20;
+We use 0x API to route orders most efficiently. Orders being routed through any 0x API connected exchange. You can find more information about exchages inside our [Swapping Tokens](../../more-info/swapping-tokens.md) article.&#x20;
 
