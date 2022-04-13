@@ -18,10 +18,8 @@ To specify the token liquidity pool you want to look at, pick it in the [Market 
 
 Note: We measure liquidity $ value for a token, not for a trading pair. ****&#x20;
 
-![](<../../.gitbook/assets/image (15).png>)
-
-\
-
+![
+](<../../.gitbook/assets/Token Liquidity 01.png>)
 
 ### Liquidity Provider Categories:
 
