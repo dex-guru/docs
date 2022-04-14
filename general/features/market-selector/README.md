@@ -9,11 +9,11 @@ Note: Some of our features are only available once you connect a wallet. After c
 Inside Market Selector, you can also see assets at your connected wallet by pressing under the wallet tab. \
 ****
 
-![](../../../.gitbook/assets/market-selector-01.png)
+![](<../../../.gitbook/assets/Market Selector 01.png>)
 
 There is no need to use your computer mouse to open our Market Selector; use hotkeys instead. Just press the \~ key to open it. Use ↑  ↓ and ESC keys to navigate around and close the Market Selector.&#x20;
 
-![Hotkeys to navigate Market Selector ](https://lh5.googleusercontent.com/XLtDJ\_A4cWseF\_EFRSMcq-2AFNjX33JlzFcRYhgCUaNvQBlBrdlXzULlx0FtpSGgi5NKZEaMYKzIqPCgxYfQiqHbycYlFg8bN8KCBnWAcEHl22pVEIL2FEePPfU0nI7wwdA7DB6l)
+![](<../../../.gitbook/assets/Market Selector 02.png>)
 
 \
 
