@@ -20,7 +20,7 @@ There is no need to use your computer mouse to open our Market Selector; use hot
 
 ## What is the "Full Degen Mode" ?
 
-![](<../../../.gitbook/assets/market-selector (1).png>)
+![](<../../../.gitbook/assets/Full Degen Mode.png>)
 
 Tokens that are fall under the Full Degen Mode in the [.](./ "mention") are tokens that are not on at least one verified Token List.&#x20;
 
