@@ -43,6 +43,7 @@
 
 * [GuruDAO](gurudao/README.md)
   * [GuruDAO Bootstrap Guide](gurudao/gurudao-bootstrap-guide.md)
+  * [How To Create a Proposal](gurudao/how-to-create-a-proposal.md)
 
 ## Other Resources <a href="#resources" id="resources"></a>
 
