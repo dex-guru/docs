@@ -12,11 +12,11 @@ description: How to trade on DexGuru?
 
 **2.** **Make sure your wallet is using the correct network.** You can see what network you are connected to in the upper right corner next to a wallet icon.
 
-![](../../.gitbook/assets/buysell.png)
+![](<../../.gitbook/assets/BuySell 001.png>)
 
 DexGuru makes it easy to identify tokens from different networks. We use colored circles around the token’s icon. In the example below, the Binance Smart Chain token is wrapped in the orange circle. For your convenience, web3 wallets that are connected, displayed in the same color as the circles around specific networks.
 
-![](../../.gitbook/assets/buysell-002.png)
+![](<../../.gitbook/assets/BuySell 002.png>)
 
 **Note:** You can't trade assets from different networks for each other. For example,  you can't trade UNI(ERC20 token on Ethereum) for CAKE (BEP20 token on BSC). However, many Ethereum based tokens have pegged versions on BSC, for example, ETH-BSC on a screenshot above.
 
@@ -30,28 +30,24 @@ DexGuru makes it easy to identify tokens from different networks. We use colored
 >
 > ✅  **Please review, obtain, or otherwise seek additional information or support BEFORE transaction in Virtual Currency.**&#x20;
 
-![](../../.gitbook/assets/buysell-003.png)
+![](<../../.gitbook/assets/BuySell 003.png>)
 
 For both Buy and Sell options, you can only input the amount of assets that are going to be taken **from** your wallet—the amount of tokens(coins) you receive after the trade is calculated automatically.
 
-![](../../.gitbook/assets/002\_01.png)
+![](<../../.gitbook/assets/BuySell 004.png>)
 
 You can change what kind of digital asset you use to buy a specific token(the one you picked in the [Market Selector](https://docs.dex.guru/features/market-selector) area) and change the digital asset you receive when you sell the particular token.
 
-
-
-![](../../.gitbook/assets/002\_02.png)
+![](<../../.gitbook/assets/BuySell 005.png>)
 
 If this is the first time you are making a transaction with a specific token, you’ll have to complete a token approval transaction. You only need to press Approve/Sell button once.&#x20;
 
-
-
-![](<../../.gitbook/assets/003 (2).png>)
+![](<../../.gitbook/assets/BuySell 006.png>)
 
 \
 Once you approve the token spending limit in your wallet, wait for the Swap Confirmation pop-up. If the coin or token does not need approval from your wallet, you will be shown the Swap Confirmation pop-up right after pressing the Buy/Sell button.
 
-![](../../.gitbook/assets/007.png)
+![](<../../.gitbook/assets/BuySell 007.png>)
 
 Inside the Swap Confirmation pop-up, you can change price slippage, tip to DexGuru, and pick GAS price. Click the “Confirm” button once you ready. If you do not click the “Confirm” button during the first 90 seconds, the pop-up will automatically close, and we will need to refresh your quote.
 
