@@ -1,5 +1,5 @@
 ---
-description: Discord Bot notifies you about significant on-chain events.
+description: notifies you about significant on-chain events.
 ---
 
 # Discord Bot
