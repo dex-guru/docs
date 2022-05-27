@@ -48,6 +48,7 @@
 ## Other Resources <a href="#resources" id="resources"></a>
 
 * [API](resources/api.md)
+* [Discord Bot](resources/discord-bot.md)
 * [Brand Assets](resources/brand-assets.md)
 * [Privacy Policy](resources/privacy-policy.md)
 * [Terms of Service](resources/terms-of-service.md)
@@ -55,4 +56,4 @@
 ## More
 
 * [🕹 Need more help? Join our Discord](https://discord.com/invite/dPW8fzwzz9)
-* [💻 DexGuru App](https://dex.guru)
+* [💻 DexGuru App](https://dex.guru/)
