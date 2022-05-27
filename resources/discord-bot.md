@@ -8,7 +8,7 @@ Install the bot to your Discord server [here](https://discord.com/oauth2/authori
 
 
 
-DexGuru bot offers 4 types of alerts, aka _<mark style="color:purple;">`typeOfAlert`</mark>_.&#x20;
+DexGuru bot offers **4 types of alerts**, aka _<mark style="color:purple;">`typeOfAlert`</mark>_.&#x20;
 
 <mark style="color:purple;">NewToken</mark> - notifies you when a new token gets a liquid on-chain market.&#x20;
 
@@ -20,12 +20,12 @@ DexGuru bot offers 4 types of alerts, aka _<mark style="color:purple;">`typeOfAl
 
 
 
-Eight different _<mark style="color:purple;">`network`</mark>_s are supported_:_ \
+**Eight different **_<mark style="color:purple;">**`network`**</mark>_**s** are supported_:_ \
 Ethereum, BSC, Polygon, Avalanche, Arbitrum, Fantom, CELO, Optimism
 
 
 
-There are five commands you can give to the DexGuru bot by typing them in your channel. Make  sure the bot has permission to write in the channel.
+There are **five commands** you can give to the DexGuru bot by typing them in your channel. Make  sure the bot has permission to write in the channel.
 
 * All commands start with the word _guru_&#x20;
 * We use italics to indicate a variable in a command.&#x20;
