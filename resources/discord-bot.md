@@ -58,7 +58,10 @@ _<mark style="color:purple;"></mark>_
 
 <mark style="color:purple;">`guru add whale bsc 0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48 150000`</mark> - sets a whale alert for swaps over $150000 for USDC token on BSC network.\
 \
-<mark style="color:purple;">`guru remove`</mark> - removes all liquidity pool alerts.
+<mark style="color:purple;">`guru remove`</mark> - removes all liquidity pool alerts. \
 
 
+\
+\
+Feel free to reach out to us on [Discord](https://discord.com/invite/dPW8fzwzz9) for support.&#x20;
 
