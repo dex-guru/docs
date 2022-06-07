@@ -1,7 +1,7 @@
 ---
 description: >-
   Information and details regarding usage of Off-Chain data sources. Last
-  updated: 25th January 20
+  updated: March 2022
 cover: ../.gitbook/assets/Off Chain Data Usage.jpg
 coverY: 0
 ---
@@ -41,7 +41,7 @@ Below is the complete list of Token Lists that are currently being used:
 
 ### Ethereum
 
-[**Uniswap TokenLists**](https://tokenlists.org)**:**
+[**Uniswap TokenLists**](https://tokenlists.org/)**:**
 
 * [1inch Token List](https://wispy-bird-88a7.uniswap.workers.dev/?url=http://tokens.1inch.eth.link)
 * [AAVE Token List](off-chain-data-usage.md#usage-of-off-chain-data-sources)
@@ -59,7 +59,7 @@ Below is the complete list of Token Lists that are currently being used:
 * [Kleros Tokens List](https://wispy-bird-88a7.uniswap.workers.dev/?url=http://t2crtokens.eth.link)
 * [Kyber Network List](https://api.kyber.network/tokenlist)
 * [Messari Verified Tokens](https://messari.io/tokenlist/messari-verified)
-* [MyCrypto Token List](https://uniswap.mycryptoapi.com)
+* [MyCrypto Token List](https://uniswap.mycryptoapi.com/)
 * [Roll Social Money List](https://app.tryroll.com/tokens.json)
 * [Set Protocol List](https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/set.tokenlist.json)
 * [Synthetix List](https://wispy-bird-88a7.uniswap.workers.dev/?url=http://synths.snx.eth.link)
@@ -119,6 +119,7 @@ Below is the complete list of Token Lists that are currently being used:
 ### CELO
 
 * [CoinGecko CELO Token List](https://tokens.coingecko.com/celo/all.json)
+* [Ubeswap Token List](https://raw.githubusercontent.com/Ubeswap/default-token-list/master/ubeswap.token-list.json)
 
 ### Optimism
 

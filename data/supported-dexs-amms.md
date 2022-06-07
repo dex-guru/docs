@@ -1,5 +1,5 @@
 ---
-description: 'Last Updated: 11th February 2022'
+description: 'Last Updated: June 2022'
 cover: ../.gitbook/assets/AMMs.jpg
 coverY: 0
 ---
@@ -24,6 +24,9 @@ DexGuru currently supports the following DEXs below.
 | Swapr                | 14th January 2022  |
 | Standard Protocol    | 14th January 2022  |
 | ShibaSwap            | 28th January 2022  |
+| ShibaSwap            | 22nd February 2022 |
+| 1inch                | 14tth April 2022   |
+| Curve                | 20th April 2022    |
 
 ## **Binance Smart Chain**
 
@@ -46,6 +49,7 @@ DexGuru currently supports the following DEXs below.
 | Kyber Network      | 14th January 2022  |
 | BiSwap             | 14th January 2022  |
 | SushiSwap          | 19th January 2022  |
+| BakerySwap         | 21st January 2022  |
 
 ## **Avalanche**
 
@@ -60,6 +64,8 @@ DexGuru currently supports the following DEXs below.
 | Canary Exchange | 27th December 2021 |
 | EmpireDEX       | 27th December 2021 |
 | SushiSwap       | 27th December 2021 |
+| KyberSwap       | 9th May 2022       |
+| Curve           | 20th April 2022    |
 
 ## **Fantom**
 
@@ -77,6 +83,7 @@ DexGuru currently supports the following DEXs below.
 | Dyfn           | 27th December 2021 |
 | SoulSwap       | 27th December 2021 |
 | WakaSwap       | 27th December 2021 |
+| KyberSwap      | 14th January 2022  |
 | Solidy         | 11th February 2022 |
 
 ## **Polygon**
@@ -94,7 +101,7 @@ DexGuru currently supports the following DEXs below.
 | ApeSwap          | 27th December 2021 |
 | Dyfn             | 27th December 2021 |
 | Uniswap V3       | 27th December 2021 |
-| Kyber Network    | 14th January 2022  |
+| KyberSwap        | 14th January 2022  |
 | SushiSwap        | 14th January 2022  |
 | Polycat Finance  | 14th January 2022  |
 | Gravity Finance  | 14th January 2022  |
@@ -107,6 +114,7 @@ DexGuru currently supports the following DEXs below.
 | SushiSwap  | 2nd November 2021 |
 | Swpr       | 14th January 2022 |
 | Dfyn       | 14th January 2022 |
+| Curve      | 20th April 2022   |
 
 ## **CELO**
 
@@ -120,3 +128,4 @@ DexGuru currently supports the following DEXs below.
 | DEX Name   | Date Added        |
 | ---------- | ----------------- |
 | Uniswap v3 | 10th January 2022 |
+| ZipSwap    | 2nd June 2022     |
