@@ -85,6 +85,8 @@ DexGuru currently supports the following DEXs below.
 | WakaSwap       | 27th December 2021 |
 | KyberSwap      | 14th January 2022  |
 | Solidy         | 11th February 2022 |
+| Curve          | 20th April 2022    |
+| Tomb Finance   | 2nd May 2022       |
 
 ## **Polygon**
 
@@ -99,12 +101,12 @@ DexGuru currently supports the following DEXs below.
 | Elk Finance      | 27th December 2021 |
 | CafeSwap         | 27th December 2021 |
 | ApeSwap          | 27th December 2021 |
-| Dyfn             | 27th December 2021 |
 | Uniswap V3       | 27th December 2021 |
 | KyberSwap        | 14th January 2022  |
 | SushiSwap        | 14th January 2022  |
 | Polycat Finance  | 14th January 2022  |
 | Gravity Finance  | 14th January 2022  |
+| Curve            | 20th April 2022    |
 
 ## **Arbitrum**
 
