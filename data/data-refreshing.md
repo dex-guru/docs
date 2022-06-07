@@ -9,7 +9,7 @@ description: >-
 
 ## Main Page
 
-![](../.gitbook/assets/01.png)
+![](<../.gitbook/assets/Data Refreshing 01.png>)
 
 {% hint style="info" %}
 Values on the main page refer to a single token that is currently picked inside [Market Selector](https://docs.dex.guru/general/features/market-selector).

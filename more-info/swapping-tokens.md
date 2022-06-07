@@ -16,7 +16,7 @@ Although we haven't built our own DEX from scratch, we currently use 0x Protocol
 By integrating and using 0x Protocol API to route orders, we're able to offer DexGuru traders optimized token swaps that are fast, gas efficient and have low slippage meaning you'll get the best deal and rates on your swaps.
 {% endhint %}
 
-For more information about 0x Protocol, visit their [official site](https://0x.org) and check out their [performance analysis](https://blog.0xproject.com/a-comprehensive-analysis-on-dex-liquidity-aggregators-performance-dfb9654b0723) to see how they come out on top when compared with other DEX liquidity aggregators!
+For more information about 0x Protocol, visit their [official site](https://0x.org/) and check out their [performance analysis](https://blog.0xproject.com/a-comprehensive-analysis-on-dex-liquidity-aggregators-performance-dfb9654b0723) to see how they come out on top when compared with other DEX liquidity aggregators!
 
 For more information on how swaps are routed and which DEXs are being used, check out [#how-are-swaps-routed-which](swapping-tokens.md#how-are-swaps-routed-which "mention")
 

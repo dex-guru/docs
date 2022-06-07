@@ -62,7 +62,7 @@ Directly from Uniswap's [official blog post on Token Lists](https://uniswap.org/
 > _As the rate of token issuance accelerates, it has become increasingly difficult for users to filter out high quality, legitimate tokens from scams, fakes, and duplicates. Across the space, projects are managing and maintaining rapidly growing token lists. The end result is a lot of wasted time, slow listing processes and scammed users. In addition, builders should spend their time building, not deciding which tokens are legitimate and which are scams, fakes or duplicates._
 >
 > __\
-> _Today, we are excited to announce_ [_Token Lists_](https://tokenlists.org)_, a new standard for creating lists of ERC20 tokens. This is a community-led initiative to improve discoverability and trust in ERC20 token lists in a manner that is inclusive, transparent, and decentralized._
+> _Today, we are excited to announce_ [_Token Lists_](https://tokenlists.org/)_, a new standard for creating lists of ERC20 tokens. This is a community-led initiative to improve discoverability and trust in ERC20 token lists in a manner that is inclusive, transparent, and decentralized._
 
 For more information about Token Lists, check out the full [Uniswap official blog post](https://uniswap.org/blog/token-lists) that covers everything you need to know.
 
@@ -121,7 +121,7 @@ When your exchange would be available at 0x API we can discuss further integrati
 
 ## **DexGuru is amazing! Is there a way for me to invest in your project?**
 
-We always love the kind comments, enthusiasm and support from the DexGuru community. But we have recently raised funding rounds and not looking for new investors. You can read more about this on our [blog](https://blog.dex.guru)!
+We always love the kind comments, enthusiasm and support from the DexGuru community. But we have recently raised funding rounds and not looking for new investors. You can read more about this on our [blog](https://blog.dex.guru/)!
 
 ## Ser, Wen Token? Wen Airdrop?
 

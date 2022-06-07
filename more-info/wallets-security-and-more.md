@@ -92,11 +92,11 @@ Of course, this applies to Web 3.0 as well - and although we can't control the a
 * DexGuru is NOT offering any airdrops or rewards for redemption
 * DexGuru team members will NEVER DM you first on Discord, Twitter, Telegram or any other channel
 * **Always check your URL to make sure you're using the official DexGuru platform and related websites.** Below is a list of all the current official related links we have:
-  * Official Website -> [https://dex.guru/](https://dex.guru)
-  * Blog -> [https://blog.dex.guru/](https://blog.dex.guru)
+  * Official Website -> [https://dex.guru/](https://dex.guru/)
+  * Blog -> [https://blog.dex.guru/](https://blog.dex.guru/)
   * Github -> [https://github.com/dex-guru/](https://github.com/dex-guru/)
-  * Help & Support Docs -> [https://docs.dex.guru/](https://docs.dex.guru)
-  * Developer & API Docs -> [https://developers.dex.guru/](https://developers.dex.guru)
+  * Help & Support Docs -> [https://docs.dex.guru/](https://docs.dex.guru/)
+  * Developer & API Docs -> [https://developers.dex.guru/](https://developers.dex.guru/)
   * Official Twitter -> [https://twitter.com/dexguru/](https://twitter.com/dexguru/)
   * Official Discord Invite -> [https://discord.com/invite/dPW8fzwzz9](https://discord.com/invite/dPW8fzwzz9)
   * Official Telegram Group → [https://t.me/dexguru](https://t.me/dexguru) - @dexguru

@@ -6,16 +6,16 @@ description: and check its activity
 
 All transactions and actions with your wallet on a blockchain are recorded; you can check them by using one of the blockchain explorers below.&#x20;
 
-[**Etherscan**](https://etherscan.io) **** is a Block Explorer for Ethereum Network. \
-****[**BscScan**](https://bscscan.com) **** is a Block Explorer for Binance Smart Chain. \
-[**Polygonscan**](https://polygonscan.com) **** for Polygon Network. \
-[**SnowTrace**](https://snowtrace.io) **** for Avalanche Network. \
-[**FTMScan**](https://ftmscan.com) for Fantom Network. \
-[**ArbiScan**](https://arbiscan.io) for Arbitrum Network. \
-[**Optimistic Ethereum Etherscan**](https://optimistic.etherscan.io) for Optimism Network. \
-[**Celo Explorer**](https://explorer.celo.org) for CELO Network.
+[**Etherscan**](https://etherscan.io/) **** is a Block Explorer for Ethereum Network. \
+****[**BscScan**](https://bscscan.com/) **** is a Block Explorer for Binance Smart Chain. \
+[**Polygonscan**](https://polygonscan.com/) **** for Polygon Network. \
+[**SnowTrace**](https://snowtrace.io/) **** for Avalanche Network. \
+[**FTMScan**](https://ftmscan.com/) for Fantom Network. \
+[**ArbiScan**](https://arbiscan.io/) for Arbitrum Network. \
+[**Optimistic Ethereum Etherscan**](https://optimistic.etherscan.io/) for Optimism Network. \
+[**Celo Explorer**](https://explorer.celo.org/) for CELO Network.
 
-If you do not see assets in your wallet, it is a good idea to check your wallet’s address on a blockchain explorer. Use **** [**Etherscan**](https://etherscan.io) **** for **Ethereum** transactions, [**BscScan**](https://bscscan.com) **** for **Binance Smart Chain** transactions, and so on. **** \
+If you do not see assets in your wallet, it is a good idea to check your wallet’s address on a blockchain explorer. Use **** [**Etherscan**](https://etherscan.io/) **** for **Ethereum** transactions, [**BscScan**](https://bscscan.com/) **** for **Binance Smart Chain** transactions, and so on. **** \
 ****
 
 Copy your wallet’s public address and search for it on a blockchain explorer.
@@ -32,7 +32,7 @@ After entering your public address, you will see your ETH or BNB balance in nati
 
 
 
-Wallets like MetaMask display a limited list of standard token balances but do not display current balances for custom tokens. You have to add a custom token to your wallet manually. All you need is a Token Contract Address that you can find on [**Etherscan**](https://etherscan.io) **** for ERC-20 tokens and **** [**BscScan**](https://bscscan.com) **** for BEP-20 tokens. \
+Wallets like MetaMask display a limited list of standard token balances but do not display current balances for custom tokens. You have to add a custom token to your wallet manually. All you need is a Token Contract Address that you can find on [**Etherscan**](https://etherscan.io/) **** for ERC-20 tokens and **** [**BscScan**](https://bscscan.com/) **** for BEP-20 tokens. \
 ****
 
 Go to your Token Holdings, find the token you want to add to your wallet, and press it. Copy the Contract Address. You will need to add it to your wallet.

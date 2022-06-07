@@ -11,7 +11,7 @@ For every token on DexGuru, you will see its price chart that will display its p
 
 ![](<../.gitbook/assets/image (27) (1) (1).png>)
 
-All token price charts on DexGuru are currently displayed using [TradingView’s](https://www.tradingview.com) technical analysis charts library. The token price charts you see are completely customizable and feature packed with the majority of the same functionality when using the standalone TradingView platform.
+All token price charts on DexGuru are currently displayed using [TradingView’s](https://www.tradingview.com/) technical analysis charts library. The token price charts you see are completely customizable and feature packed with the majority of the same functionality when using the standalone TradingView platform.
 
 You will be able to adjust time periods, add lines, drawings, technical indicators and customize charts to your preferences and liking.&#x20;
 

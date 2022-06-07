@@ -9,7 +9,7 @@ DexGuru is a trading terminal made for traders in DeFi era, leveraging on-chain 
 
 We've built an interface that provides access to easy to understand on-chain data analysis across decentralized protocols on Ethereum, BSC, Polygon, Avalanche, Fantom, Arbitrum, Optimism, and CELO to enable traders to make best the best possible trade decisions in real-time!
 
-![](<.gitbook/assets/DexGuru Getting Started (2).png>)
+![](<.gitbook/assets/DexGuru Getting Started.png>)
 
 ## Getting Help & Finding Answers
 
@@ -43,11 +43,11 @@ If you still can't find what you're looking for in the help documentation here, 
 
 **Always check your URL to make sure you're using the official DexGuru platform and related websites.** Below is a list of all the current official related links we have:
 
-* Website -> [https://dex.guru/](https://dex.guru)
-* Blog -> [https://blog.dex.guru/](https://blog.dex.guru)
+* Website -> [https://dex.guru/](https://dex.guru/)
+* Blog -> [https://blog.dex.guru/](https://blog.dex.guru/)
 * Github -> [https://github.com/dex-guru/](https://github.com/dex-guru/)
-* Help & Support Docs -> [https://docs.dex.guru/](https://docs.dex.guru)
-* Developer & API Docs -> [https://developers.dex.guru/](https://developers.dex.guru)
+* Help & Support Docs -> [https://docs.dex.guru/](https://docs.dex.guru/)
+* Developer & API Docs -> [https://developers.dex.guru/](https://developers.dex.guru/)
 * Twitter -> [https://twitter.com/dexguru/](https://twitter.com/dexguru/)
 * Discord  -> [https://discord.com/invite/dPW8fzwzz9](https://discord.com/invite/dPW8fzwzz9)
 * Telegram Channel → [https://t.me/dexguru](https://t.me/dexguru) - @dexguru

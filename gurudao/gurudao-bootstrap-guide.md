@@ -67,7 +67,7 @@ All these topics need to be discussed during the Pre-DAO stage in workshops and 
 
 The main communication channel is a private Discord channel for GURU Season Pass NFT holders and the Discourse server.
 
-**Discourse** — [https://gov.dex.guru/](https://gov.dex.guru)
+**Discourse** — [https://gov.dex.guru/](https://gov.dex.guru/)
 
 **Discord** —  [https://discord.com/invite/dPW8fzwzz9](https://discord.com/invite/dPW8fzwzz9) CollabLand bot for verification available at #verify channel. You have to press a blue "Let's go!" button and follow provided instructions.&#x20;
 
