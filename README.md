@@ -51,5 +51,7 @@ If you still can't find what you're looking for in the help documentation here, 
 * Twitter -> [https://twitter.com/dexguru/](https://twitter.com/dexguru/)
 * Discord  -> [https://discord.com/invite/dPW8fzwzz9](https://discord.com/invite/dPW8fzwzz9)
 * Telegram Channel → [https://t.me/dexguru](https://t.me/dexguru) - @dexguru
+* GuruDAO Governance Forum -> [https://gov.dex.guru/](https://gov.dex.guru/)
+* GuruDAO Bootstrap Phase voting -> [https://snapshot.org/#/thegurudao.eth](https://snapshot.org/#/thegurudao.eth)
 
 __
