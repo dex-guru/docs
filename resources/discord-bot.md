@@ -79,7 +79,7 @@ For example, to look for high-volume tokens on the Optimism platform, with the 5
 
 **Other examples:**
 
-<mark style="color:purple;">`guru add whale bsc 0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48 150000`</mark> - sets a whale alert for swaps over $150000 for USDC token on BSC network. **** \
+<mark style="color:purple;">`guru change whale bsc 0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48 150000`</mark> - changes the whale's alert thereshold to $150000 for USDC token on the BSC network. This means that the alert is triggered only if the transaction is over $150000. \
 ****\
 ****<mark style="color:purple;">`guru remove`</mark> - removes all liquidity pool alerts. \
 
