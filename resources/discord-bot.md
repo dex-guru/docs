@@ -54,7 +54,26 @@ _<mark style="color:purple;"></mark>_
 
 ### Examples:
 
-<mark style="color:purple;">`guru add volume polygon 450`</mark> - sets a volume spike alert for polygon networks with a 450% threshold
+**Monitor large transactions to detect influential wallet addresses and potentially token price changes.** &#x20;
+
+For example, we can set up a channel #ape-whales and create an alert for transactions that include APE token and are bigger than $200,000 in value by typing the following command:&#x20;
+
+<mark style="color:purple;">`guru add whale ethereum 0x4d224452801aced8b2f0aebe155379bb5d594381 $200000`</mark>
+
+****\
+**Monitor newly released tokens and never miss an opportunity to buy them early. Researching newly listed tokens, can help you in finding undervalued projects.**&#x20;
+
+For example, let's set up an alert for newly listed tokens with liquidity over $50,000. This time we are only interested in the Polygon platform. The command will look like this:&#x20;
+
+<mark style="color:purple;">`guru add newtoken polygon $50000`</mark>
+
+****
+
+**Never miss a hot market with volume alerts.** Volume is an essential tool for swing traders. A trend with a high volume alert is stronger than the one with a small volume. &#x20;
+
+For example, to look for high-volume tokens on the Optimism platform, with the 5000% of its average hourly volume, set up the following command:&#x20;
+
+<mark style="color:purple;"><mark style="color:blue;">`guru add volume optimism 5000%`<mark style="color:blue;"></mark>
 
 <mark style="color:purple;">`guru add whale bsc 0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48 150000`</mark> - sets a whale alert for swaps over $150000 for USDC token on BSC network.\
 \
