@@ -73,11 +73,15 @@ For example, let's set up an alert for newly listed tokens with liquidity over $
 
 For example, to look for high-volume tokens on the Optimism platform, with the 5000% of its average hourly volume, set up the following command:&#x20;
 
-<mark style="color:purple;"><mark style="color:blue;">`guru add volume optimism 5000%`<mark style="color:blue;"></mark>
+<mark style="color:purple;">`guru add volume optimism 5000%`</mark>
 
-<mark style="color:purple;">`guru add whale bsc 0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48 150000`</mark> - sets a whale alert for swaps over $150000 for USDC token on BSC network.\
-\
-<mark style="color:purple;">`guru remove`</mark> - removes all liquidity pool alerts. \
+****
+
+**Other examples:**
+
+<mark style="color:purple;">`guru add whale bsc 0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48 150000`</mark> - sets a whale alert for swaps over $150000 for USDC token on BSC network. **** \
+****\
+****<mark style="color:purple;">`guru remove`</mark> - removes all liquidity pool alerts. \
 
 
 \
