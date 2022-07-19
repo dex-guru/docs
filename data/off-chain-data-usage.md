@@ -70,15 +70,10 @@ Below is the complete list of Token Lists that are currently being used:
 * [Yearn Finance List](https://yearn.science/static/tokenlist.json)
 * [Zerion List](https://wispy-bird-88a7.uniswap.workers.dev/?url=http://tokenlist.zerion.eth.link)
 * [Zapper Token List](https://zapper.fi/api/token-list)
-* [Token Name Service](https://wispy-bird-88a7.uniswap.workers.dev/?url=http://list.tkn.eth.link)
 
 **Other Lists:**
 
 * ****[CoinGecko Ethereum Token List](https://tokens.coingecko.com/uniswap/all.json)
-* [Balancer Token List](https://raw.githubusercontent.com/balancer-labs/assets/master/generated/listed.tokenlist.json)&#x20;
-* [Bancor Token List](https://raw.githubusercontent.com/bancorprotocol/default-token-list/main/tokens.json)&#x20;
-* [KyberSwap Token List](https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/tokenLists/ethereum.tokenlist.json)&#x20;
-* [SushiSwap Menu](https://token-list.sushi.com/)&#x20;
 
 ### Binance Smart Chain (BSC)
 
@@ -86,7 +81,6 @@ Below is the complete list of Token Lists that are currently being used:
 * [PancakeSwap Top 100 Tokens](https://tokens.pancakeswap.finance/pancakeswap-top-100.json)
 * [PancakeSwap Extended Lists](https://tokens.pancakeswap.finance/pancakeswap-extended.json)
 * [BorgSwap Tokens List](https://api.borgswap.exchange/tokens.json)
-* [Venus Default Token List](https://tokens.venus.io/)
 
 ### Polygon
 
@@ -105,7 +99,6 @@ Below is the complete list of Token Lists that are currently being used:
 * [AVAX DeFi Tokens](https://raw.githubusercontent.com/pangolindex/tokenlists/main/defi.tokenlist.json)
 * [AVAX Stablecoins](https://raw.githubusercontent.com/pangolindex/tokenlists/main/stablecoin.tokenlist.json)
 * [Fuji Token List](https://raw.githubusercontent.com/pangolindex/tokenlists/main/fuji.tokenlist.json)
-* [P](https://raw.githubusercontent.com/pangolindex/tokenlists/main/pangolin.tokenlist.json)[angolin Token List](https://raw.githubusercontent.com/pangolindex/tokenlists/main/pangolin.tokenlist.json)
 
 **Other Lists:**
 
@@ -127,7 +120,6 @@ Below is the complete list of Token Lists that are currently being used:
 
 * [CoinGecko CELO Token List](https://tokens.coingecko.com/celo/all.json)
 * [Ubeswap Token List](https://raw.githubusercontent.com/Ubeswap/default-token-list/master/ubeswap.token-list.json)
-* [Ubeswap Experimental](https://raw.githubusercontent.com/Ubeswap/default-token-list/master/ubeswap-experimental.token-list.json)
 
 ### Optimism
 
