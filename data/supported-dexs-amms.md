@@ -50,6 +50,7 @@ DexGuru currently supports the following DEXs below.
 | BiSwap             | 14th January 2022  |
 | SushiSwap          | 19th January 2022  |
 | BakerySwap         | 21st January 2022  |
+| KnightSwap         | 17th July 2022     |
 
 ## **Avalanche**
 
@@ -131,3 +132,4 @@ DexGuru currently supports the following DEXs below.
 | ---------- | ----------------- |
 | Uniswap v3 | 10th January 2022 |
 | ZipSwap    | 2nd June 2022     |
+| Velodrome  | 15th July 2022    |
