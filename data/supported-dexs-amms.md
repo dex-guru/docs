@@ -50,7 +50,9 @@ DexGuru currently supports the following DEXs below.
 | BiSwap             | 14th January 2022  |
 | SushiSwap          | 19th January 2022  |
 | BakerySwap         | 21st January 2022  |
+| MDEX               | 15th July 2022     |
 | KnightSwap         | 17th July 2022     |
+| Swap by Safemoon   | 23rd July 2022     |
 
 ## **Avalanche**
 
@@ -108,6 +110,8 @@ DexGuru currently supports the following DEXs below.
 | Polycat Finance  | 14th January 2022  |
 | Gravity Finance  | 14th January 2022  |
 | Curve            | 20th April 2022    |
+| Meshswap         | 23rd July 2022     |
+| ComethSwap       | 23rd July 2022     |
 
 ## **Arbitrum**
 
@@ -131,5 +135,6 @@ DexGuru currently supports the following DEXs below.
 | DEX Name   | Date Added        |
 | ---------- | ----------------- |
 | Uniswap v3 | 10th January 2022 |
+| Curve      | 11th May 2022     |
 | ZipSwap    | 2nd June 2022     |
 | Velodrome  | 15th July 2022    |
