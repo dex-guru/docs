@@ -125,10 +125,11 @@ DexGuru currently supports the following DEXs below.
 
 ## **CELO**
 
-| DEX Name  | Date Added         |
-| --------- | ------------------ |
-| UbeSwap   | 10th November 2021 |
-| SushiSwap | 27th December 2021 |
+| DEX Name   | Date Added         |
+| ---------- | ------------------ |
+| UbeSwap    | 10th November 2021 |
+| SushiSwap  | 27th December 2021 |
+| Uniswap v3 | 23rd July 2022     |
 
 ## Optimism
 

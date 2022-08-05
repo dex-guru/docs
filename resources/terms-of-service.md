@@ -1,6 +1,8 @@
 # Terms of Service
 
-Welcome to https://dex.guru, a website-hosted user interface (the “Interface” , “App”, "Service") provided by DexGuru Inc. (“COMPANY”, “we”, “our”, or “us”). The Interface provides access to decentralized protocols on the Ethereum blockchain that allows users to perform certain actions with digital assets or Virtual Currencies.\
+Welcome to https://dex.guru, a website-hosted user interface (the “Interface” , “App”, "Service") provided by DexGuru Inc. (“COMPANY”, “we”, “our”, or “us”). The Interface provides access to decentralized protocols on the public blockchains(such as Ethereum) that allows users to perform certain actions with digital assets or Virtual Currencies.
+
+\
 This Terms of Service Agreement (the “Agreement”) explains the terms and conditions by which you may access and use the Interface. You must read this Agreement carefully.&#x20;
 
 _**By accessing or using the Interface, you signify that you have read, understand, and agree to be bound by this Agreement in its entirety. If you do not agree, you are not authorized to access or use the Interface.**_
@@ -22,7 +24,7 @@ _**IMPORTANT NOTE REGARDING ARBITRATION: WHEN YOU AGREE TO THESE TERMS BY USING 
 
 ### Modification of this Agreement
 
-We reserve the right, in our sole discretion, to modify this Agreement from time to time. If we make any modifications, we will notify you by updating the date at the top of the Agreement and by maintaining a current version of the Agreement at https://docs.dex.guru/legal/terms-of-service. All modifications will be effective when they are posted, and your continued use of the Interface will serve as confirmation of your acceptance of those modifications. If you do not agree with any modifications to this Agreement, you must immediately stop accessing and using the Interface.
+We reserve the right, in our sole discretion, to modify this Agreement from time to time. If we make any modifications, we will notify you by updating the date at the top of the Agreement and by maintaining a current version of the Agreement at [https://docs.dex.guru/resources/terms-of-service](https://docs.dex.guru/resources/terms-of-service). All modifications will be effective when they are posted, and your continued use of the Interface will serve as confirmation of your acceptance of those modifications. If you do not agree with any modifications to this Agreement, you must immediately stop accessing and using the Interface.
 
 ### Eligibility
 
