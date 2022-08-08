@@ -14,6 +14,7 @@
   * [Market Screener](general/features/market-screener.md)
   * [Multi-Chart](general/features/multi-chart.md)
   * [Trading Tools](general/features/trading-tools.md)
+  * [Limit Orders](general/features/limit-orders.md)
   * [Market Selector](general/features/market-selector/README.md)
     * [Network Switch](general/features/market-selector/network-switch.md)
     * [Trending Tab](general/features/market-selector/trending-tab.md)
