@@ -16,7 +16,7 @@ Before submitting your limit order on DexGuru, you need to approve token spendin
 **What networks are supported?** \
 Currently, you can request limit orders on Ethereum, BSC, Polygon, Optimism, Arbitrum, and Avalanche networks.
 
-I**s there a gas fee for limit orders?** \
+**Is there a gas fee for limit orders?** \
 No, if your limit order gets filled, you do not pay for gas. The taker of the order will have to consider and pay gas fees. However, you pay gas fees when approving new token spending in your wallet or canceling a limit order before it expires.
 
 **Can I cancel my limit order?** \
