@@ -8,7 +8,7 @@ description: A quick overview of limit orders on DexGuru
 A limit order has a target price and an expiration date. It is a request to buy or sell a token at a ceratin price that you can specify. A limit order is not filled unless the price reaches your target price during the specified time.
 
 **What kind of assets can I use when submitting a limit order? Why can’t I use native ETH for limit orders?** \
-Only ERC-20 tokens are supported when you request a limit order on DexGuru. For the Ethereum network, this implies that you can use [WETH](https://weth.io/) but not ETH when submitting a limit order. Native ETH has to be wrapped before you can use it for limit orders.
+Only ERC-20 tokens are supported when you request a limit order on DexGuru. For the Ethereum network, this implies that you can use [WETH](https://weth.io/) but not ETH when submitting a limit order. Native ETH has to be wrapped before you can use it for limit orders. Native ETH has to be wrapped before you can use it for limit orders. You can swap ETH for WETH on dex.guru
 
 **Why do I need to approve the token in my wallet before submitting my limit order?** \
 Before submitting your limit order on DexGuru, you need to approve token spending from your wallet. This is done to protect your wallet from being accessed by any smart contract. This approval is an on-chain transaction, so you will have to pay gas fees. Only one approval is required per token, per wallet. However, since we use two different protocols for market orders vs. limit orders, you need to approve token sending for market and limit orders separately.
