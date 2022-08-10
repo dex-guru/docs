@@ -13,7 +13,7 @@ We currently recognize three different account types based on the on-chain infor
 DexGuru labels an account as **EOA** when anyone with private keys controls it. This kind of account can be thought of as a wallet address. \
 
 
-We label an account as **Smart Contract** when it is a program/code that runs on the Ethereum blockchain.\
+We label an account as **Smart Contract** when it is a program/code that runs on-chain.\
 \
 The last label is **Liquidity Pool** implies that an account is a smart contract and specifically represents a liquidity pool address. All liquidity pools are smart contracts, but not all smart contracts are liquidity pools.&#x20;
 
