@@ -10,8 +10,7 @@ We currently recognize three different account types based on the on-chain infor
 * ![](<../../.gitbook/assets/smart contract.svg>) Smart Contract&#x20;
 * ![](<../../.gitbook/assets/ice cream.svg>) Liquidity Pool&#x20;
 
-DexGuru labels an account as **EOA** when anyone with private keys controls it. This kind of account can be thought of as a wallet address. \
-
+DexGuru labels an account as **EOA** when anyone with private keys controls it. This kind of account can be thought of as a wallet address.&#x20;
 
 We label an account as **Smart Contract** when it is a program/code that runs on-chain.\
 \
