@@ -10,6 +10,7 @@
   * [Check Wallet Balance](general/how-to/see-my-wallets-balance.md)
 * [Features](general/features/README.md)
   * [Market Activity](general/features/trading-history.md)
+  * [Account Labeling](general/features/account-labeling.md)
   * [Token Liquidity](general/features/token-liquidity.md)
   * [Market Screener](general/features/market-screener.md)
   * [Multi-Chart](general/features/multi-chart.md)
