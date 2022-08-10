@@ -14,3 +14,9 @@ To identify tokens from different networks, we use colored circles around the to
 \
 \
 Note: You can't trade assets from different networks for each other. For example,  you can't trade UNI(ERC20 token on Ethereum) for CAKE (BEP20 token on BSC). However, many Ethereum based tokens have pegged versions on BSC, for example, ETH-BSC on a screenshot above.
+
+
+
+{% hint style="info" %}
+**PRO tip**: Use [Network Switch](market-selector/network-switch.md) to filter tokens by chain
+{% endhint %}
