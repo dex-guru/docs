@@ -4,7 +4,7 @@ description: using on-chain data
 
 # Account Labeling
 
-We currently recognize three different account types based on the on-chain information:
+We currently recognize three different account types based on on-chain information:
 
 * ![](<../../.gitbook/assets/wallet 01.svg>) EOA (Externally Owned Account)
 * ![](<../../.gitbook/assets/smart contract.svg>) Smart Contract&#x20;
