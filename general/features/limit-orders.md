@@ -23,6 +23,9 @@ Currently, you can request limit orders on Ethereum, BSC, Polygon, Optimism, Arb
 **Is there a gas fee for limit orders?** \
 No, if your limit order gets filled or automatically expires, you do not pay gas fees. The taker of the order will have to consider gas fees, personal profit margin, and order size before completing your order. However, you pay gas fees when approving new token spending in your wallet or canceling a limit order before it expires.
 
+**What does the percentage in the status column mean?** \
+Limit orders can be partially filled. For example, a taker of your order might only fill 50% of your limit order before it expires.&#x20;
+
 **Can I cancel my limit order?** \
 Yes, you can manually cancel a limit order before it expires. However, it will require an on-chain transaction, and you will be charged a gas fee.
 
