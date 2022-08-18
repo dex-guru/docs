@@ -10,7 +10,7 @@ When there are more buyers than sellers, the Market Screener chart is green. Whe
 
 ![](<../../.gitbook/assets/Market Screener\_01.png>)
 
-Turtle and shark sellers vastly outnumber buyers in the example above, while more whales buy than sell. \
+Turtle and whale sellers vastly outnumber buyers in the example above, while more sharks buy than sell. \
 \
 Types of traders:&#x20;
 
