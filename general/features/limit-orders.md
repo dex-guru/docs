@@ -4,6 +4,8 @@ description: A quick overview of limit orders on DexGuru
 
 # Limit Orders
 
+![](<../../.gitbook/assets/image (13).png>)
+
 {% hint style="info" %}
 Even if the market price reaches your target price, there is no guarantee that your limit order will be filled.&#x20;
 {% endhint %}
