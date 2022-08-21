@@ -1,5 +1,5 @@
 ---
-description: 'Last Updated: July 2022'
+description: 'Last Updated: August 2022'
 cover: ../.gitbook/assets/AMMs.jpg
 coverY: 0
 ---
@@ -27,6 +27,7 @@ DexGuru currently supports the following DEXs below.
 | ShibaSwap            | 22nd February 2022 |
 | 1inch                | 14tth April 2022   |
 | Curve                | 20th April 2022    |
+| STEPN                | 17th August 2022   |
 
 ## **Binance Smart Chain**
 
@@ -53,6 +54,12 @@ DexGuru currently supports the following DEXs below.
 | MDEX               | 15th July 2022     |
 | KnightSwap         | 17th July 2022     |
 | Swap by Safemoon   | 23rd July 2022     |
+| Titano             | 17th August 2022   |
+| JFSwap             | 17th August 2022   |
+| OrbitalSwap        | 17th August 2022   |
+| Fstswap            | 17th August 2022   |
+| Pandora            | 17th August 2022   |
+| STEPN              | 17th August 2022   |
 
 ## **Avalanche**
 
@@ -69,6 +76,7 @@ DexGuru currently supports the following DEXs below.
 | SushiSwap       | 27th December 2021 |
 | KyberSwap       | 9th May 2022       |
 | Curve           | 20th April 2022    |
+| Swapsicle       | 17th August 2022   |
 
 ## **Fantom**
 
@@ -90,6 +98,7 @@ DexGuru currently supports the following DEXs below.
 | Solidy         | 11th February 2022 |
 | Curve          | 20th April 2022    |
 | Tomb Finance   | 2nd May 2022       |
+| WigoSwap       | 17th August 2022   |
 
 ## **Polygon**
 
@@ -112,6 +121,7 @@ DexGuru currently supports the following DEXs below.
 | Curve            | 20th April 2022    |
 | Meshswap         | 23rd July 2022     |
 | ComethSwap       | 23rd July 2022     |
+| Dystopia         | 17th August 2022   |
 
 ## **Arbitrum**
 
