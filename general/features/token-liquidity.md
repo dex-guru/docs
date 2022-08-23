@@ -1,5 +1,5 @@
 ---
-description: aka Pool Activity
+description: and Pool Activity
 ---
 
 # Token Liquidity
