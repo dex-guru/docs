@@ -59,6 +59,7 @@ Below are the chains we currently support Token Swaps for, along with the networ
 | Fantom                    | Beethovenx, Curve, Curve\_V2, Geist, MorpheusSwap, MultiHop, SpiritSwap, SpookySwap, SushiSwap, Synapse, Yoshi                                                                                                                                               |
 | CELO                      | MobiusMoney, MultiHop, SushiSwap, UbeSwap                                                                                                                                                                                                                    |
 | Optimism                  | Curve, Curve\_V2, MultiHop, Synapse, Uniswap\_V3, Velodrome                                                                                                                                                                                                  |
+| Arbitrum                  | 1inch Aggregation Protocol                                                                                                                                                                                                                                   |
 
 ## I **bought/sold** "X" Token but received less than the amount displayed
 
