@@ -26,7 +26,7 @@ As discussed above, when trading on DexGuru all your token approvals and orders 
 
 > _You can verify the smart contract address on the_ [_official 0x Protocol documentation_](https://0x.org/docs/guides/0x-cheat-sheet)_. This smart contract address is the same across all currently supported chains and you can view all the transactions that are interacting with this smart contract publicly on supported block explorers._
 
-When a swap is successfully completed through DexGuru, you should see this in your transaction list on your Block Explorer:
+When a swap is successfully completed through DexGuru, you should see this in your transaction list on your Block Explorer. It can be 0x: Exchange Proxy or 1inch: Router.&#x20;
 
 ![Transaction List on EtherScan](<../.gitbook/assets/image (29) (1).png>)
 
