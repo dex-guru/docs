@@ -31,9 +31,9 @@ We do have future plans to introduce and add premium subscription plans for more
 
 ## How **are Token Swap O**rders being routed?
 
-All swaps on DexGuru are routed through the 0x Protocol API. All orders are optimized through their exchange network.&#x20;
+All swaps on DexGuru are routed through the 0x Protocol API or 1inch API. All orders are optimized through their exchange network.&#x20;
 
-For more details about 0x Protocol API and how token swaps work on DexGuru, please visit [swapping-tokens.md](../more-info/swapping-tokens.md "mention")
+For more details about 0x Protocol API, 1inch API and how token swaps work on DexGuru, please visit [swapping-tokens.md](../more-info/swapping-tokens.md "mention")
 
 ## Do I need to connect my Wallet to use DexGuru?&#x20;
 
@@ -114,10 +114,10 @@ For more information about how data makes it way onto DexGuru, please check out 
 
 There are 2 steps needed:
 
-1. Integration with [0x Protocol API](https://0x.org/docs/api), which enables us to route orders via your exchange.  Reach out to the 0x team at their [discord](https://discord.gg/d3FTX3M) or [fill this form to get in touch](https://docs.google.com/forms/d/e/1FAIpQLSf9Xw5M4I8c2Kw1mTkc5LsucrT\_3pRuJ6O6RRHPPvn9EXL1tQ/viewform). &#x20;
+1. Integration with [0x Protocol API](https://0x.org/docs/api) or 1inch API, which enables us to route orders via your exchange.  Reach out to the 0x team at their [discord](https://discord.gg/d3FTX3M) or [fill this form to get in touch](https://docs.google.com/forms/d/e/1FAIpQLSf9Xw5M4I8c2Kw1mTkc5LsucrT\_3pRuJ6O6RRHPPvn9EXL1tQ/viewform) or contact the 1inch team.&#x20;
 2. Integration in DexGuru UI.  &#x20;
 
-When your exchange would be available at 0x API we can discuss further integration at Dexguru UI.&#x20;
+When your exchange is available at 0xAPI or 1inchA API, we can discuss further integration with Dexguru UI.&#x20;
 
 ## **DexGuru is amazing! Is there a way for me to invest in your project?**
 
