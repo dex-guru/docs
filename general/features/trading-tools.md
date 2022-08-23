@@ -30,5 +30,5 @@ The Swap Confirmation pop-up lets you know if you do not have sufficient balance
 
 ![Insufficient balance](<../../.gitbook/assets/006 (2).png>)
 
-We use 0x API and 1inch API to route orders most efficiently. All orders are routed through 0xAPI except the [Arbitrum](https://bridge.arbitrum.io/) chain. Arbitrum orders are routed through [1inch API](https://docs.1inch.io/docs/limit-order-protocol/api/). You can find more information about exchanges inside our [Swapping Tokens](../../more-info/swapping-tokens.md) article.&#x20;
+We use 0x API to route orders most efficiently. Orders being routed through any 0x API connected exchange. You can find more information about exchages inside our [Swapping Tokens](../../more-info/swapping-tokens.md) article.&#x20;
 

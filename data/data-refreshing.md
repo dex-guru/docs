@@ -53,7 +53,7 @@ We derive the ratio based on a [0xAPI](https://0x.org/api) response. All orders 
 
 ### #8 - Token To Amount and USD value
 
-The amount of tokens you receive and their USD value is based on a [0xAPI](https://0x.org/api) or 1inch API responses. The percentage is calculated by comparing the USD value of the token that is being taken from your wallet to the USD value of the token you are receiving by the end of the transaction.
+The amount of tokens you receive and their USD value is based on a [0xAPI](https://0x.org/api) or [1inch API](https://docs.1inch.io/docs/limit-order-protocol/api/) response. The percentage is calculated by comparing the USD value of the token that is being taken from your wallet to the USD value of the token you are receiving by the end of the transaction.
 
 ## Market Selector
 
