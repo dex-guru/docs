@@ -1,7 +1,7 @@
 ---
 description: >-
   Information and details regarding usage of Off-Chain data sources. Last
-  updated: March 2022
+  updated: August 2022
 cover: ../.gitbook/assets/Off Chain Data Usage.jpg
 coverY: 0
 ---
@@ -43,34 +43,34 @@ Below is the complete list of Token Lists that are currently being used:
 
 [**Uniswap TokenLists**](https://tokenlists.org/)**:**
 
-* [1inch Token List](https://wispy-bird-88a7.uniswap.workers.dev/?url=http://tokens.1inch.eth.link)
-* [AAVE Token List](off-chain-data-usage.md#usage-of-off-chain-data-sources)
-* [Agora dataFi Tokens](https://wispy-bird-88a7.uniswap.workers.dev/?url=http://datafi.theagora.eth.link)
+* [~~1inch Token List~~](https://wispy-bird-88a7.uniswap.workers.dev/?url=http://tokens.1inch.eth.link)~~~~
+* [~~AAVE Token List~~](off-chain-data-usage.md#usage-of-off-chain-data-sources)~~~~
+* [~~Agora dataFi Tokens~~](https://wispy-bird-88a7.uniswap.workers.dev/?url=http://datafi.theagora.eth.link)~~~~
 * [BA ERC20 SEC Action List](https://raw.githubusercontent.com/The-Blockchain-Association/sec-notice-list/master/ba-sec-list.json)
-* [CoinMarketCap (CMC) DeFi List](https://wispy-bird-88a7.uniswap.workers.dev/?url=http://defi.cmc.eth.link)
-* [CMC Stablecoins List](https://wispy-bird-88a7.uniswap.workers.dev/?url=http://stablecoin.cmc.eth.link)
-* [CMC 200 ERC20 List](https://wispy-bird-88a7.uniswap.workers.dev/?url=http://erc20.cmc.eth.link)
+* [~~CoinMarketCap (CMC) DeFi List~~](https://wispy-bird-88a7.uniswap.workers.dev/?url=http://defi.cmc.eth.link)~~~~
+* [~~CMC Stablecoins List~~](https://wispy-bird-88a7.uniswap.workers.dev/?url=http://stablecoin.cmc.eth.link)~~~~
+* [~~CMC 200 ERC20 List~~](https://wispy-bird-88a7.uniswap.workers.dev/?url=http://erc20.cmc.eth.link)~~~~
 * [CompliFi Originals List](https://compli.fi/complifi.tokenlist.json)
 * [Compound Finance Token List](https://raw.githubusercontent.com/compound-finance/token-list/master/compound.tokenlist.json)
 * [Defiprime List](https://defiprime.com/defiprime.tokenlist.json)
-* [Dharma Token List](https://tokenlists.org/token-list?url=tokenlist.dharma.eth)
+* [~~Dharma Token List~~](https://tokenlists.org/token-list?url=tokenlist.dharma.eth)~~~~
 * [Furucombo List](https://cdn.furucombo.app/furucombo.tokenlist.json)
 * [Gemini Token List](https://www.gemini.com/uniswap/manifest.json)
-* [Kleros Tokens List](https://wispy-bird-88a7.uniswap.workers.dev/?url=http://t2crtokens.eth.link)
-* [Kyber Network List](https://api.kyber.network/tokenlist)
+* [~~Kleros Tokens List~~](https://wispy-bird-88a7.uniswap.workers.dev/?url=http://t2crtokens.eth.link)~~~~
+* ~~~~[~~Kyber Network List~~](https://api.kyber.network/tokenlist)~~~~
 * [Messari Verified Tokens](https://messari.io/tokenlist/messari-verified)
 * [MyCrypto Token List](https://uniswap.mycryptoapi.com/)
 * [Roll Social Money List](https://app.tryroll.com/tokens.json)
 * [Set Protocol List](https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/set.tokenlist.json)
-* [Synthetix List](https://wispy-bird-88a7.uniswap.workers.dev/?url=http://synths.snx.eth.link)
+* [~~Synthetix List~~](https://wispy-bird-88a7.uniswap.workers.dev/?url=http://synths.snx.eth.link)~~~~
 * [UMA Token Lists](https://umaproject.org/uma.tokenlist.json)
 * [Uniswap Labs List](https://gateway.ipfs.io/ipns/tokens.uniswap.org)
 * [Uniswap Token Pairs List](https://raw.githubusercontent.com/jab416171/uniswap-pairtokens/master/uniswap\_pair\_tokens.json)
-* [Wrapped Tokens List](https://wispy-bird-88a7.uniswap.workers.dev/?url=http://wrapped.tokensoft.eth.link)
-* [Yearn Finance List](https://yearn.science/static/tokenlist.json)
-* [Zerion List](https://wispy-bird-88a7.uniswap.workers.dev/?url=http://tokenlist.zerion.eth.link)
+* [~~Wrapped Tokens List~~](https://wispy-bird-88a7.uniswap.workers.dev/?url=http://wrapped.tokensoft.eth.link)~~~~
+* [~~Yearn Finance List~~](https://yearn.science/static/tokenlist.json)~~~~
+* ~~~~[~~Zerion List~~](https://wispy-bird-88a7.uniswap.workers.dev/?url=http://tokenlist.zerion.eth.link)~~~~
 * [Zapper Token List](https://zapper.fi/api/token-list)
-* [Token Name Service](https://wispy-bird-88a7.uniswap.workers.dev/?url=http://list.tkn.eth.link)
+* [~~Token Name Service~~](https://wispy-bird-88a7.uniswap.workers.dev/?url=http://list.tkn.eth.link)~~~~
 
 **Other Lists:**
 
@@ -97,19 +97,8 @@ Below is the complete list of Token Lists that are currently being used:
 
 ### Avalanche
 
-****[**PangolinDEX Lists**](off-chain-data-usage.md#usage-of-off-chain-data-sources)**:**
-
-* ****[Top 15 Tokens](https://raw.githubusercontent.com/pangolindex/tokenlists/main/top15.tokenlist.json)
-* [AVAX Bridge Tokens](https://raw.githubusercontent.com/pangolindex/tokenlists/main/ab.tokenlist.json)
-* [AVAX - Ethereum Bridge Tokens](https://raw.githubusercontent.com/pangolindex/tokenlists/main/aeb.tokenlist.json)
-* [AVAX DeFi Tokens](https://raw.githubusercontent.com/pangolindex/tokenlists/main/defi.tokenlist.json)
-* [AVAX Stablecoins](https://raw.githubusercontent.com/pangolindex/tokenlists/main/stablecoin.tokenlist.json)
-* [Fuji Token List](https://raw.githubusercontent.com/pangolindex/tokenlists/main/fuji.tokenlist.json)
-* [P](https://raw.githubusercontent.com/pangolindex/tokenlists/main/pangolin.tokenlist.json)[angolin Token List](https://raw.githubusercontent.com/pangolindex/tokenlists/main/pangolin.tokenlist.json)
-
-**Other Lists:**
-
 * [CoinGecko Avalanche Lists](https://tokens.coingecko.com/avalanche/all.json)
+* [Pangolin Token List](https://raw.githubusercontent.com/pangolindex/tokenlists/main/pangolin.tokenlist.json)
 
 ### Fantom
 
