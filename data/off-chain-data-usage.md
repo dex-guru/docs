@@ -71,6 +71,10 @@ Below is the complete list of Token Lists that are currently being used:
 * ~~~~[~~Zerion List~~](https://wispy-bird-88a7.uniswap.workers.dev/?url=http://tokenlist.zerion.eth.link)~~~~
 * [Zapper Token List](https://zapper.fi/api/token-list)
 * [~~Token Name Service~~](https://wispy-bird-88a7.uniswap.workers.dev/?url=http://list.tkn.eth.link)~~~~
+* [Balancer Token List](https://raw.githubusercontent.com/balancer-labs/assets/master/generated/listed.tokenlist.json)
+* [Bancor Token List](https://raw.githubusercontent.com/bancorprotocol/default-token-list/main/tokens.json)
+* [KyberSwap Token List](https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/tokenLists/ethereum.tokenlist.json)
+* [SushiSwap Menu](https://token-list.sushi.com/)
 
 **Other Lists:**
 
