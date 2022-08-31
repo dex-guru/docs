@@ -20,15 +20,15 @@ If you do not see assets in your wallet, it is a good idea to check your wallet�
 
 Copy your wallet’s public address and search for it on a blockchain explorer.
 
-![](../../.gitbook/assets/001.png)
+![](<../../.gitbook/assets/001 (1).png>)
 
 
 
 After entering your public address, you will see your ETH or BNB balance in native value. You will also see all up-to-date transactions that happened to your wallet. To view Expanded Token Holdings click on the button next to the value of your custom tokens.
 
-![](../../.gitbook/assets/002.png)
+![](<../../.gitbook/assets/002 (1).png>)
 
-![](<../../.gitbook/assets/003 (1).png>)
+![](<../../.gitbook/assets/003 (1) (1).png>)
 
 
 
@@ -43,9 +43,9 @@ Go to your Token Holdings, find the token you want to add to your wallet, and pr
 
 If you are using MetaMask, go to your Assets, scroll down, and press “Add Token”
 
-![](../../.gitbook/assets/005.png)
+![](<../../.gitbook/assets/005 (1).png>)
 
-![](<../../.gitbook/assets/006 (1).png>)
+![](<../../.gitbook/assets/006 (1) (1).png>)
 
 Press “Custom Token.” Make sure you are connected to the correct network (ETH or BSC).
 

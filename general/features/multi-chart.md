@@ -4,39 +4,35 @@ description: Analyze and customize multiple token charts inside just one tab.
 
 # Multi-Chart
 
-![](../../.gitbook/assets/MultiChart\_1.png)
+<figure><img src="../../.gitbook/assets/001.png" alt=""><figcaption></figcaption></figure>
 
-****
+To **open Multi-Chart**, click on the puzzle 🧩 icon in the left navbar.
 
-****
-
-To **open Multi-Chart**, click on the puzzle 🧩  icon in the header.
-
-![](../../.gitbook/assets/MultiChart\_2.png)
+<figure><img src="../../.gitbook/assets/002.png" alt=""><figcaption></figcaption></figure>
 
 
 
 To **add more charts to the page**, click the “+Add Chart” button in the top right corner.
 
-![](../../.gitbook/assets/MultiChart\_3.png)
+<figure><img src="../../.gitbook/assets/003 (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
 **Group charts together** and name them.
 
-![](../../.gitbook/assets/MultiChart\_4.png)
+<figure><img src="../../.gitbook/assets/004.png" alt=""><figcaption></figcaption></figure>
 
 
 
 **Create a new group** without losing old group settings.
 
-![](../../.gitbook/assets/MultiChart\_5.png)
+<figure><img src="../../.gitbook/assets/005.png" alt=""><figcaption></figcaption></figure>
 
 
 
 **Rename or delete the group** by clicking three dots right next to the group name.
 
-![](../../.gitbook/assets/MultiChart\_6.png)
+<figure><img src="../../.gitbook/assets/006 (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
