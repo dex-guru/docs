@@ -21,7 +21,7 @@
     * [Trending Tab](general/features/market-selector/trending-tab.md)
   * [Multichain](general/features/multichain.md)
   * [Token Profile - DYOR 🍄](general/features/dyor.md)
-  * [Trader Profile 🐋](general/features/trader-profile.md)
+  * [Account Profile 🐋](general/features/account-profile.md)
 * [FAQ](general/faq.md)
 * [Troubleshooting Errors](general/troubleshooting-errors.md)
 

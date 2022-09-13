@@ -1,8 +1,10 @@
 ---
-description: Discover and deep dive into Trader's wallets to see their activity
+description: >-
+  (aka Trader Profile) Discover and deep dive into Trader's wallets to see their
+  activity
 ---
 
-# Trader Profile 🐋
+# Account Profile 🐋
 
 For further information regarding a Trader's Wallet token balances and recent activity, you can visit their Trader Profile. This page allows you deep dive into a Trader's wallet to see exactly what they've been up recently and also view their historical transactions.
 

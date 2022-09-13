@@ -22,6 +22,6 @@ Currently, the account labeling feature can be found inside 🍄[Token Profile ]
 
 ![](<../../.gitbook/assets/Twitter\_Token Profile (1).png>)
 
-You can also check account type inside [Account Profile](trader-profile.md) (aka Token Profile[🐳](trader-profile.md))&#x20;
+You can also check account type inside [Account Profile](account-profile.md) (aka Token Profile[🐳](account-profile.md))&#x20;
 
 ![](<../../.gitbook/assets/Twitter\_Trader Profile (1).png>)
