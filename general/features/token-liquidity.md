@@ -6,13 +6,21 @@ description: and Pools Activity
 
 <figure><img src="../../.gitbook/assets/Screen Shot 2022-08-23 at 3.49.41 PM.png" alt=""><figcaption><p><strong>Token Liquidity</strong></p></figcaption></figure>
 
-We measure liquidity $ value for a token, not for a trading pair. ****&#x20;
+We measure liquidity $ value for a token, not for a trading pair. **** When determining how liquid a token is, we don’t really care about how much of that token is in liquidity pools, we care about the value of other tokens that it can be swapped for.&#x20;
 
 {% hint style="info" %}
-To get the liquidity value for any given token, we add the total token amount across [supported liquidity pools](https://docs.dex.guru/data/supported-dexs-amms) and multiply it by the token's USD price. Only the given token is used in calculations out of multiple tokens inside liquidity pools.
+To determine a liquidity value for a given token X, we look across [supported liquidity pools](https://docs.dex.guru/data/supported-dexs-amms) and calculate the amounts of available tokens you can swap with token X. Then, to get the liquidity of token X, we multiply these available tokens by their corresponding USD prices and sum it all up.
 {% endhint %}
 
-This section of the DexGuru interface shows available on-chain token liquidity and AMM’s pool activity. It shows when and how many tokens are deposited or removed from the liquidity pools for the given token.&#x20;
+The simple formula that works for all pool types that we are using is:
+
+_**Liquidity of token X = TVL of all pools containing token X minus the total value of token A in those pools**_
+
+Which can also be written as:
+
+_**Liquidity of token X = total value of all other tokens in pools containing token x**_
+
+This left section of the DexGuru interface shows available on-chain token liquidity and AMM’s pool activity. It shows when and how many tokens are deposited or removed from the liquidity pools for the given token.&#x20;
 
 ![](<../../.gitbook/assets/Token Liquidity 01 (1).png>)
 
