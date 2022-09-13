@@ -24,12 +24,14 @@ This left section of the DexGuru interface shows available on-chain token liquid
 
 ![](<../../.gitbook/assets/Token Liquidity 01 (1).png>)
 
-To specify the token liquidity pool you want to look at, pick it in the [Market Selector](https://docs.dex.guru/features/market-selector) area.&#x20;
+To specify the token, pick it in the [Market Selector](https://docs.dex.guru/features/market-selector) area.&#x20;
 
 ![
 ](<../../.gitbook/assets/Token Liquidity 01.png>)
 
-### Liquidity Provider Categories:
+### Liquidity Provider Categories
+
+provides you with insight into what type of accounts are liquidity providers for the selected token
 
 ![](<../../.gitbook/assets/Token Liquidity 3.png>)
 
