@@ -6,7 +6,7 @@ You can see token liquidity over time directly on the chart. Learn more about ho
 
 <figure><img src="../../../.gitbook/assets/Screen Shot 2022-09-12 at 7.03.01 PM (1).png" alt=""><figcaption></figcaption></figure>
 
-To add liquidity to your chart:&#x20;
+#### To add liquidity to your chart:&#x20;
 
 1.  Go to Indicators&#x20;
 
