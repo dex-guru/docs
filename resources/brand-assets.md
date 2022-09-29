@@ -1,24 +1,20 @@
 ---
-description: Dexguru logo
+description: Dexguru brand
 ---
 
 # Brand Assets
 
-![](../.gitbook/assets/horizontal-logo-dark-background.png)
 
 
-
-![](../.gitbook/assets/horizontal-logo-white-background.png)
-
-![](../.gitbook/assets/symbol-white-background.png)
-
-![](../.gitbook/assets/symbol-dark-background.png)
-
-
-
-
-
-{% file src="../.gitbook/assets/dex.guru-brand-assets.zip" %}
-Download brand assets
+{% file src="../.gitbook/assets/dex.guru assets.zip" %}
+Download brand assets (svg, png versions)
 {% endfile %}
+
+Dexguru symbol
+
+<figure><img src="../.gitbook/assets/Symbol.png" alt=""><figcaption></figcaption></figure>
+
+Dexguru logotype. Display on different backgrounds.
+
+<figure><img src="../.gitbook/assets/Colors_version.png" alt=""><figcaption></figcaption></figure>
 
