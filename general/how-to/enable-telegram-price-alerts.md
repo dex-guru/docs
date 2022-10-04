@@ -4,16 +4,16 @@ description: >-
   Notifications only work on desktops.
 ---
 
-# Enable Price Alerts
+# Enable Telegram Price Alerts
 
 To enable notifications for a token, you need:&#x20;
 
-1. [Connect your web3 wallet.](enable-price-alerts.md#1.-connect-your-web3-wallet.)
-2. [Add tokens to your Favorites.](enable-price-alerts.md#2.-add-tokens-to-your-favorites.)
-3. [Go to Settings.](enable-price-alerts.md#3.-go-to-settings.)
-4. [Enable notifications toggle.](enable-price-alerts.md#4.-enable-notifications-toggle.)
-5. [Set desired threshold in percents.](enable-price-alerts.md#5.-set-desired-threshold-in-percents.)
-6. [Save your changes.](enable-price-alerts.md#undefined)
+1. [Connect your web3 wallet.](enable-telegram-price-alerts.md#1.-connect-your-web3-wallet.)
+2. [Add tokens to your Favorites.](enable-telegram-price-alerts.md#2.-add-tokens-to-your-favorites.)
+3. [Go to Settings.](enable-telegram-price-alerts.md#3.-go-to-settings.)
+4. [Enable notifications toggle.](enable-telegram-price-alerts.md#4.-enable-notifications-toggle.)
+5. [Set desired threshold in percents.](enable-telegram-price-alerts.md#5.-set-desired-threshold-in-percents.)
+6. [Save your changes.](enable-telegram-price-alerts.md#undefined)
 
 ### 1. **Connect your web3 wallet.**
 

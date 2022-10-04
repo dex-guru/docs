@@ -6,7 +6,7 @@
 * [How to](general/how-to/README.md)
   * [Connect your Wallet](general/how-to/connect-wallet.md)
   * [Buying & Selling Tokens](general/how-to/buy-sell.md)
-  * [Enable Price Alerts](general/how-to/enable-price-alerts.md)
+  * [Enable Telegram Price Alerts](general/how-to/enable-telegram-price-alerts.md)
   * [Check Wallet Balance](general/how-to/see-my-wallets-balance.md)
 * [Features](general/features/README.md)
   * [Market Activity](general/features/trading-history.md)
