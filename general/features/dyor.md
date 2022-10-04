@@ -70,7 +70,7 @@ The total number of transactions involving the Token that occurred in the last 2
 
 ## Top Token Holders List
 
-![Top Token Holders in Trader Profile](<../../.gitbook/assets/image (24).png>)
+![Top Token Holders in Trader Profile](<../../.gitbook/assets/image (24) (2).png>)
 
 The Top Token Holders list shows the Top 100 Token Holders. From here you will be able to see the following information about these top holders:
 

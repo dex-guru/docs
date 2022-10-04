@@ -6,13 +6,13 @@ description: Never miss an opportunity with DexGuru price notifications
 
 Alerts & Notifications section is located in the top right corner.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 Token price alerts are available for you after you connect your wallet.&#x20;
 
-By default, notifications are turned on for your Favorites😍 with a 10% threshold. Anytime one of the tokens from your Favorites😍 changes the price by more than 10% in 30 minutes, you will receive a notification.
+By default, notifications are turned on for your Favorites😍 with a 10% threshold. Anytime one of the tokens from your Favorites😍 changes the price by more than 10% in 30 minutes, you will receive a notification inside Alerts & Notifications section.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 You can change the 10% threshold by going to My Alerts and looking for the edit icon(which looks like a pencil).&#x20;
 
