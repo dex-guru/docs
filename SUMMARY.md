@@ -22,6 +22,7 @@
   * [Multichain](general/features/multichain.md)
   * [Token Profile - DYOR 🍄](general/features/dyor.md)
   * [Account Profile 🐋](general/features/account-profile.md)
+  * [Notifications](general/features/notifications.md)
   * [Charting](general/features/charting/README.md)
     * [Custom Indicators](general/features/charting/custom-indicators.md)
 * [FAQ](general/faq.md)
