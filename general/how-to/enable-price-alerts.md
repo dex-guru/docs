@@ -1,5 +1,7 @@
 ---
-description: DexGuru Telegram notifications help you stay on top of tokens’ prices.
+description: >-
+  Set up token price notifications and receive them straight to your Telegram
+  account.
 ---
 
 # Enable Telegram Price Alerts
