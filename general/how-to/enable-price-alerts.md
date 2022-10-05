@@ -4,13 +4,15 @@ description: DexGuru Telegram notifications help you stay on top of tokens’ pr
 
 # Enable Telegram Price Alerts
 
+Watch this [demo video](https://www.youtube.com/watch?v=PobSLoS2YRg\&t=526s) on how to enable Telegram notifications for token prices.&#x20;
+
 To enable notifications for a token, you need:&#x20;
 
 1. [Connect your web3 wallet.](enable-price-alerts.md#1.-connect-your-web3-wallet.)
 2. [Add tokens to your Favorites.](enable-price-alerts.md#2.-add-tokens-to-your-favorites.)
 3. [Go to Settings to connect the Telegram bot to your DexGuru account.](enable-price-alerts.md#3.-go-to-settings.)
-4. Go to Alerts & Notifications🔔 to create or edit(if you already have one) your alert.
-5. Make sure Telegram is set as a delivery channel and customize your price threshold.
+4. [Go to Alerts & Notifications🔔 to create or edit(if you already have one) your alert.](enable-price-alerts.md#4.-go-to-alerts-and-notifications-to-create-or-edit-if-you-already-have-one-your-alert.)
+5. [Make sure Telegram is set as a delivery channel and customize your price threshold.](enable-price-alerts.md#5.-make-sure-telegram-is-set-as-a-delivery-channel-and-customize-your-price-threshold.)
 6. [Save your changes.](enable-price-alerts.md#undefined)
 
 ### 1. **Connect your web3 wallet.**
@@ -38,7 +40,7 @@ Create a new alert if you do not have one.
 
 Edit an existing alert if you already have one.&#x20;
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2022-10-04 at 5.27.13 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2022-10-04 at 5.27.13 PM (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **5.** Make sure Telegram is set as a delivery channel and customize your price threshold.
 
