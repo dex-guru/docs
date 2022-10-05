@@ -34,7 +34,7 @@ Press a heart button to add a token to your Favorites.
 
 Create a new alert if you do not have one.
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2022-10-04 at 5.29.41 PM.png" alt=""><figcaption><p>Create Alert</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2022-10-04 at 5.29.41 PM (1).png" alt=""><figcaption><p>Create Alert</p></figcaption></figure>
 
 Edit an existing alert if you already have one.&#x20;
 
@@ -42,13 +42,11 @@ Edit an existing alert if you already have one.&#x20;
 
 ### **5.** Make sure Telegram is set as a delivery channel and customize your price threshold.
 
-In the example below the threshold is set to 10%, meaning when a token’s price changes more than 10% during the last 30 minutes, you will receive a push notification. The threshold you set will apply to all tokens in your Favorites.
-
-![](<../../.gitbook/assets/5. Set desired threshold in percents..png>)
+<figure><img src="../../.gitbook/assets/Screen Shot 2022-10-04 at 5.41.35 PM.png" alt=""><figcaption></figcaption></figure>
 
 ### 6. **Save your changes.**
 
-![](<../../.gitbook/assets/6. Save your changes..png>)
+<figure><img src="../../.gitbook/assets/Screen Shot 2022-10-04 at 5.48.32 PM.png" alt=""><figcaption></figcaption></figure>
 
 ###
 
