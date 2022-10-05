@@ -4,7 +4,7 @@ description: DexGuru Telegram notifications help you stay on top of tokens’ pr
 
 # Enable Telegram Price Alerts
 
-Watch this [demo video](https://www.youtube.com/watch?v=PobSLoS2YRg\&t=526s) on how to enable Telegram notifications for token prices.&#x20;
+Watch this [video](https://www.youtube.com/watch?v=PobSLoS2YRg) on how to enable Telegram notifications for token prices or follow the instructions below.&#x20;
 
 To enable notifications for a token, you need:&#x20;
 
