@@ -4,7 +4,7 @@ description: Analyze and customize multiple token charts inside just one tab.
 
 # Multi-Chart
 
-<figure><img src="../../.gitbook/assets/001.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/001 (2).png" alt=""><figcaption></figcaption></figure>
 
 To **open Multi-Chart**, click on the puzzle 🧩 icon in the left navbar.
 
@@ -20,13 +20,13 @@ To **add more charts to the page**, click the “+Add Chart” button in the top
 
 **Group charts together** and name them.
 
-<figure><img src="../../.gitbook/assets/004.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/004 (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
 **Create a new group** without losing old group settings.
 
-<figure><img src="../../.gitbook/assets/005.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/005 (2).png" alt=""><figcaption></figcaption></figure>
 
 
 

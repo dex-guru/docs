@@ -37,7 +37,7 @@ Wallets like MetaMask display a limited list of standard token balances but do n
 
 Go to your Token Holdings, find the token you want to add to your wallet, and press it. Copy the Contract Address. You will need to add it to your wallet.
 
-![](<../../.gitbook/assets/004 (1).png>)
+![](<../../.gitbook/assets/004 (1) (1).png>)
 
 
 

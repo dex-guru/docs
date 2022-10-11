@@ -10,7 +10,7 @@ DexGuru is a fully non-custodial platform, so the assets in your wallet are alwa
 
 Click on a wallet icon at the top right corner&#x20;
 
-![](<../../.gitbook/assets/Connect wallet 001.png>)
+<figure><img src="../../.gitbook/assets/001.png" alt=""><figcaption></figcaption></figure>
 
 Choose Metamask&#x20;
 
@@ -22,7 +22,7 @@ We use Signature Requests for authentication. By signing it, you prove that you 
 
 All set:&#x20;
 
-![](<../../.gitbook/assets/Connect wallet 004.png>)
+<figure><img src="../../.gitbook/assets/004.png" alt=""><figcaption></figcaption></figure>
 
 ### WalletConnect
 
@@ -30,7 +30,7 @@ All set:&#x20;
 
 Click on a wallet icon at the top right corner&#x20;
 
-![](<../../.gitbook/assets/Connect wallet 005.png>)
+<figure><img src="../../.gitbook/assets/005.png" alt=""><figcaption></figcaption></figure>
 
 Choose Walletconnect&#x20;
 
@@ -44,7 +44,7 @@ Scan QR code from your screen with a WalletConnect-compatible wallet, and confir
 
 All set:&#x20;
 
-![](<../../.gitbook/assets/Connect wallet 008.png>)
+<figure><img src="../../.gitbook/assets/008 (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
