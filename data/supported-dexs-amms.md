@@ -28,6 +28,7 @@ DexGuru currently supports the following DEXs below.
 | 1inch                | 14tth April 2022   |
 | Curve                | 20th April 2022    |
 | STEPN                | 17th August 2022   |
+| PancakeSwap          | 17th October 2022  |
 
 ## **Binance Smart Chain**
 
@@ -60,6 +61,7 @@ DexGuru currently supports the following DEXs below.
 | Fstswap            | 17th August 2022   |
 | Pandora            | 17th August 2022   |
 | STEPN              | 17th August 2022   |
+| SheepDex           | 17th August 2022   |
 | BabyDogeSwap       | 17th October 2022  |
 
 ## **Avalanche**
