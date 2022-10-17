@@ -60,6 +60,7 @@ DexGuru currently supports the following DEXs below.
 | Fstswap            | 17th August 2022   |
 | Pandora            | 17th August 2022   |
 | STEPN              | 17th August 2022   |
+| BabyDogeSwap       | 17th October 2022  |
 
 ## **Avalanche**
 
