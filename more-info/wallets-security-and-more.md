@@ -99,7 +99,8 @@ Of course, this applies to Web 3.0 as well - and although we can't control the a
   * Developer & API Docs -> [https://developers.dex.guru/](https://developers.dex.guru/)
   * Official Twitter -> [https://twitter.com/dexguru/](https://twitter.com/dexguru/)
   * Official Discord Invite -> [https://discord.com/invite/dPW8fzwzz9](https://discord.com/invite/dPW8fzwzz9)
-  * Official Telegram Group → [https://t.me/dexguru](https://t.me/dexguru) - @dexguru
+  * Official Telegram Group → [https://t.me/dexguru](https://t.me/dexguru) - @dexguru&#x20;
+  * Telegram Notifications Bot -> [@dxgurubot](https://t.me/dxgurubot)
 * **Never share your recovery phrase with anyone**
   * DexGuru team members will NEVER ask you for your recovery/seed phrase or private key
   * DexGuru official websites will NEVER prompt you to input and enter your recovery/seed phrase or private key
