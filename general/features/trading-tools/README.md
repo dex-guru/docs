@@ -30,5 +30,5 @@ The Swap Confirmation pop-up lets you know if you do not have sufficient balance
 
 ![Insufficient balance](<../../../.gitbook/assets/006 (2).png>)
 
-We use Meta Aggregation to route orders efficiently. You can also find more information about exchanges in our [Swapping Tokens](../../../more-info/swapping-tokens.md) article.&#x20;
+We use [Meta-aggregation](meta-aggregation.md) to route orders efficiently. You can also find more information about exchanges in our [Swapping Tokens](../../../more-info/swapping-tokens.md) article.&#x20;
 
