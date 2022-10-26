@@ -8,6 +8,68 @@ coverY: 0
 
 # Wallets, Security & More
 
+## **What smart contracts am I interacting with while using DexGuru?**
+
+DexGuru does not have a smart contract; instead, we use [meta-aggregation](https://docs.dex.guru/general/features/trading-tools/meta-aggregation). We use multiple decentralized exchange aggregators and their smart contracts. When you approve your token spending, you provide access to one of the following smart contracts:
+
+### **M**arket orders:
+
+#### via 0x router ([source](https://docs.0x.org/introduction/0x-cheat-sheet#exchange-proxy-addresses)):&#x20;
+
+Ethereum - [0xdef1c0ded9bec7f1a1670819833240f027b25eff](https://etherscan.io/address/0xdef1c0ded9bec7f1a1670819833240f027b25eff)&#x20;
+
+BSC - [0xdef1c0ded9bec7f1a1670819833240f027b25eff](https://bscscan.com/address/0xdef1c0ded9bec7f1a1670819833240f027b25eff)&#x20;
+
+Polygon - [0xdef1c0ded9bec7f1a1670819833240f027b25eff](https://polygonscan.com/address/0xdef1c0ded9bec7f1a1670819833240f027b25eff)&#x20;
+
+Avalanche - [0xdef1c0ded9bec7f1a1670819833240f027b25eff](https://snowtrace.io/address/0xdef1c0ded9bec7f1a1670819833240f027b25eff)&#x20;
+
+Fantom - [0xdef189deaef76e379df891899eb5a00a94cbc250](https://ftmscan.com/address/0xdef189deaef76e379df891899eb5a00a94cbc250)&#x20;
+
+Arbitrum - [0xdef1c0ded9bec7f1a1670819833240f027b25eff](https://arbiscan.io/address/0xdef1c0ded9bec7f1a1670819833240f027b25eff)&#x20;
+
+Optimism - [0xdef1abe32c034e558cdd535791643c58a13acc10](https://optimistic.etherscan.io/address/0xdef1abe32c034e558cdd535791643c58a13acc10)&#x20;
+
+CELO - [0xdef1c0ded9bec7f1a1670819833240f027b25eff](https://celoscan.io/address/0xdef1c0ded9bec7f1a1670819833240f027b25eff)
+
+#### via 1inch router ([source](https://docs.1inch.io/docs/aggregation-protocol/api/swagger)):&#x20;
+
+Ethereum - [0x1111111254fb6c44bac0bed2854e76f90643097d](https://etherscan.io/address/0x1111111254fb6c44bac0bed2854e76f90643097d)&#x20;
+
+BSC - [0x1111111254fb6c44bac0bed2854e76f90643097d](https://bscscan.com/address/0x1111111254fb6c44bac0bed2854e76f90643097d)&#x20;
+
+Polygon - [0x1111111254fb6c44bac0bed2854e76f90643097d](https://polygonscan.com/address/0x1111111254fb6c44bac0bed2854e76f90643097d)&#x20;
+
+Optimism - [0x1111111254760f7ab3f16433eea9304126dcd199](https://optimistic.etherscan.io/address/0x1111111254760f7ab3f16433eea9304126dcd199)
+
+Arbitrum - [0x1111111254fb6c44bac0bed2854e76f90643097d](https://arbiscan.io/address/0x1111111254fb6c44bac0bed2854e76f90643097d)
+
+Gnosis - [0x1111111254fb6c44bac0bed2854e76f90643097d](https://gnosisscan.io/address/0x1111111254fb6c44bac0bed2854e76f90643097d)&#x20;
+
+Avalanche - [0x1111111254fb6c44bac0bed2854e76f90643097d](https://snowtrace.io/address/0x1111111254fb6c44bac0bed2854e76f90643097d)
+
+Fantom - [0x1111111254fb6c44bac0bed2854e76f90643097d](https://ftmscan.com/address/0x1111111254fb6c44bac0bed2854e76f90643097d)
+
+### Limit orders:
+
+#### via 1inch protocol ([source](https://github.com/1inch/limit-order-protocol)):
+
+Ethereum - [0x119c71D3BbAC22029622cbaEc24854d3D32D2828](https://etherscan.io/address/0x119c71D3BbAC22029622cbaEc24854d3D32D2828)
+
+BSC - [0x1e38Eff998DF9d3669E32f4ff400031385Bf6362](https://bscscan.com/address/0x1e38Eff998DF9d3669E32f4ff400031385Bf6362#code)
+
+Polygon - [0x94Bc2a1C732BcAd7343B25af48385Fe76E08734f](https://polygonscan.com/address/0x94Bc2a1C732BcAd7343B25af48385Fe76E08734f#code)
+
+Optimism - [0x11431a89893025D2a48dCA4EddC396f8C8117187](https://optimistic.etherscan.io/address/0x11431a89893025D2a48dCA4EddC396f8C8117187)
+
+Arbitrun - [0x7F069df72b7A39bCE9806e3AfaF579E54D8CF2b9](https://arbiscan.io/address/0x7F069df72b7A39bCE9806e3AfaF579E54D8CF2b9)
+
+Gnosis [0x54431918cEC22932fCF97E54769F4E00f646690F](https://blockscout.com/xdai/mainnet/address/0x54431918cEC22932fCF97E54769F4E00f646690F/transactions)
+
+Avalanche - [0x0F85A912448279111694F4Ba4F85dC641c54b594](https://snowtrace.io/address/0x0F85A912448279111694F4Ba4F85dC641c54b594#code)
+
+Fantom - [0x11DEE30E710B8d4a8630392781Cc3c0046365d4c](https://ftmscan.com/address/0x11DEE30E710B8d4a8630392781Cc3c0046365d4c)
+
 ## **What wallets does DexGuru Support?**
 
 The DexGuru platform supports the majority of popular Web3.0 wallets, including the following:
