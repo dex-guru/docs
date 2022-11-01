@@ -13,6 +13,7 @@ All transactions and actions with your wallet on a blockchain are recorded; you 
 [**FTMScan**](https://ftmscan.com/) for Fantom Network. \
 [**ArbiScan**](https://arbiscan.io/) for Arbitrum Network. \
 [**Optimistic Ethereum Etherscan**](https://optimistic.etherscan.io/) for Optimism Network. \
+[**GnosisScan**](https://gnosisscan.io/) for Gnosis Chain. \
 [**Celo Explorer**](https://explorer.celo.org/) for CELO Network.
 
 If you do not see assets in your wallet, it is a good idea to check your wallet’s address on a blockchain explorer. Use **** [**Etherscan**](https://etherscan.io/) **** for **Ethereum** transactions, [**BscScan**](https://bscscan.com/) **** for **Binance Smart Chain** transactions, and so on. **** \

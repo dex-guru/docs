@@ -7,7 +7,7 @@ coverY: 0
 
 DexGuru is a non-custodial trading terminal made for traders in DeFi era, leveraging on-chain analytics combined with token swap execution capabilities.&#x20;
 
-We've built an interface that provides access to easy to understand on-chain data analysis across decentralized protocols on Ethereum, BSC, Polygon, Avalanche, Fantom, Arbitrum, Optimism, Gnosis, and CELO to enable traders to make best the best possible trade decisions in real-time!
+We've built an interface that provides access to easy to understand on-chain data analysis across decentralized protocols on Ethereum, BSC, Polygon, Avalanche, Fantom, Arbitrum, Optimism, and CELO to enable traders to make best the best possible trade decisions in real-time!
 
 ![](<.gitbook/assets/DexGuru Getting Started.png>)
 
