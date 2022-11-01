@@ -30,7 +30,7 @@ Yes! We have an API for developers. Visit our [Public API documentaion](https://
 
 ## Which Blockchains (L1s & L2s) do you cover?
 
-We currently support Ethereum, BSC, Polygon, FTM, Arbitrum, Optimism, Gnosis, Celo & Avalanche. Our team is always adding and supporting EVM-compatible chains on the DexGuru platform. We're also in the progress of adding some non-EVM chains, so keep on the look out!
+We currently support Ethereum, BSC, Polygon, FTM, Arbitrum, Optimism, Celo & Avalanche. Our team is always adding and supporting EVM-compatible chains on the DexGuru platform. We're also in the progress of adding some non-EVM chains, so keep on the look out!
 
 \
 For the most complete and updated list of chains on DexGuru, please visit [supported-chains.md](supported-chains.md "mention").

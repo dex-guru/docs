@@ -1,5 +1,5 @@
 ---
-description: 'Last Updated: 10th January 2022'
+description: 'Last Updated: 1st November 2022'
 cover: ../.gitbook/assets/Supported Chains2.jpg
 coverY: 0
 ---
@@ -18,3 +18,4 @@ DexGuru currently supports the following chains below.
 | Fantom              | 20th October 2021  |
 | CELO                | 10th November 2021 |
 | Optimism            | 10th January 2022  |
+| Gnosis              | 1st November 2022  |
