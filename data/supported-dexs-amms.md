@@ -152,3 +152,13 @@ DexGuru currently supports the following DEXs below.
 | Curve      | 11th May 2022     |
 | ZipSwap    | 2nd June 2022     |
 | Velodrome  | 15th July 2022    |
+
+## Gnosis
+
+| DEX Name    | Date Added       |
+| ----------- | ---------------- |
+| Swapr       | 1st October 2022 |
+| SushiSwap   | 1st October 2022 |
+| Honeyswap   | 1st October 2022 |
+| Elk Finance | 1st October 2022 |
+| Levin Swap  | 1st October 2022 |
