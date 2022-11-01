@@ -126,3 +126,10 @@ Below is the complete list of Token Lists that are currently being used:
 
 * [CoinGecko Optimism Token List](https://tokens.coingecko.com/optimistic-ethereum/all.json)
 * [Optimism Gateway Token List](https://static.optimism.io/optimism.tokenlist.json)
+
+### Gnosis
+
+* [CoinGecko Gnosis(xDAI) Token List ](https://tokens.coingecko.com/xdai/all.json)
+* [Symmetric Token List](https://raw.githubusercontent.com/centfinance/Symmetric.WebInterface-v2/symmetric-v2/src/data/listed.tokenlist.json)&#x20;
+* [Honeyswap Default](https://tokens.honeyswap.org/)&#x20;
+* [BaoSwap xDAI Default](https://raw.githubusercontent.com/baofinance/tokenlists/main/xdai.json)&#x20;
