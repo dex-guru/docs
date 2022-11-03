@@ -49,7 +49,7 @@ You input the amount of token you expect to be taken out of your wallet. Under t
 
 ### #7 - Rate
 
-We derive the ratio based on a [0xAPI](https://0x.org/api) response. All orders are routed through their API except the [Arbitrum](https://bridge.arbitrum.io/) chain. Arbitrum orders are routed through [1inch API](https://docs.1inch.io/docs/limit-order-protocol/api/).&#x20;
+We derive the ratio based on a [0xAPI](https://0x.org/api), 1inch, or Paraswap responses. All orders are routed through their API except the [Arbitrum](https://bridge.arbitrum.io/) chain. Arbitrum orders are routed through [1inch API](https://docs.1inch.io/docs/limit-order-protocol/api/).&#x20;
 
 ### #8 - Token To Amount and USD value
 
