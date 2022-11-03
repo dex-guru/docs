@@ -52,19 +52,19 @@ Fantom - [0x1111111254fb6c44bac0bed2854e76f90643097d](https://ftmscan.com/addres
 
 #### via Paraswap ([source](https://developers.paraswap.network/smart-contracts)):
 
-Ethereum - 0x216B4B4Ba9F3e719726886d34a177484278Bfcae
+Mainnet: [0x216b4b4ba9f3e719726886d34a177484278bfcae](https://etherscan.io/address/0x216b4b4ba9f3e719726886d34a177484278bfcae#code)
 
-BSC - 0x216B4B4Ba9F3e719726886d34a177484278Bfcae
+Polygon: [0x216b4b4ba9f3e719726886d34a177484278bfcae](https://polygonscan.com/address/0x216B4B4Ba9F3e719726886d34a177484278Bfcae#code)
 
-Polygon - 0x216B4B4Ba9F3e719726886d34a177484278Bfcae
+BSC: [0x216b4b4ba9f3e719726886d34a177484278bfcae](https://ropsten.etherscan.io/address/0x216b4b4ba9f3e719726886d34a177484278bfcae)
 
-Optimism - 0x216B4B4Ba9F3e719726886d34a177484278Bfcae
+Avalanche: [0x216b4b4ba9f3e719726886d34a177484278bfcae](https://cchain.explorer.avax.network/address/0x216B4B4Ba9F3e719726886d34a177484278Bfcae/contracts)
 
-Arbitrum - 0x216B4B4Ba9F3e719726886d34a177484278Bfcae
+Arbitrum: [0x216B4B4Ba9F3e719726886d34a177484278Bfcae](https://arbiscan.io/address/0x216B4B4Ba9F3e719726886d34a177484278Bfcae)
 
-Avalanche - 0x216B4B4Ba9F3e719726886d34a177484278Bfcae
+Optimism: [0x216B4B4Ba9F3e719726886d34a177484278Bfcae](https://optimistic.etherscan.io/address/0x216b4b4ba9f3e719726886d34a177484278bfcae)
 
-Fantom - 0x216B4B4Ba9F3e719726886d34a177484278Bfcae
+Fantom: [0x216B4B4Ba9F3e719726886d34a177484278Bfcae](https://etherscan.io/address/0x216b4b4ba9f3e719726886d34a177484278bfcae#code)
 
 ### Limit orders:
 
