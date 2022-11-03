@@ -31,7 +31,7 @@ We do have future plans to introduce and add premium subscription plans for more
 
 ## How **are Token Swap O**rders being routed?
 
-All swaps on DexGuru are routed through the 0x Protocol API or 1inch API. All orders are optimized through their exchange network.&#x20;
+All swaps on DexGuru are routed through the 0x Protocol API, Paraswap, or 1inch API. All orders are optimized through their exchange network.&#x20;
 
 For more details about 0x Protocol API, 1inch API and how token swaps work on DexGuru, please visit [swapping-tokens.md](../more-info/swapping-tokens.md "mention")
 
