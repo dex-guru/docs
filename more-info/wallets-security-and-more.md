@@ -84,7 +84,7 @@ Gnosis [0x54431918cEC22932fCF97E54769F4E00f646690F](https://blockscout.com/xdai/
 
 Avalanche - [0x0F85A912448279111694F4Ba4F85dC641c54b594](https://snowtrace.io/address/0x0F85A912448279111694F4Ba4F85dC641c54b594#code)
 
-Fantom - [0x11DEE30E710B8d4a8630392781Cc3c0046365d4c](https://ftmscan.com/address/0x11DEE30E710B8d4a8630392781Cc3c0046365d4c)
+Fantom - [0x216B4B4Ba9F3e719726886d34a177484278Bfcae](https://ftmscan.com/address/0x216B4B4Ba9F3e719726886d34a177484278Bfcae#code)
 
 ## **What wallets does DexGuru Support?**
 
