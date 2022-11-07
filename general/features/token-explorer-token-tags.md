@@ -11,6 +11,8 @@ Examples of token tags:
 
 We encourage our community to participate in adding new tokens and new tags to our [Github repository.](https://github.com/dex-guru/tags)
 
+Keep in mind, this is NOT investment advice, a stamp of approval, or any kind of recommendation.
+
 
 
 To open Token Explorer, look for a coin emoji in the left sidebar.
