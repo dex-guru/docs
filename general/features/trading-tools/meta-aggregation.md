@@ -10,7 +10,7 @@ Meta-aggregation is available for market orders on Ethereum, BSC, Polygon, Avala
 
 
 
-As a DexGuru user, you interact with multiple smart contracts depending on the router. You can find the list of them [here](https://docs.dex.guru/more-info/wallets-security-and-more#what-smart-contracts-am-i-interacting-with-while-using-dexguru).&#x20;
+As a DexGuru user, you interact with multiple smart contracts depending on the router. You can find the list of them in the [wallets-security-and-more.md](../../../more-info/wallets-security-and-more.md "mention")section.
 
 
 
