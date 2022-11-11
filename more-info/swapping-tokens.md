@@ -10,21 +10,21 @@ coverY: 0
 
 ## **How do swaps on DexGuru work? Did you build your own DEX?**
 
-Although we haven't built our own DEX from scratch, we currently use 0x Protocol API and 1inch API to route all buy & sell (swap) orders on the DexGuru platform. Both 0x Protocol and 1inch protocol are industry-leading liquidity aggregators and are used by many Web3.0 leaders that you may already be familiar with, such as MetaMask, DeFi Saver, Zapper & more.
+Although we haven't built our own DEX from scratch, we currently use 0x, 1inch, and Paraswap protocols to route all buy & sell (swap) orders on the DexGuru platform. All the above protocols are industry-leading liquidity aggregators and are used by many Web3.0 leaders that you may already be familiar with, such as MetaMask, DeFi Saver, Zapper & more.
 
 {% hint style="success" %}
-By integrating and using 0x Protocol API and 1inch API to route orders, we're able to offer DexGuru traders optimized token swaps that are fast, gas efficient, and have low slippage, meaning you'll get the best deal and rates on your swaps.
+By integrating and using 0x, 1inch, and Paraswap protocols to route orders, we're able to offer DexGuru traders optimized token swaps that are fast, gas efficient, and have low slippage, meaning you'll get the best deal and rates on your swaps.
 {% endhint %}
 
-For more information about 0x Protocol, visit their [official site](https://0x.org/) and check out their [performance analysis](https://blog.0xproject.com/a-comprehensive-analysis-on-dex-liquidity-aggregators-performance-dfb9654b0723) to see how they come out on top when compared with other DEX liquidity aggregators! Learn more about 1inch API [here](https://docs.1inch.io/docs/aggregation-protocol/introduction).&#x20;
+For more information about protocols, visit their official websites: [0x](https://www.0x.org/), [1inch](https://1inch.io/), and [Paraswap](https://www.paraswap.io/).&#x20;
 
 For more information on how swaps are routed and which DEXs are being used, check out [#how-are-swaps-routed-which](swapping-tokens.md#how-are-swaps-routed-which "mention")
 
 ## **How do I know my swap orders conducted with my wallet are safe?**
 
-As discussed above, when trading on DexGuru all your token approvals and orders are interacting with the 0x Protocol API through their **"0x: Exchange Proxy"** smart contract at: [_**0xdef1c0ded9bec7f1a1670819833240f027b25eff**_](https://etherscan.io/address/0xdef1c0ded9bec7f1a1670819833240f027b25eff)&#x20;
+As discussed above, when trading on DexGuru all your token approvals and orders interact with the 0x, 1inch, or Paraswap protocols through their proxy smart contracts. Check out the full list of smart contract addresses in the [wallets-security-and-more.md](wallets-security-and-more.md "mention")section.&#x20;
 
-> _You can verify the smart contract address on the_ [_official 0x Protocol documentation_](https://0x.org/docs/guides/0x-cheat-sheet)_. This smart contract address is the same across all currently supported chains and you can view all the transactions that are interacting with this smart contract publicly on supported block explorers._
+> _You can verify the smart contract address on the official documantations:_ [_0x_](https://docs.0x.org/introduction/0x-cheat-sheet)_,_[ _1inch_](https://docs.1inch.io/)_,_  [_Paraswap_](https://developers.paraswap.network/smart-contracts)_._&#x20;
 
 When a swap is successfully completed through DexGuru, you should see this in your transaction list on your Block Explorer. It can be 0x: Exchange Proxy or 1inch: Router.&#x20;
 
