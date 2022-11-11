@@ -44,7 +44,6 @@
 * [Supported Chains](data/supported-chains.md)
 * [Supported DEXs/AMMs](data/supported-dexs-amms.md)
 * [Off-Chain Data Usage](data/off-chain-data-usage.md)
-* [Incident Reports](data/incident-reports.md)
 
 ***
 
