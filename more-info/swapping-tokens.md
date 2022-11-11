@@ -24,9 +24,9 @@ For more information on how swaps are routed and which DEXs are being used, chec
 
 As discussed above, when trading on DexGuru all your token approvals and orders interact with the 0x, 1inch, or Paraswap protocols through their proxy smart contracts. Check out the full list of smart contract addresses in the [wallets-security-and-more.md](wallets-security-and-more.md "mention")section.&#x20;
 
-> _You can verify the smart contract address on the official documantations:_ [_0x_](https://docs.0x.org/introduction/0x-cheat-sheet)_,_[ _1inch_](https://docs.1inch.io/)_,_  [_Paraswap_](https://developers.paraswap.network/smart-contracts)_._&#x20;
+> _You can verify the smart contract address on the official documantations:_ [_0x_](https://docs.0x.org/introduction/0x-cheat-sheet)_,_[ _1inch_](https://docs.1inch.io/)_,_ [_Paraswap_](https://developers.paraswap.network/smart-contracts)_._&#x20;
 
-When a swap is successfully completed through DexGuru, you should see this in your transaction list on your Block Explorer. It can be 0x: Exchange Proxy or 1inch: Router.&#x20;
+When a swap is successfully completed through DexGuru, you should see this in your transaction list on your Block Explorer. It can be "0x: Exchange Proxy" or "1inch: Router" or something like "Paraswap v5: Augustus Swapper Mainnet".&#x20;
 
 ![Transaction List on EtherScan](<../.gitbook/assets/image (29) (1).png>)
 
@@ -36,13 +36,6 @@ Whilst inside the actual transaction details, you should see the full smart cont
 ![Transaction Details on EtherScan](<../.gitbook/assets/image (25) (1) (1).png>)
 
 And as with navigating on Web3.0, you should always double & triple-check every contract interaction before confirming to ensure you know exactly how a contract is going to interact with your wallet _(Even on DexGuru!)_.
-
-{% hint style="success" %}
-To date, DexGuru traders have done almost $800 Million USD equivalent in transaction volume with almost \~1 Million transactions completed directly on the DexGuru platform, and we've only just begun! :rocket:
-
-__\
-_For more analytics & statistics about token swaps being performed on DexGuru, feel free to view our publicly available_ [_dashboard here_](https://metabase.spaceship.0x.org/public/dashboard/e79bb86a-6777-4655-88fd-6453fdbefe0f?affiliate\_address=0x720c9244473dfc596547c1f7b6261c7112a3dad4)_._
-{% endhint %}
 
 ## **How are my swaps routed? And which chains are supported for swaps?**&#x20;
 
