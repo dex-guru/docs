@@ -32,37 +32,37 @@ DexGuru currently supports the following DEXs below.
 
 ## **Binance Smart Chain**
 
-| DEX Name           | Date Added         |
-| ------------------ | ------------------ |
-| PancakeSwap        | 1st April 2021     |
-| ApeSwap            | 27th December 2021 |
-| JulSwap            | 27th December 2021 |
-| SafeSwap           | 27th December 2021 |
-| BabySwap           | 27th December 2021 |
-| HyperSwap          | 27th December 2021 |
-| AlitaSwap          | 27th December 2021 |
-| CafeSwap           | 27th December 2021 |
-| WaultSwap          | 27th December 2021 |
-| JetSwap            | 27th December 2021 |
-| Impossible Finance | 27th December 2021 |
-| CheeseSwap         | 27th December 2021 |
-| YieldFields        | 14th January 2022  |
-| United Farmers     | 14th January 2022  |
-| Kyber Network      | 14th January 2022  |
-| BiSwap             | 14th January 2022  |
-| SushiSwap          | 19th January 2022  |
-| BakerySwap         | 21st January 2022  |
-| MDEX               | 15th July 2022     |
-| KnightSwap         | 17th July 2022     |
-| Swap by Safemoon   | 23rd July 2022     |
-| Titano             | 17th August 2022   |
-| JFSwap             | 17th August 2022   |
-| OrbitalSwap        | 17th August 2022   |
-| Fstswap            | 17th August 2022   |
-| Pandora            | 17th August 2022   |
-| STEPN              | 17th August 2022   |
-| SheepDex           | 17th August 2022   |
-| BabyDogeSwap       | 17th October 2022  |
+| DEX Name           | Date Added          |
+| ------------------ | ------------------- |
+| PancakeSwap        | 1st April 2021      |
+| ApeSwap            | 27th December 2021  |
+| JulSwap            | 27th December 2021  |
+| SafeSwap           | 27th December 2021  |
+| BabySwap           | 27th December 2021  |
+| HyperSwap          | 27th December 2021  |
+| AlitaSwap          | 27th December 2021  |
+| CafeSwap           | 27th December 2021  |
+| WaultSwap          | 27th December 2021  |
+| JetSwap            | 27th December 2021  |
+| Impossible Finance | 27th December 2021  |
+| CheeseSwap         | 27th December 2021  |
+| YieldFields        | 14th January 2022   |
+| United Farmers     | 14th January 2022   |
+| Kyber Network      | 14th January 2022   |
+| BiSwap             | 14th January 2022   |
+| SushiSwap          | 19th January 2022   |
+| BakerySwap         | 21st January 2022   |
+| MDEX               | 15th July 2022      |
+| KnightSwap         | 17th July 2022      |
+| Swap by Safemoon   | 23rd July 2022      |
+| Titano             | 17th August 2022    |
+| JFSwap             | 17th August 2022    |
+| OrbitalSwap        | 17th August 2022    |
+| Fstswap            | 17th August 2022    |
+| Pandora            | 17th August 2022    |
+| STEPN              | 17th August 2022    |
+| SheepDex           | 17th August 2022    |
+| BabyDogeSwap       | 15th November 2022  |
 
 ## **Avalanche**
 
