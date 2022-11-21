@@ -11,7 +11,7 @@ Even if the market price reaches your target price, there is no guarantee that y
 {% endhint %}
 
 **What is a limit order?** \
-A limit order has a target price and an expiration date. It is a request to buy or sell a token at a certain price that you can specify. A limit order is not filled unless the price reaches your target price during the specified time.&#x20;
+A limit order has a target price and an expiration date. It is a request to buy or sell a token at a certain price that you can specify. When you place a limit order using DexGuru UI, it is sent to a centralized [1inch database](https://1inch.io/limit-order-protocol/). When you set a limit price and an expiration date, keep in mind that anyone can fetch your limit order using [1inch REST API endpoint ](https://docs.1inch.io/docs/limit-order-protocol/api/)to perform trade. &#x20;
 
 **What kind of assets can I use when submitting a limit order? Why can’t I use native ETH for limit orders?** \
 Only ERC-20 tokens are supported when you request a limit order on DexGuru. For the Ethereum network, this implies that you can use [WETH](https://weth.io/) but not ETH when submitting a limit order. Native ETH has to be wrapped before you can use it for limit orders. You can sell ETH for WETH on [DexGuru](https://dex.guru/token/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2-eth). The same is true for Polygon network. You can't request limit orders using native MATIC, you have to use [WMATIC](https://polygonscan.com/token/0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270).&#x20;
