@@ -29,6 +29,7 @@ DexGuru currently supports the following DEXs below.
 | Curve                | 20th April 2022    |
 | STEPN                | 17th August 2022   |
 | PancakeSwap          | 17th October 2022  |
+| RadioShack           | 21st November 2022 |
 
 ## **Binance Smart Chain**
 
@@ -63,6 +64,7 @@ DexGuru currently supports the following DEXs below.
 | STEPN              | 17th August 2022    |
 | SheepDex           | 17th August 2022    |
 | BabyDogeSwap       | 15th November 2022  |
+| RadioShack         | 21st November 2022  |
 
 ## **Avalanche**
 
@@ -80,6 +82,7 @@ DexGuru currently supports the following DEXs below.
 | KyberSwap       | 9th May 2022       |
 | Curve           | 20th April 2022    |
 | Swapsicle       | 17th August 2022   |
+| RadioShack      | 21st November 2022 |
 
 ## **Fantom**
 
@@ -102,6 +105,7 @@ DexGuru currently supports the following DEXs below.
 | Curve          | 20th April 2022    |
 | Tomb Finance   | 2nd May 2022       |
 | WigoSwap       | 17th August 2022   |
+| RadioShack     | 21st November 2022 |
 
 ## **Polygon**
 
@@ -125,6 +129,7 @@ DexGuru currently supports the following DEXs below.
 | Meshswap         | 23rd July 2022     |
 | ComethSwap       | 23rd July 2022     |
 | Dystopia         | 17th August 2022   |
+| RadioShack       | 21st November 2022 |
 
 ## **Arbitrum**
 
