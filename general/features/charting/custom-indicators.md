@@ -2,15 +2,21 @@
 
 At DexGuru we always strive to provide the best data for our users. We went as far as adding our custom indicators to charting.&#x20;
 
-You can see [**token liquidity**](../token-liquidity.md) over time directly on the chart. Learn more about how we calculate liquidity [here](../token-liquidity.md).&#x20;
+**Token Liquidity Indicator** - **** see token's liquidity over time directly on the chart. Learn more about how we calculate liquidity [here](../token-liquidity.md). &#x20;
 
 <figure><img src="../../../.gitbook/assets/Screen Shot 2022-09-12 at 7.03.01 PM (1).png" alt=""><figcaption></figcaption></figure>
 
-### To add token liquidity to your chart:&#x20;
+**Whales Volume Indicator** - is based on our [market-screener.md](../market-screener.md "mention") feature and shows a difference between buying and selling volumes of whales over the last 24h.&#x20;
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2022-11-23 at 4.41.45 PM.png" alt=""><figcaption></figcaption></figure>
+
+### To add custom indicators to your chart:&#x20;
 
 1.  Go to Indicators&#x20;
 
     <figure><img src="../../../.gitbook/assets/Screen Shot 2022-09-12 at 7.01.06 PM (1).png" alt=""><figcaption></figcaption></figure>
-2.  Look for the script name called "Token Liquidity" &#x20;
+2.  Look for the script names called "Token Liquidity" and "Whales Volume"
 
     <figure><img src="../../../.gitbook/assets/Screen Shot 2022-09-12 at 6.59.42 PM.png" alt=""><figcaption></figcaption></figure>
+
+### &#x20;
