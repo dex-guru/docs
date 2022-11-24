@@ -6,9 +6,9 @@ At DexGuru we always strive to provide the best data for our users. We went as f
 
 <figure><img src="../../../.gitbook/assets/Screen Shot 2022-09-12 at 7.03.01 PM (1).png" alt=""><figcaption></figcaption></figure>
 
-**Whales Volume Indicator** - is based on our [market-screener.md](../market-screener.md "mention") feature and shows a difference between buying and selling volumes of whales over the last 24h.&#x20;
+**Whales Volume Indicator** - is based on our [market-screener.md](../market-screener.md "mention") feature and shows a difference between buying and selling volumes of whales.&#x20;
 
-<figure><img src="../../../.gitbook/assets/Screen Shot 2022-11-23 at 4.41.45 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screen Shot 2022-11-23 at 4.42.07 PM.png" alt=""><figcaption></figcaption></figure>
 
 ### To add custom indicators to your chart:&#x20;
 
