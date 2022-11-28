@@ -36,7 +36,7 @@ CELO - [0xdef1c0ded9bec7f1a1670819833240f027b25eff](https://celoscan.io/address/
 
 Ethereum - [0x1111111254EEB25477B68fb85Ed929f73A960582 ](https://etherscan.io/address/0x1111111254EEB25477B68fb85Ed929f73A960582#contracts)
 
-BSC - 0x1111111254EEB25477B68fb85Ed929f73A960582
+BSC - [0x1111111254EEB25477B68fb85Ed929f73A960582](https://bscscan.com/address/0x1111111254EEB25477B68fb85Ed929f73A960582)
 
 Polygon - [0x1111111254EEB25477B68fb85Ed929f73A960582](https://polygonscan.com/address/0x1111111254EEB25477B68fb85Ed929f73A960582#code)
 
@@ -48,7 +48,7 @@ Gnosis - [0x1111111254EEB25477B68fb85Ed929f73A960582](https://gnosisscan.io/addr
 
 Avalanche - [0x1111111254EEB25477B68fb85Ed929f73A960582](https://snowtrace.io/address/0x1111111254eeb25477b68fb85ed929f73a960582)
 
-Fantom - 0x1111111254EEB25477B68fb85Ed929f73A960582
+Fantom - [0x1111111254EEB25477B68fb85Ed929f73A960582](https://ftmscan.com/address/0x1111111254EEB25477B68fb85Ed929f73A960582#contracts)
 
 #### via Paraswap ([source](https://developers.paraswap.network/smart-contracts)):
 
