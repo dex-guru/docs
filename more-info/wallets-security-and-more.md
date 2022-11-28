@@ -32,23 +32,23 @@ Optimism - [0xdef1abe32c034e558cdd535791643c58a13acc10](https://optimistic.ether
 
 CELO - [0xdef1c0ded9bec7f1a1670819833240f027b25eff](https://celoscan.io/address/0xdef1c0ded9bec7f1a1670819833240f027b25eff)
 
-#### via 1inch router ([source](https://docs.1inch.io/docs/aggregation-protocol/api/swagger)):&#x20;
+#### via 1inch router ([source](https://docs.1inch.io/)):&#x20;
 
-Ethereum - [0x1111111254fb6c44bac0bed2854e76f90643097d](https://etherscan.io/address/0x1111111254fb6c44bac0bed2854e76f90643097d)&#x20;
+Ethereum - 0x1111111254EEB25477B68fb85Ed929f73A960582&#x20;
 
-BSC - [0x1111111254fb6c44bac0bed2854e76f90643097d](https://bscscan.com/address/0x1111111254fb6c44bac0bed2854e76f90643097d)&#x20;
+BSC - 0x1111111254EEB25477B68fb85Ed929f73A960582
 
-Polygon - [0x1111111254fb6c44bac0bed2854e76f90643097d](https://polygonscan.com/address/0x1111111254fb6c44bac0bed2854e76f90643097d)&#x20;
+Polygon - 0x1111111254EEB25477B68fb85Ed929f73A960582
 
-Optimism - [0x1111111254760f7ab3f16433eea9304126dcd199](https://optimistic.etherscan.io/address/0x1111111254760f7ab3f16433eea9304126dcd199)
+Optimism - 0x1111111254EEB25477B68fb85Ed929f73A960582
 
-Arbitrum - [0x1111111254fb6c44bac0bed2854e76f90643097d](https://arbiscan.io/address/0x1111111254fb6c44bac0bed2854e76f90643097d)
+Arbitrum - 0x1111111254EEB25477B68fb85Ed929f73A960582
 
-Gnosis - [0x1111111254fb6c44bac0bed2854e76f90643097d](https://gnosisscan.io/address/0x1111111254fb6c44bac0bed2854e76f90643097d)&#x20;
+Gnosis - 0x1111111254EEB25477B68fb85Ed929f73A960582
 
-Avalanche - [0x1111111254fb6c44bac0bed2854e76f90643097d](https://snowtrace.io/address/0x1111111254fb6c44bac0bed2854e76f90643097d)
+Avalanche - 0x1111111254EEB25477B68fb85Ed929f73A960582
 
-Fantom - [0x1111111254fb6c44bac0bed2854e76f90643097d](https://ftmscan.com/address/0x1111111254fb6c44bac0bed2854e76f90643097d)
+Fantom - 0x1111111254EEB25477B68fb85Ed929f73A960582
 
 #### via Paraswap ([source](https://developers.paraswap.network/smart-contracts)):
 
