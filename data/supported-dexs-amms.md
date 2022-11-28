@@ -30,6 +30,7 @@ DexGuru currently supports the following DEXs below.
 | STEPN                | 17th August 2022   |
 | PancakeSwap          | 17th October 2022  |
 | RadioShack           | 21st November 2022 |
+| ApeSwap              | 28th November 2022 |
 
 ## **Binance Smart Chain**
 
@@ -65,6 +66,7 @@ DexGuru currently supports the following DEXs below.
 | SheepDex           | 17th August 2022    |
 | BabyDogeSwap       | 15th November 2022  |
 | RadioShack         | 21st November 2022  |
+| Padswap            | 28th Novmeber 2022  |
 
 ## **Avalanche**
 
@@ -109,27 +111,28 @@ DexGuru currently supports the following DEXs below.
 
 ## **Polygon**
 
-| DEX Name         | Date Added         |
-| ---------------- | ------------------ |
-| QuickSwap        | 18th May 2021      |
-| Firebird Finance | 27th December 2021 |
-| JetSwap          | 27th December 2021 |
-| Dyfn             | 27th December 2021 |
-| WaultSwap        | 27th December 2021 |
-| PolyDex          | 27th December 2021 |
-| Elk Finance      | 27th December 2021 |
-| CafeSwap         | 27th December 2021 |
-| ApeSwap          | 27th December 2021 |
-| Uniswap V3       | 27th December 2021 |
-| KyberSwap        | 14th January 2022  |
-| SushiSwap        | 14th January 2022  |
-| Polycat Finance  | 14th January 2022  |
-| Gravity Finance  | 14th January 2022  |
-| Curve            | 20th April 2022    |
-| Meshswap         | 23rd July 2022     |
-| ComethSwap       | 23rd July 2022     |
-| Dystopia         | 17th August 2022   |
-| RadioShack       | 21st November 2022 |
+| DEX Name          | Date Added         |
+| ----------------- | ------------------ |
+| QuickSwap         | 18th May 2021      |
+| Firebird Finance  | 27th December 2021 |
+| JetSwap           | 27th December 2021 |
+| Dyfn              | 27th December 2021 |
+| WaultSwap         | 27th December 2021 |
+| PolyDex           | 27th December 2021 |
+| Elk Finance       | 27th December 2021 |
+| CafeSwap          | 27th December 2021 |
+| ApeSwap           | 27th December 2021 |
+| Uniswap V3        | 27th December 2021 |
+| KyberSwap         | 14th January 2022  |
+| SushiSwap         | 14th January 2022  |
+| SushiSwap Trident | 28th November 2022 |
+| Polycat Finance   | 14th January 2022  |
+| Gravity Finance   | 14th January 2022  |
+| Curve             | 20th April 2022    |
+| Meshswap          | 23rd July 2022     |
+| ComethSwap        | 23rd July 2022     |
+| Dystopia          | 17th August 2022   |
+| RadioShack        | 21st November 2022 |
 
 ## **Arbitrum**
 
