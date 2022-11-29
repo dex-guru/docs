@@ -2,11 +2,15 @@
 
 At DexGuru we always strive to provide the best data for our users. We went as far as adding our custom indicators to charting.&#x20;
 
-**Token Liquidity Indicator** - **** see token's liquidity over time directly on the chart. Learn more about how we calculate liquidity [here](../token-liquidity.md). &#x20;
+### **Token Liquidity Indicator**&#x20;
+
+Allows you to directly see the token's liquidity over time on the chart. Learn more about how we calculate liquidity [here](../token-liquidity.md). &#x20;
 
 <figure><img src="../../../.gitbook/assets/Screen Shot 2022-09-12 at 7.03.01 PM (1).png" alt=""><figcaption></figcaption></figure>
 
-**Whales Volume Indicator** - reflects the average size and direction of trades by **Whales** 🐳 (heavy Traders with $500k+ of a trading volume in the last 30 days).&#x20;
+### **Whales Volume Indicator**&#x20;
+
+Reflects the average size and direction of trades by **Whales** 🐳 (heavy Traders with $500k+ of a trading volume in the last 30 days).&#x20;
 
 The formula is ![](<../../../.gitbook/assets/Screen Shot 2022-11-29 at 10.52.13 AM.png>)
 
