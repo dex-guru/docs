@@ -16,7 +16,7 @@ The formula is calculated in USD and uses only transactions by **Whales** 🐳.
 
 <figure><img src="../../../.gitbook/assets/Screen Shot 2022-11-29 at 11.11.59 AM.png" alt=""><figcaption><p>Whales Volume Indicator formula</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Screen Shot 2022-11-23 at 4.42.07 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screen Shot 2022-11-29 at 11.21.24 AM.png" alt=""><figcaption><p>Whales Volume indicator</p></figcaption></figure>
 
 ### To add custom indicators to your chart:&#x20;
 
