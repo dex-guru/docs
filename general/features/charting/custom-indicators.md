@@ -10,9 +10,11 @@ Allows you to directly see the token's liquidity over time on the chart. Learn m
 
 ### **Whales Volume Indicator**&#x20;
 
-Reflects the average size and direction of trades by **Whales** 🐳 (heavy Traders with $500k+ of a trading volume in the last 30 days).&#x20;
+Reflects the trading volume by **Whales** 🐳 (heavy Traders with $500k+ of trading volume in the last 30 days).&#x20;
 
-The formula is ![](<../../../.gitbook/assets/Screen Shot 2022-11-29 at 10.52.13 AM.png>)
+The formula is calculated in USD and uses only transactions by **Whales** 🐳.
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2022-11-29 at 11.11.59 AM.png" alt=""><figcaption><p>Whales Volume Indicator formula</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/Screen Shot 2022-11-23 at 4.42.07 PM.png" alt=""><figcaption></figcaption></figure>
 
