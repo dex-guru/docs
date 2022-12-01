@@ -1,8 +1,12 @@
+---
+description: enables users
+---
+
 # Meta-aggregation
 
 Meta-aggregation is a unique mechanism DexGuru uses to optimize trades and offer you the best rates. To start leveraging its power simply go to [Trading Tools](./).
 
-### How does it work?
+## How does it work?
 
 Supporting multiple decentralized exchange aggregators allows us to request a quote from each and provide you with a better option. We call it meta-aggregation.
 
@@ -18,3 +22,13 @@ As a DexGuru user, you interact with multiple smart contracts depending on the r
 “**Via”** lists decentralized markets that **Router** is going to use for your order.
 
 <figure><img src="../../../.gitbook/assets/001.png" alt=""><figcaption></figcaption></figure>
+
+## How to change the router?&#x20;
+
+You are not required to use the best router DexGuru suggests for you. You are free to change it at any time by clicking on the Router button.&#x20;
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2022-12-01 at 10.10.52 AM.png" alt=""><figcaption></figcaption></figure>
+
+The Roter button opens the Router Switch and allows you to see quotes for each exchange aggregator. It will show you if a token approval is required or if you have already signed one for each particular aggregator. Pick any option you want and do not forget to save it.&#x20;
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2022-12-01 at 10.09.43 AM.png" alt=""><figcaption><p>Router Switch</p></figcaption></figure>
