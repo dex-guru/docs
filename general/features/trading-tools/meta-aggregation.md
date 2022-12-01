@@ -25,10 +25,10 @@ As a DexGuru user, you interact with multiple smart contracts depending on the r
 
 ## How to change the router?&#x20;
 
-You are not required to use the best router DexGuru suggests for you. You are free to change it at any time by clicking on the Router button.&#x20;
+You are not required to use the best router DexGuru suggests for you. You are free to change it at any time by clicking on the Router button.
 
 <figure><img src="../../../.gitbook/assets/Screen Shot 2022-12-01 at 10.10.52 AM.png" alt=""><figcaption></figcaption></figure>
 
-The Roter button opens the Router Switch and allows you to see quotes for each exchange aggregator. It will show you if a token approval is required or if you have already signed one for each particular aggregator. Pick any option you want and do not forget to save it.&#x20;
+The Router button opens the Router Switch and lets you see quotes for each exchange aggregator. It will show you if a token approval is required or if you have already signed one for each aggregator. Pick any option you want, and do not forget to save it.
 
 <figure><img src="../../../.gitbook/assets/Screen Shot 2022-12-01 at 10.09.43 AM.png" alt=""><figcaption><p>Router Switch</p></figcaption></figure>
