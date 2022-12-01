@@ -1,7 +1,3 @@
----
-description: enables users
----
-
 # Meta-aggregation
 
 Meta-aggregation is a unique mechanism DexGuru uses to optimize trades and offer you the best rates. To start leveraging its power simply go to [Trading Tools](./).
