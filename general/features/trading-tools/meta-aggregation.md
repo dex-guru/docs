@@ -17,14 +17,14 @@ As a DexGuru user, you interact with multiple smart contracts depending on the r
 “**Router”** is an exchange aggregator we use to request a quote.\
 “**Via”** lists decentralized markets that **Router** is going to use for your order.
 
-<figure><img src="../../../.gitbook/assets/001.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/01 (2).png" alt=""><figcaption></figcaption></figure>
 
 ## How to change the router?&#x20;
 
 You are not required to use the best router DexGuru suggests for you. You are free to change it at any time by clicking on the Router button.
 
-<figure><img src="../../../.gitbook/assets/Screen Shot 2022-12-01 at 10.10.52 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/02 (1).png" alt=""><figcaption></figcaption></figure>
 
 The Router button opens the Router Switch and lets you see quotes for each exchange aggregator. It will show you if a token approval is required or if you have already signed one for each aggregator. Pick any option you want, and do not forget to save it.
 
-<figure><img src="../../../.gitbook/assets/Screen Shot 2022-12-01 at 10.09.43 AM.png" alt=""><figcaption><p>Router Switch</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/03 (1).png" alt=""><figcaption><p>Router Switch</p></figcaption></figure>
