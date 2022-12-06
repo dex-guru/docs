@@ -31,6 +31,7 @@ DexGuru currently supports the following DEXs below.
 | PancakeSwap          | 17th October 2022  |
 | RadioShack           | 21st November 2022 |
 | ApeSwap              | 28th November 2022 |
+| KyberSwap Elastic    | 5th December 2022  |
 
 ## **Binance Smart Chain**
 
@@ -50,7 +51,7 @@ DexGuru currently supports the following DEXs below.
 | CheeseSwap         | 27th December 2021  |
 | YieldFields        | 14th January 2022   |
 | United Farmers     | 14th January 2022   |
-| Kyber Network      | 14th January 2022   |
+| KyberSwap Classic  | 14th January 2022   |
 | BiSwap             | 14th January 2022   |
 | SushiSwap          | 19th January 2022   |
 | BakerySwap         | 21st January 2022   |
@@ -70,79 +71,83 @@ DexGuru currently supports the following DEXs below.
 
 ## **Avalanche**
 
-| DEX Name        | Date Added         |
-| --------------- | ------------------ |
-| Pangolin        | 19th August 2021   |
-| TraderJoe       | 19th August 2021   |
-| Lydia Finance   | 27th December 2021 |
-| YetiSwap        | 27th December 2021 |
-| Elk Finance     | 27th December 2021 |
-| Baguette        | 27th December 2021 |
-| Canary Exchange | 27th December 2021 |
-| EmpireDEX       | 27th December 2021 |
-| SushiSwap       | 27th December 2021 |
-| KyberSwap       | 9th May 2022       |
-| Curve           | 20th April 2022    |
-| Swapsicle       | 17th August 2022   |
-| RadioShack      | 21st November 2022 |
+| DEX Name          | Date Added         |
+| ----------------- | ------------------ |
+| Pangolin          | 19th August 2021   |
+| TraderJoe         | 19th August 2021   |
+| Lydia Finance     | 27th December 2021 |
+| YetiSwap          | 27th December 2021 |
+| Elk Finance       | 27th December 2021 |
+| Baguette          | 27th December 2021 |
+| Canary Exchange   | 27th December 2021 |
+| EmpireDEX         | 27th December 2021 |
+| SushiSwap         | 27th December 2021 |
+| KyberSwap Classic | 9th May 2022       |
+| Curve             | 20th April 2022    |
+| Swapsicle         | 17th August 2022   |
+| RadioShack        | 21st November 2022 |
+| KyberSwap Elastic | 5th December 2022  |
 
 ## **Fantom**
 
-| DEX Name       | Date Added         |
-| -------------- | ------------------ |
-| SpookySwap     | 20th October 2021  |
-| SpiritSwap     | 20th October 2021  |
-| SushiSwap      | 2nd November 2021  |
-| ZooDex         | 27th December 2021 |
-| JetSwap        | 27th December 2021 |
-| PaintSwap      | 27th December 2021 |
-| Morpheus Swap  | 27th December 2021 |
-| Elk Finance    | 27th December 2021 |
-| Yoshi Exchange | 27th December 2021 |
-| Dyfn           | 27th December 2021 |
-| SoulSwap       | 27th December 2021 |
-| WakaSwap       | 27th December 2021 |
-| KyberSwap      | 14th January 2022  |
-| Solidy         | 11th February 2022 |
-| Curve          | 20th April 2022    |
-| Tomb Finance   | 2nd May 2022       |
-| WigoSwap       | 17th August 2022   |
-| RadioShack     | 21st November 2022 |
+| DEX Name          | Date Added         |
+| ----------------- | ------------------ |
+| SpookySwap        | 20th October 2021  |
+| SpiritSwap        | 20th October 2021  |
+| SushiSwap         | 2nd November 2021  |
+| ZooDex            | 27th December 2021 |
+| JetSwap           | 27th December 2021 |
+| PaintSwap         | 27th December 2021 |
+| Morpheus Swap     | 27th December 2021 |
+| Elk Finance       | 27th December 2021 |
+| Yoshi Exchange    | 27th December 2021 |
+| Dyfn              | 27th December 2021 |
+| SoulSwap          | 27th December 2021 |
+| WakaSwap          | 27th December 2021 |
+| KyberSwap Classic | 14th January 2022  |
+| Solidy            | 11th February 2022 |
+| Curve             | 20th April 2022    |
+| Tomb Finance      | 2nd May 2022       |
+| WigoSwap          | 17th August 2022   |
+| RadioShack        | 21st November 2022 |
+| KyberSwap Elastic | 5th December 2022  |
 
 ## **Polygon**
 
-| DEX Name          | Date Added         |
-| ----------------- | ------------------ |
-| QuickSwap         | 18th May 2021      |
-| Firebird Finance  | 27th December 2021 |
-| JetSwap           | 27th December 2021 |
-| Dyfn              | 27th December 2021 |
-| WaultSwap         | 27th December 2021 |
-| PolyDex           | 27th December 2021 |
-| Elk Finance       | 27th December 2021 |
-| CafeSwap          | 27th December 2021 |
-| ApeSwap           | 27th December 2021 |
-| Uniswap V3        | 27th December 2021 |
-| KyberSwap         | 14th January 2022  |
-| SushiSwap         | 14th January 2022  |
-| SushiSwap Trident | 28th November 2022 |
-| Polycat Finance   | 14th January 2022  |
-| Gravity Finance   | 14th January 2022  |
-| Curve             | 20th April 2022    |
-| Meshswap          | 23rd July 2022     |
-| ComethSwap        | 23rd July 2022     |
-| Dystopia          | 17th August 2022   |
-| RadioShack        | 21st November 2022 |
+| DEX Name           | Date Added         |
+| ------------------ | ------------------ |
+| QuickSwap          | 18th May 2021      |
+| Firebird Finance   | 27th December 2021 |
+| JetSwap            | 27th December 2021 |
+| Dyfn               | 27th December 2021 |
+| WaultSwap          | 27th December 2021 |
+| PolyDex            | 27th December 2021 |
+| Elk Finance        | 27th December 2021 |
+| CafeSwap           | 27th December 2021 |
+| ApeSwap            | 27th December 2021 |
+| Uniswap V3         | 27th December 2021 |
+| KyberSwap          | 14th January 2022  |
+| SushiSwap          | 14th January 2022  |
+| SushiSwap Trident  | 28th November 2022 |
+| Polycat Finance    | 14th January 2022  |
+| Gravity Finance    | 14th January 2022  |
+| Curve              | 20th April 2022    |
+| Meshswap           | 23rd July 2022     |
+| ComethSwap         | 23rd July 2022     |
+| Dystopia           | 17th August 2022   |
+| RadioShack         | 21st November 2022 |
+| KyberSwap Elastic  | 5ht December 2022  |
 
 ## **Arbitrum**
 
-| DEX Name   | Date Added        |
-| ---------- | ----------------- |
-| Uniswap V3 | 15th October 2021 |
-| SushiSwap  | 2nd November 2021 |
-| Swpr       | 14th January 2022 |
-| Dfyn       | 14th January 2022 |
-| Curve      | 20th April 2022   |
+| DEX Name          | Date Added        |
+| ----------------- | ----------------- |
+| Uniswap V3        | 15th October 2021 |
+| SushiSwap         | 2nd November 2021 |
+| Swpr              | 14th January 2022 |
+| Dfyn              | 14th January 2022 |
+| Curve             | 20th April 2022   |
+| KyberSwap Elastic | 5th December 2022 |
 
 ## **CELO**
 
@@ -154,12 +159,13 @@ DexGuru currently supports the following DEXs below.
 
 ## Optimism
 
-| DEX Name   | Date Added        |
-| ---------- | ----------------- |
-| Uniswap v3 | 10th January 2022 |
-| Curve      | 11th May 2022     |
-| ZipSwap    | 2nd June 2022     |
-| Velodrome  | 15th July 2022    |
+| DEX Name           | Date Added        |
+| ------------------ | ----------------- |
+| Uniswap v3         | 10th January 2022 |
+| Curve              | 11th May 2022     |
+| ZipSwap            | 2nd June 2022     |
+| Velodrome          | 15th July 2022    |
+| KyberSwap Elastic  | 5th December      |
 
 ## Gnosis
 
