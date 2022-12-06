@@ -38,9 +38,11 @@ There are several reasons for this. The target price might not have been reached
 
 **Confirm Limit Order**&#x20;
 
-Always pay attention to "**You receive**" at Confirm limit order screen! It is what you will get if your order is filled. When you click a green Confirm button, you agree to swap amount IN(You pay) for amount OUT(You receive), within Expiration time.
-
-&#x20; &#x20;
+Always pay attention to "**You receive**" at Confirm limit order screen! It is what you will get if your order is filled. When you click a green Confirm button, you agree to swap amount IN(You pay) for amount OUT(You receive), within Expiration time.&#x20;
 
 <figure><img src="../../.gitbook/assets/_40_72_SROCKET_Price_to_USD_–_Live_SROCKET_Charts_Today_at_DexGuru.png" alt=""><figcaption></figcaption></figure>
+
+**Stop-Loss orders**
+
+You can't use Limit orders with a price below the current market price. If you set a price lower, it will simply mean that you are willing to sell tokens for less than they cost on the market. Most likely, this order will execute immediately with a loss of $-value for you.
 
