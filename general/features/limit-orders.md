@@ -34,6 +34,12 @@ Yes, you can manually cancel a limit order before it expires. However, it will r
 **Why did my order never get filled?** \
 There are several reasons for this. The target price might not have been reached. Secondly, there might be no taker for your order because it is not profitable for them or simply because of a low trading volume. Thirdly, you have insufficient funds in your wallet.
 
+**Confirm Limit Order**&#x20;
 
+Always pay attention to "**You receive**" at Confirm limit order screen! It is what you will get if your order is filled. When you click a green Confirm button, you agree to swap amount IN(You pay) for amount OUT(You receive), within Expiration time.
+
+&#x20; &#x20;
+
+<figure><img src="../../.gitbook/assets/_40_72_SROCKET_Price_to_USD_–_Live_SROCKET_Charts_Today_at_DexGuru.png" alt=""><figcaption></figcaption></figure>
 
 DexGuru routes all limit orders through 1inch Limit Order Protocol.
