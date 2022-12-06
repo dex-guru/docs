@@ -68,6 +68,7 @@ DexGuru currently supports the following DEXs below.
 | BabyDogeSwap       | 15th November 2022  |
 | RadioShack         | 21st November 2022  |
 | Padswap            | 28th Novmeber 2022  |
+| KyberSwap Elastic  | 5th November 2022   |
 
 ## **Avalanche**
 
