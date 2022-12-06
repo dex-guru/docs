@@ -19,7 +19,7 @@ DexGuru currently supports the following DEXs below.
 | Uniswap V2           | 1st April 2021     |
 | Uniswap V3           | 27th August 2021   |
 | SushiSwap            | 10th November 2021 |
-| KyberSwap Elastic    | 19th November 2021 |
+| KyberSwap Classic    | 19th November 2021 |
 | Crypto.com DeFi Swap | 27th December 2021 |
 | Swapr                | 14th January 2022  |
 | Standard Protocol    | 14th January 2022  |
@@ -127,7 +127,7 @@ DexGuru currently supports the following DEXs below.
 | CafeSwap           | 27th December 2021 |
 | ApeSwap            | 27th December 2021 |
 | Uniswap V3         | 27th December 2021 |
-| KyberSwap          | 14th January 2022  |
+| KyberSwap Classic  | 14th January 2022  |
 | SushiSwap          | 14th January 2022  |
 | SushiSwap Trident  | 28th November 2022 |
 | Polycat Finance    | 14th January 2022  |
