@@ -7,7 +7,7 @@ description: A quick overview of limit orders on DexGuru
 ![](<../../.gitbook/assets/image (13) (2).png>)
 
 {% hint style="info" %}
-Even if the market price reaches your target price, there is no guarantee that your limit order will be filled.&#x20;
+Even if the market price reaches your target price, there is no guarantee that your limit order will be filled. DexGuru routes all limit orders through 1inch Limit Order Protocol.
 {% endhint %}
 
 **What is a limit order?** \
@@ -42,4 +42,3 @@ Always pay attention to "**You receive**" at Confirm limit order screen! It is w
 
 <figure><img src="../../.gitbook/assets/_40_72_SROCKET_Price_to_USD_–_Live_SROCKET_Charts_Today_at_DexGuru.png" alt=""><figcaption></figcaption></figure>
 
-DexGuru routes all limit orders through 1inch Limit Order Protocol.
