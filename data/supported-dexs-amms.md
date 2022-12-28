@@ -69,6 +69,7 @@ DexGuru currently supports the following DEXs below.
 | RadioShack         | 21st November 2022  |
 | Padswap            | 28th Novmeber 2022  |
 | KyberSwap Elastic  | 7th November 2022   |
+| Fraxswap           | 28th December 2022  |
 
 ## **Avalanche**
 
@@ -88,30 +89,32 @@ DexGuru currently supports the following DEXs below.
 | Swapsicle         | 17th August 2022   |
 | RadioShack        | 21st November 2022 |
 | KyberSwap Elastic | 7th December 2022  |
+| Fraxswap          | 28th December 2022 |
 
 ## **Fantom**
 
-| DEX Name          | Date Added         |
-| ----------------- | ------------------ |
-| SpookySwap        | 20th October 2021  |
-| SpiritSwap        | 20th October 2021  |
-| SushiSwap         | 2nd November 2021  |
-| ZooDex            | 27th December 2021 |
-| JetSwap           | 27th December 2021 |
-| PaintSwap         | 27th December 2021 |
-| Morpheus Swap     | 27th December 2021 |
-| Elk Finance       | 27th December 2021 |
-| Yoshi Exchange    | 27th December 2021 |
-| Dyfn              | 27th December 2021 |
-| SoulSwap          | 27th December 2021 |
-| WakaSwap          | 27th December 2021 |
-| KyberSwap Classic | 14th January 2022  |
-| Solidy            | 11th February 2022 |
-| Curve             | 20th April 2022    |
-| Tomb Finance      | 2nd May 2022       |
-| WigoSwap          | 17th August 2022   |
-| RadioShack        | 21st November 2022 |
-| KyberSwap Elastic | 7th December 2022  |
+| DEX Name          | Date Added          |
+| ----------------- | ------------------- |
+| SpookySwap        | 20th October 2021   |
+| SpiritSwap        | 20th October 2021   |
+| SushiSwap         | 2nd November 2021   |
+| ZooDex            | 27th December 2021  |
+| JetSwap           | 27th December 2021  |
+| PaintSwap         | 27th December 2021  |
+| Morpheus Swap     | 27th December 2021  |
+| Elk Finance       | 27th December 2021  |
+| Yoshi Exchange    | 27th December 2021  |
+| Dyfn              | 27th December 2021  |
+| SoulSwap          | 27th December 2021  |
+| WakaSwap          | 27th December 2021  |
+| KyberSwap Classic | 14th January 2022   |
+| Solidy            | 11th February 2022  |
+| Curve             | 20th April 2022     |
+| Tomb Finance      | 2nd May 2022        |
+| WigoSwap          | 17th August 2022    |
+| RadioShack        | 21st November 2022  |
+| KyberSwap Elastic | 7th December 2022   |
+| Fraxswap          | 28th Decemeber 2022 |
 
 ## **Polygon**
 
@@ -141,15 +144,16 @@ DexGuru currently supports the following DEXs below.
 
 ## **Arbitrum**
 
-| DEX Name          | Date Added        |
-| ----------------- | ----------------- |
-| Uniswap V3        | 15th October 2021 |
-| SushiSwap         | 2nd November 2021 |
-| Swpr              | 14th January 2022 |
-| Dfyn              | 14th January 2022 |
-| Curve             | 20th April 2022   |
-| KyberSwap Elastic | 7th December 2022 |
-| KyberSwap Classic | 7th December 2022 |
+| DEX Name          | Date Added         |
+| ----------------- | ------------------ |
+| Uniswap V3        | 15th October 2021  |
+| SushiSwap         | 2nd November 2021  |
+| Swpr              | 14th January 2022  |
+| Dfyn              | 14th January 2022  |
+| Curve             | 20th April 2022    |
+| KyberSwap Elastic | 7th December 2022  |
+| KyberSwap Classic | 7th December 2022  |
+| Fraxswap          | 28th December 2022 |
 
 ## **CELO**
 
@@ -158,7 +162,7 @@ DexGuru currently supports the following DEXs below.
 | UbeSwap    | 10th November 2021 |
 | SushiSwap  | 27th December 2021 |
 | Uniswap v3 | 23rd July 2022     |
-| Curve      | 7th December 2022  |
+| Curve      | 28th December 2022 |
 
 ## Optimism
 
@@ -170,6 +174,7 @@ DexGuru currently supports the following DEXs below.
 | Velodrome          | 15th July 2022     |
 | KyberSwap Elastic  | 5th December 2022  |
 | KyberSwap Classic  | 10th December 2022 |
+| Fraxswap           | 28th December 2022 |
 
 ## Gnosis
 
@@ -182,3 +187,4 @@ DexGuru currently supports the following DEXs below.
 | Levin Swap  | 1st October 2022   |
 | BaoSwap     | 22nd November 2022 |
 | Curve       | 7th December 2022  |
+| Fraxswap    | 28th December 2022 |
