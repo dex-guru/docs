@@ -10,7 +10,11 @@ coverY: 0
 For the time being, for every DEX that is added onto DexGuru, we currently index and display transaction data **only from the date/time they are implemented**. For more information about this, please check out [data-completeness.md](data-completeness.md "mention").
 {% endhint %}
 
-DexGuru currently supports the following DEXs below.
+DexGuru currently supports the following DEXs below.&#x20;
+
+{% hint style="info" %}
+Check out our [DEX metrics dashboard ](https://dex.guru/markets)for real-time trading volumes and TVLs of markets listed below.
+{% endhint %}
 
 ## **Ethereum**
 
