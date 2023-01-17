@@ -78,6 +78,9 @@ DexGuru currently supports the following DEXs below.
 | Swapfish           | 16th January 2023   |
 | Wombat             | 16th January 2023   |
 | Sushiswap Trident  | 16th January 2023   |
+| Nomiswap           | 16th January 2023   |
+| OrbitalSwap        | 16th January 2023   |
+| Ellipsis           | 16th January 2023   |
 
 ## **Avalanche**
 
