@@ -106,7 +106,7 @@ The :thinking: is used a placeholder for Tokens that currently do not have their
 
 ## What is the process for getting a new Token listed on DexGuru?
 
-We're a permission-less platform, meaning there is no application process nor listing fees. We automatically index all tokens that are on our [supported-chains.md](../data/supported-chains.md "mention"), have liquidity on at least one of our [supported-dexs-amms.md](../data/supported-dexs-amms.md "mention") and has had recent transactions.&#x20;
+We're a permission-less platform, meaning there is no application process nor listing fees. We automatically index all tokens that are on our [supported-chains.md](../data/supported-chains.md "mention"), have liquidity on at least one of our [supported-dexs.md](../data/supported-dexs.md "mention") and has had recent transactions.&#x20;
 
 For more information about how data makes it way onto DexGuru, please check out our [data-faq.md](../data/data-faq.md "mention") which covers many questions you may have!
 

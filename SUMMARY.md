@@ -42,7 +42,7 @@
 * [Data Completeness](data/data-completeness.md)
 * [Data Refreshing](data/data-refreshing.md)
 * [Supported Chains](data/supported-chains.md)
-* [Supported DEXs/AMMs](data/supported-dexs-amms.md)
+* [Supported DEXs](data/supported-dexs.md)
 * [Off-Chain Data Usage](data/off-chain-data-usage.md)
 
 ***

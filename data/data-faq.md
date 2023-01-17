@@ -37,7 +37,7 @@ For the most complete and updated list of chains on DexGuru, please visit [suppo
 
 ## Which DEXs (Decentralized Exchanges/AMMs) do you cover?
 
-We prioritize in covering the most popular DEXs on all the chains that we support. For a complete list of supported DEXs, please visit [supported-dexs-amms.md](supported-dexs-amms.md "mention")
+We prioritize in covering the most popular DEXs on all the chains that we support. For a complete list of supported DEXs, please visit [supported-dexs.md](supported-dexs.md "mention")
 
 {% hint style="info" %}
 We're aiming to connect all major DEXs/AMMs with significant trading volume on EVM compatible chains by the end of 2021.&#x20;
@@ -65,7 +65,7 @@ In addition, other sites and wallets have their own methodology in which they de
 
 If these transactions are occurring on a DEX/AMM that is currently not supported on DexGuru then it won't show up. We do our best to cover all the major DEXs/AMMs that have high liquidity and volume.&#x20;
 
-Please check our [supported-dexs-amms.md](supported-dexs-amms.md "mention") to see if the transaction occurred on a DexGuru supported DEX/AMM.&#x20;
+Please check our [supported-dexs.md](supported-dexs.md "mention") to see if the transaction occurred on a DexGuru supported DEX/AMM.&#x20;
 
 If you believe you found an exception to this case, where a transaction on a supported DEX/AMM is not showing or being accounted for, please send a message on [#support-dexguru channel on our discord](https://discord.com/invite/dPW8fzwzz9).
 
@@ -77,7 +77,7 @@ DexGuru is a fully permission-less. Tokens are automatically listed/indexed onto
 
 If you're trying to search using the Token name, try using the contract address for more accurate results. Sometimes there may be issues with the name in the token contract making it difficult for it be searched and found.&#x20;
 
-Additionally, if the Token has no liquidity or transactions on one of the [supported-dexs-amms.md](supported-dexs-amms.md "mention") above then it won't be indexed on DexGuru.
+Additionally, if the Token has no liquidity or transactions on one of the [supported-dexs.md](supported-dexs.md "mention") above then it won't be indexed on DexGuru.
 
 ## I saw "X" token on trending, are you guys promoting it?
 

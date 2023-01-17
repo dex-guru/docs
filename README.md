@@ -33,7 +33,7 @@ Below is an overview of some key sections in the help documentation:&#x20;
 
 [data-faq.md](data/data-faq.md "mention") - Everything related to data on DexGuru, from how and where we get it to how we display it & much more.
 
-[supported-chains.md](data/supported-chains.md "mention") & [supported-dexs-amms.md](data/supported-dexs-amms.md "mention") - All the chains & DEXs/AMMs that are currently supported
+[supported-chains.md](data/supported-chains.md "mention") & [supported-dexs.md](data/supported-dexs.md "mention") - All the chains & DEXs/AMMs that are currently supported
 
 {% hint style="info" %}
 If you still can't find what you're looking for in the help documentation here, feel free to head over to our [official discord channel ](https://discord.com/invite/dPW8fzwzz9)and ask away or do a quick search in there to see if you're question has been asked before!&#x20;

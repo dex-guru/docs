@@ -4,10 +4,10 @@ cover: ../.gitbook/assets/AMMs.jpg
 coverY: 0
 ---
 
-# Supported DEXs/AMMs
+# Supported DEXs
 
 {% hint style="info" %}
-For the time being, for every DEX/AMM that is added onto DexGuru, we currently index and display transaction data **only from the date/time they are implemented**. For more information about this, please check out [data-completeness.md](data-completeness.md "mention").
+For the time being, for every DEX that is added onto DexGuru, we currently index and display transaction data **only from the date/time they are implemented**. For more information about this, please check out [data-completeness.md](data-completeness.md "mention").
 {% endhint %}
 
 DexGuru currently supports the following DEXs below.
@@ -23,7 +23,6 @@ DexGuru currently supports the following DEXs below.
 | Crypto.com DeFi Swap | 27th December 2021 |
 | Swapr                | 14th January 2022  |
 | Standard Protocol    | 14th January 2022  |
-| ShibaSwap            | 28th January 2022  |
 | ShibaSwap            | 22nd February 2022 |
 | 1inch                | 14tth April 2022   |
 | Curve                | 20th April 2022    |
