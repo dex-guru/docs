@@ -76,7 +76,7 @@ DexGuru currently supports the following DEXs below.
 | DODO V1            | 16th January 2023   |
 | DODO V2            | 16th January 2023   |
 | Swapfish           | 16th January 2023   |
-| Wombat             | 16th January 2023   |
+| Wombat Exchange    | 16th January 2023   |
 | Sushiswap Trident  | 16th January 2023   |
 | Nomiswap           | 16th January 2023   |
 | OrbitalSwap        | 16th January 2023   |
