@@ -82,6 +82,7 @@ DexGuru currently supports the following DEXs below.
 | Nomiswap           | 16th January 2023   |
 | OrbitalSwap        | 16th January 2023   |
 | Ellipsis           | 16th January 2023   |
+| Elk Finance        | 16th January 2023   |
 
 ## **Avalanche**
 
