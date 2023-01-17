@@ -124,6 +124,7 @@ DexGuru currently supports the following DEXs below.
 | RadioShack        | 21st November 2022  |
 | KyberSwap Elastic | 7th December 2022   |
 | Fraxswap          | 28th Decemeber 2022 |
+| Dfyne             | 16th January 2023   |
 
 ## **Polygon**
 
@@ -152,6 +153,8 @@ DexGuru currently supports the following DEXs below.
 | KyberSwap Elastic  | 7th December 2022  |
 | DODO V1            | 16th January 2023  |
 | DODO V2            | 16th January 2023  |
+| Dfyne              | 16th January 2023  |
+| Dystopia           | 16th January 2023  |
 
 ## **Arbitrum**
 
