@@ -75,6 +75,7 @@ DexGuru currently supports the following DEXs below.
 | DODO V2            | 16th January 2023   |
 | Swapfish           | 16th January 2023   |
 | Wombat             | 16th January 2023   |
+| Sushiswap Trident  | 16th January 2023   |
 
 ## **Avalanche**
 
@@ -97,6 +98,7 @@ DexGuru currently supports the following DEXs below.
 | Fraxswap          | 28th December 2022 |
 | DODO V1           | 16th January 2023  |
 | DODO V2           | 16th January 2023  |
+| Sushiswap Trident | 16th January 2023  |
 
 ## **Fantom**
 
@@ -122,6 +124,7 @@ DexGuru currently supports the following DEXs below.
 | RadioShack        | 21st November 2022  |
 | KyberSwap Elastic | 7th December 2022   |
 | Fraxswap          | 28th Decemeber 2022 |
+| Dfyne             | 16th January 2023   |
 
 ## **Polygon**
 
@@ -150,6 +153,7 @@ DexGuru currently supports the following DEXs below.
 | KyberSwap Elastic  | 7th December 2022  |
 | DODO V1            | 16th January 2023  |
 | DODO V2            | 16th January 2023  |
+| Dfyne              | 16th January 2023  |
 
 ## **Arbitrum**
 
@@ -167,6 +171,7 @@ DexGuru currently supports the following DEXs below.
 | DODO V2           | 16th January 2023  |
 | Swapgfish         | 16th January 2023  |
 | Traderjoe         | 16th January 2023  |
+| Sushiswap Trident | 16th January 2023  |
 
 ## **CELO**
 
