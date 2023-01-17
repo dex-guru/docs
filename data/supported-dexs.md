@@ -38,52 +38,52 @@ DexGuru currently supports the following DEXs below.
 
 ## **Binance Smart Chain**
 
-| DEX Name           | Date Added          |
-| ------------------ | ------------------- |
-| PancakeSwap        | 1st April 2021      |
-| Pancakeswap V1     | 16th January 2023   |
-| ApeSwap            | 27th December 2021  |
-| JulSwap            | 27th December 2021  |
-| SafeSwap           | 27th December 2021  |
-| BabySwap           | 27th December 2021  |
-| HyperSwap          | 27th December 2021  |
-| AlitaSwap          | 27th December 2021  |
-| CafeSwap           | 27th December 2021  |
-| WaultSwap          | 27th December 2021  |
-| JetSwap            | 27th December 2021  |
-| Impossible Finance | 27th December 2021  |
-| CheeseSwap         | 27th December 2021  |
-| YieldFields        | 14th January 2022   |
-| United Farmers     | 14th January 2022   |
-| KyberSwap Classic  | 14th January 2022   |
-| BiSwap             | 14th January 2022   |
-| SushiSwap          | 19th January 2022   |
-| BakerySwap         | 21st January 2022   |
-| MDEX               | 15th July 2022      |
-| KnightSwap         | 17th July 2022      |
-| Swap by Safemoon   | 23rd July 2022      |
-| Titano             | 17th August 2022    |
-| JFSwap             | 17th August 2022    |
-| OrbitalSwap        | 17th August 2022    |
-| Fstswap            | 17th August 2022    |
-| Pandora            | 17th August 2022    |
-| STEPN              | 17th August 2022    |
-| SheepDex           | 17th August 2022    |
-| BabyDogeSwap       | 15th November 2022  |
-| RadioShack         | 21st November 2022  |
-| Padswap            | 28th Novmeber 2022  |
-| KyberSwap Elastic  | 7th November 2022   |
-| Fraxswap           | 28th December 2022  |
-| DODO V1            | 16th January 2023   |
-| DODO V2            | 16th January 2023   |
-| Swapfish           | 16th January 2023   |
-| Wombat Exchange    | 16th January 2023   |
-| Sushiswap Trident  | 16th January 2023   |
-| Nomiswap           | 16th January 2023   |
-| OrbitalSwap        | 16th January 2023   |
-| Ellipsis           | 16th January 2023   |
-| Elk Finance        | 16th January 2023   |
-| Planet             | 16th January 2023   |
+| DEX Name              | Date Added          |
+| --------------------- | ------------------- |
+| PancakeSwap           | 1st April 2021      |
+| Pancakeswap V1        | 16th January 2023   |
+| ApeSwap               | 27th December 2021  |
+| JulSwap               | 27th December 2021  |
+| SafeSwap              | 27th December 2021  |
+| BabySwap              | 27th December 2021  |
+| HyperSwap             | 27th December 2021  |
+| AlitaSwap             | 27th December 2021  |
+| CafeSwap              | 27th December 2021  |
+| WaultSwap             | 27th December 2021  |
+| JetSwap               | 27th December 2021  |
+| Impossible Finance    | 27th December 2021  |
+| CheeseSwap            | 27th December 2021  |
+| YieldFields           | 14th January 2022   |
+| United Farmers        | 14th January 2022   |
+| KyberSwap Classic     | 14th January 2022   |
+| BiSwap                | 14th January 2022   |
+| SushiSwap             | 19th January 2022   |
+| BakerySwap            | 21st January 2022   |
+| MDEX                  | 15th July 2022      |
+| KnightSwap            | 17th July 2022      |
+| Swap by Safemoon      | 23rd July 2022      |
+| Titano                | 17th August 2022    |
+| JFSwap                | 17th August 2022    |
+| OrbitalSwap           | 17th August 2022    |
+| Fstswap               | 17th August 2022    |
+| Pandora               | 17th August 2022    |
+| STEPN                 | 17th August 2022    |
+| SheepDex              | 17th August 2022    |
+| BabyDogeSwap          | 15th November 2022  |
+| RadioShack            | 21st November 2022  |
+| Padswap               | 28th Novmeber 2022  |
+| KyberSwap Elastic     | 7th November 2022   |
+| Fraxswap              | 28th December 2022  |
+| DODO V1               | 16th January 2023   |
+| DODO V2               | 16th January 2023   |
+| Swapfish              | 16th January 2023   |
+| Wombat Exchange       | 16th January 2023   |
+| Sushiswap Trident     | 16th January 2023   |
+| Nomiswap              | 16th January 2023   |
+| Ellipsis              | 16th January 2023   |
+| Elk Finance           | 16th January 2023   |
+| Planet                | 16th January 2023   |
+| Impossible Finance V3 | 16th January 2023   |
 
 ## **Avalanche**
 
@@ -179,7 +179,7 @@ DexGuru currently supports the following DEXs below.
 | Fraxswap          | 28th December 2022 |
 | DODO V1           | 16th January 2023  |
 | DODO V2           | 16th January 2023  |
-| Swapgfish         | 16th January 2023  |
+| Swapfish          | 16th January 2023  |
 | Traderjoe         | 16th January 2023  |
 | Sushiswap Trident | 16th January 2023  |
 | Saddle            | 16th January 2023  |
