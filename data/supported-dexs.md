@@ -31,6 +31,8 @@ DexGuru currently supports the following DEXs below.
 | RadioShack           | 21st November 2022 |
 | ApeSwap              | 28th November 2022 |
 | KyberSwap Elastic    | 7th December 2022  |
+| DODO V1              | 16th January 2023  |
+| DODO V1              | 16th January 2023  |
 
 ## **Binance Smart Chain**
 
@@ -69,6 +71,10 @@ DexGuru currently supports the following DEXs below.
 | Padswap            | 28th Novmeber 2022  |
 | KyberSwap Elastic  | 7th November 2022   |
 | Fraxswap           | 28th December 2022  |
+| DODO V1            | 16th January 2023   |
+| DODO V2            | 16th January 2023   |
+| Swapfish           | 16th January 2023   |
+| Wombat             | 16th January 2023   |
 
 ## **Avalanche**
 
@@ -89,6 +95,8 @@ DexGuru currently supports the following DEXs below.
 | RadioShack        | 21st November 2022 |
 | KyberSwap Elastic | 7th December 2022  |
 | Fraxswap          | 28th December 2022 |
+| DODO V1           | 16th January 2023  |
+| DODO V2           | 16th January 2023  |
 
 ## **Fantom**
 
@@ -140,6 +148,8 @@ DexGuru currently supports the following DEXs below.
 | Dystopia           | 17th August 2022   |
 | RadioShack         | 21st November 2022 |
 | KyberSwap Elastic  | 7th December 2022  |
+| DODO V1            | 16th January 2023  |
+| DODO V2            | 16th January 2023  |
 
 ## **Arbitrum**
 
@@ -153,6 +163,10 @@ DexGuru currently supports the following DEXs below.
 | KyberSwap Elastic | 7th December 2022  |
 | KyberSwap Classic | 7th December 2022  |
 | Fraxswap          | 28th December 2022 |
+| DODO V1           | 16th January 2023  |
+| DODO V2           | 16th January 2023  |
+| Swapgfish         | 16th January 2023  |
+| Traderjoe         | 16th January 2023  |
 
 ## **CELO**
 
@@ -174,6 +188,8 @@ DexGuru currently supports the following DEXs below.
 | KyberSwap Elastic  | 5th December 2022  |
 | KyberSwap Classic  | 10th December 2022 |
 | Fraxswap           | 28th December 2022 |
+| DODO V1            | 16th January 2023  |
+| DODO V2            | 16th January 2023  |
 
 ## Gnosis
 
