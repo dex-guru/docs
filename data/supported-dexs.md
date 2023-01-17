@@ -40,6 +40,7 @@ DexGuru currently supports the following DEXs below.
 | DEX Name           | Date Added          |
 | ------------------ | ------------------- |
 | PancakeSwap        | 1st April 2021      |
+| Pancakeswap V1     | 16th January 2023   |
 | ApeSwap            | 27th December 2021  |
 | JulSwap            | 27th December 2021  |
 | SafeSwap           | 27th December 2021  |
