@@ -33,6 +33,7 @@ DexGuru currently supports the following DEXs below.
 | KyberSwap Elastic    | 7th December 2022  |
 | DODO V1              | 16th January 2023  |
 | DODO V1              | 16th January 2023  |
+| Fraxswap             | 16th January 2023  |
 
 ## **Binance Smart Chain**
 
