@@ -21,7 +21,7 @@
     * [Network Switch](general/features/market-selector/network-switch.md)
     * [Trending Tab](general/features/market-selector/trending-tab.md)
   * [Multichain](general/features/multichain.md)
-  * [Token Profile - DYOR 🍄](general/features/dyor.md)
+  * [Token Profile](general/features/dyor.md)
   * [Account Profile 🐋](general/features/account-profile.md)
   * [Alerts & Notifications](general/features/alerts-and-notifications.md)
   * [Token Explorer (Token Tags)](general/features/token-explorer-token-tags.md)
