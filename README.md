@@ -19,7 +19,7 @@ Below is an overview of some key sections in the help documentation:&#x20;
 
 ****[how-to](general/how-to/ "mention") - Quick Guides on how to connect your wallet and engage with core functionality such as swaps and price alerts&#x20;
 
-[features](general/features/ "mention") - Explanations on how each feature and section work on the DexGuru interface&#x20;
+[Broken link](broken-reference "mention") - Explanations on how each feature and section work on the DexGuru interface&#x20;
 
 [faq.md](general/faq.md "mention") - Most frequently asked questions by our new community members
 

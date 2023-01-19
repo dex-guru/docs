@@ -83,7 +83,7 @@ Additionally, if the Token has no liquidity or transactions on one of the [suppo
 
 Tokens on the trending tab are based on a ranking methodology involving trading activity from Whales (Heavy Trader with $500k+ of trading volume in the last 30 days). This is completely done automatically based on the formula we've implemented.&#x20;
 
-F_or more details regarding the methodology, please visit_ [trending-tab.md](../general/features/market-selector/trending-tab.md "mention")_._
+F_or more details regarding the methodology, please visit_ [trending-tab.md](../features/trending-tab.md "mention")_._
 
 {% hint style="info" %}
 We have not, and will not ever promote any tokens on DexGuru. If you find that questionable tokens are appearing in the DexGuru trending tab, please note that some token may developers deploy different wash trading strategies to game trending status across different platforms to achieve visibility. \
