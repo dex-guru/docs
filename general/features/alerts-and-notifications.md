@@ -18,4 +18,4 @@ You can change the 10% threshold by going to My Alerts and looking for the edit 
 
 <figure><img src="../../.gitbook/assets/Screen Shot 2022-10-04 at 2.57.41 PM.png" alt=""><figcaption><p>Customize the threshold</p></figcaption></figure>
 
-Besides seeing price notifications for your Favorites😍 inside DexGuru's interface, you can receive them straight to your Telegram account. Read how to set up Telegram notifications [here](../how-to/enable-price-alerts.md) or watch a video [here](https://www.youtube.com/watch?v=PobSLoS2YRg).&#x20;
+Besides seeing price notifications for your Favorites😍 inside DexGuru's interface, you can receive them straight to your Telegram account. Read how to set up Telegram notifications [here](../../how-to/enable-telegram-price-alerts.md) or watch a video [here](https://www.youtube.com/watch?v=PobSLoS2YRg).&#x20;

@@ -17,7 +17,7 @@ When using DexGuru you may find yourself coming across some questions, and we ho
 
 Below is an overview of some key sections in the help documentation:&#x20;
 
-****[how-to](general/how-to/ "mention") - Quick Guides on how to connect your wallet and engage with core functionality such as swaps and price alerts&#x20;
+****[Broken link](broken-reference "mention") - Quick Guides on how to connect your wallet and engage with core functionality such as swaps and price alerts&#x20;
 
 [Broken link](broken-reference "mention") - Explanations on how each feature and section work on the DexGuru interface&#x20;
 

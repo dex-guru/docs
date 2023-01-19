@@ -3,13 +3,15 @@
 ## General
 
 * [DexGuru Getting Started](README.md)
-* [How to](general/how-to/README.md)
-  * [Connect your Wallet](general/how-to/connect-wallet.md)
-  * [Buying & Selling Tokens](general/how-to/buy-sell.md)
-  * [Enable Telegram Price Alerts](general/how-to/enable-price-alerts.md)
-  * [Check Wallet Balance](general/how-to/see-my-wallets-balance.md)
 * [FAQ](general/faq.md)
 * [Troubleshooting Errors](general/troubleshooting-errors.md)
+
+## How to
+
+* [Connect your Wallet](how-to/connect-wallet.md)
+* [Buy & Sell Tokens](how-to/buy-sell.md)
+* [Check Wallet Balance](how-to/see-my-wallets-balance.md)
+* [Enable Telegram Price Alerts](how-to/enable-telegram-price-alerts.md)
 
 ## Features
 

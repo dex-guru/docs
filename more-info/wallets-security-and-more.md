@@ -96,7 +96,7 @@ The DexGuru platform supports the majority of popular Web3.0 wallets, including 
 * Ledger (via MetaMask)
 * Trezor (via MetaMask)
 
-Visit [connect-wallet.md](../general/how-to/connect-wallet.md "mention") to learn how to connect your wallet on both Desktop & Mobile.
+Visit [connect-wallet.md](../how-to/connect-wallet.md "mention") to learn how to connect your wallet on both Desktop & Mobile.
 
 ## **What's the benefits of connecting my wallet to DexGuru?**
 
@@ -111,7 +111,7 @@ Connecting your wallet provides you complete access to the DexGuru platform, ena
 * [Multi-Chart](https://docs.dex.guru/general/features/multi-chart)&#x20;
 * _And more..._ s_tay tuned, we have some cool features coming soon 😉_
 
-For guides and information on how to use the above features, visit [Broken link](broken-reference "mention") & [how-to](../general/how-to/ "mention")sections for more details.
+For guides and information on how to use the above features, visit [Broken link](broken-reference "mention") & [Broken link](broken-reference "mention")sections for more details.
 
 ## **How can I change the wallet I'm using on DexGuru**
 
