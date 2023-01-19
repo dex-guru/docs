@@ -5,7 +5,7 @@ coverY: 0
 
 # DexGuru Getting Started
 
-DexGuru is a non-custodial trading terminal made for traders in DeFi era, leveraging on-chain analytics combined with token swap execution capabilities.&#x20;
+DexGuru is a non-custodial trading terminal made for traders in the DeFi era, leveraging on-chain analytics combined with token swap execution capabilities.&#x20;
 
 We've built an interface that provides access to easy-to-understand on-chain data analysis across decentralized protocols on Ethereum, BSC, Polygon, Avalanche, Fantom, Arbitrum, Optimism, Gnosis, and CELO to enable traders to make the best possible trade decisions in real-time!
 
@@ -45,9 +45,10 @@ If you still can't find what you're looking for in the help documentation here, 
 * Blog -> [https://blog.dex.guru/](https://blog.dex.guru/)
 * Github -> [https://github.com/dex-guru/](https://github.com/dex-guru/)
 * Help & Support Docs -> [https://docs.dex.guru/](https://docs.dex.guru/)
-* Developer & API Docs -> [https://developers.dex.guru/](https://developers.dex.guru/)
 * Twitter -> [https://twitter.com/dexguru/](https://twitter.com/dexguru/)
 * Discord  -> [https://discord.com/invite/dPW8fzwzz9](https://discord.com/invite/dPW8fzwzz9)
+* Developer & API Docs -> [https://developers.dex.guru/](https://developers.dex.guru/)
+* Open-source meta-aggregation -> [https://github.com/dex-guru/meta-aggregation-api](https://github.com/dex-guru/meta-aggregation-api)
 * Telegram Channel → [https://t.me/dexguru](https://t.me/dexguru) - @dexguru
 * Telegram Notification Biot -> [@dxgurubot](https://t.me/dxgurubot)&#x20;
 * GuruDAO Governance Forum -> [https://gov.dex.guru/](https://gov.dex.guru/)
