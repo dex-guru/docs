@@ -1,10 +1,10 @@
 # Meta-aggregation
 
-Meta-aggregation is a unique mechanism DexGuru uses to optimize trades and offer you the best rates. To start leveraging its power simply go to [Trading Tools](./).
+Meta-aggregation is a unique mechanism DexGuru uses to optimize trades and offer you the best rates. To start leveraging its power simply go to [Trading Tools](./).&#x20;
 
 ## How does it work?
 
-Supporting multiple decentralized exchange aggregators allows us to request a quote from each and provide you with a better option. We call it meta-aggregation.
+Supporting multiple decentralized exchange aggregators allows us to request a quote from each and provide you with a better option. We call it meta-aggregation. Moreover, this is an open-source feature, developers could easily add new order routing providers (DEX aggregators) using the following Github link [https://github.com/dex-guru/meta-aggregation-api](https://github.com/dex-guru/meta-aggregation-api)
 
 <figure><img src="../../../.gitbook/assets/Router.png" alt=""><figcaption></figcaption></figure>
 
