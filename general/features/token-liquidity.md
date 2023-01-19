@@ -4,7 +4,7 @@ description: and Pools Activity
 
 # Token Liquidity
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2022-08-23 at 3.49.41 PM.png" alt=""><figcaption><p><strong>Token Liquidity</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-01-18 at 6.01.20 PM.png" alt=""><figcaption></figcaption></figure>
 
 We measure liquidity $ value for a token, not for a trading pair. **** When determining how liquid a token is, we don’t really care about how much of that token is in liquidity pools, we care about the value of other tokens that it can be swapped for.&#x20;
 
