@@ -6,11 +6,13 @@ description: >-
 
 # Account Profile 🐋
 
-For further information regarding a Trader's Wallet token balances and recent activity, you can visit their Trader Profile. This page allows you deep dive into a Trader's wallet to see exactly what they've been up recently and also view their historical transactions.
+For further information regarding a Trader's Wallet token balances and recent activity, you can visit their Trader Profile. This page allows you to dive deep into a Trader's wallet to see precisely what they've been up to recently and view their historical transactions.
 
-![Trader Profile Page of a Whale's Wallet](<../../.gitbook/assets/image (27).png>)
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-01-18 at 5.49.27 PM.png" alt=""><figcaption></figcaption></figure>
 
-This is currently accessible by clicking on the TXs on the Trading sidebars on the any token page.&#x20;
+This feature is currently accessible by clicking on any transaction on the main page or your wallet.&#x20;
+
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-01-18 at 5.52.14 PM.png" alt=""><figcaption></figcaption></figure>
 
 ## Trader Overview&#x20;
 

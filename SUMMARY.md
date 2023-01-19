@@ -14,8 +14,8 @@
 ## Features
 
 * [Token Profile](general/features/dyor.md)
-* [Account Labeling](general/features/account-labeling.md)
 * [Account Profile 🐋](general/features/account-profile.md)
+* [Account Labeling](general/features/account-labeling.md)
 * [Trading Tools](general/features/trading-tools/README.md)
 * [Meta-aggregation](general/features/trading-tools/meta-aggregation.md)
 * [Limit Orders](general/features/limit-orders.md)
