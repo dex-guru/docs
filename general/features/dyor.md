@@ -2,45 +2,39 @@
 description: In-depth stats, analytics and full transaction list for any token
 ---
 
-# Token Profile - DYOR 🍄
+# Token Profile
 
-For each token, you'll be able to view in-depth stats, analytics and full transactions derived from On-chain data in it's Token Profile.
+For each token, you'll be able to view in-depth stats, analytics, and full transactions derived from on-chain data in its Token Profile.
 
-![Token Profile Page for Uniswap Token ($UNI)](<../../.gitbook/assets/image (33).png>)
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-01-18 at 3.23.39 PM.png" alt=""><figcaption></figcaption></figure>
 
-You can access this page by clicking on the **🍄 DYOR button** _(in the header)_ when you are currently viewing a token.&#x20;
+You can access the page by clicking on the **Token Profile** _(in the header)_ on the main page.&#x20;
 
-![Token Profile - DYOR Button in Header](<../../.gitbook/assets/image (8).png>)
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-01-18 at 3.45.15 PM.png" alt=""><figcaption></figcaption></figure>
 
-Below will be more information regarding each part of this page:
+Below is more information regarding each part of this page:
 
-## **Token Information**
+## **Token Profile Main Features**
 
-![Token's Key Information](<../../.gitbook/assets/image (35).png>)
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-01-18 at 3.54.37 PM.png" alt=""><figcaption></figcaption></figure>
 
-At the top of the Token Profile, you will be able to see key information regarding the token such as:
+#### **Token Tags**
 
-**Market Cap**
-
-The current total market capitalization of a Token, calculated from it's current Circulating Supply _multiplied_ by it's current Price.
-
-**Circulating Supply**
-
-The current number of circulating tokens tradeable by the public.
+Token tags are community-sourced lists. Learn more about them and how to contribute on the [token-explorer-token-tags.md](token-explorer-token-tags.md "mention")page.&#x20;
 
 **Fully Diluted Valuation (FDV**)
 
-Market capitalization of a token if a token's complete supply was circulating. Calculated from Max Token Supply _multiplied_ by it's current Price.
+FDV is calculated from Max Token Supply _multiplied_ by its current Price.
 
 **Token Max Supply**
 
-Theoretical Maximum supply of tokens that will ever exist according to the current code of the Token. Not all tokens will have their supply capped and as a result, there may not be a max supply.
+Theoretical Maximum supply of tokens that will ever exist according to the current code of the Token. Not all tokens will have their supply capped, and as a result, there may not be a max supply.
 
-**Community**
+**Community Links**
 
-Community related links such as Twitter, Discord, Website, Community Forums & etc.
+Community-related links such as Twitter, Discord, Website, Community Forums & etc.
 
-Please note that the majority of this information is sourced from CoinGecko API and is Off-Chain in nature, for more information regarding our usage of supplementary Off-Chain Data please visit [off-chain-data-usage.md](../../data/off-chain-data-usage.md "mention")**.**
+Please note that some of this information is sourced; ford from CoinGecko API and is Off-Chain in nature, for more information regarding our usage of supplementary Off-Chain Data, please visit the [off-chain-data-usage.md](../../data/off-chain-data-usage.md "mention") page**.**
 
 ## Token Holder Information
 
