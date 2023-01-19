@@ -1,8 +1,10 @@
 ---
-description: aka Trading History
+description: and trading volume
 ---
 
-# Market Activity
+# Trading Volume and History
+
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-01-18 at 6.03.20 PM.png" alt=""><figcaption></figcaption></figure>
 
 You can see a real-time transaction flow in our Trading History area.&#x20;
 

@@ -21,7 +21,7 @@
 * [Limit Orders](general/features/limit-orders.md)
 * [Multi-Chart](general/features/multi-chart.md)
 * [Alerts & Notifications](general/features/alerts-and-notifications.md)
-* [Market Activity](general/features/trading-history.md)
+* [Trading Volume and History](general/features/trading-history.md)
 * [Token Liquidity](general/features/token-liquidity.md)
 * [Market Screener](general/features/market-screener.md)
 * [Market Selector](general/features/market-selector/README.md)
