@@ -51,7 +51,7 @@ For more in-depth information about Signature Requests, Token Approvals and usin
 
 ![Degen Mode in the bottom portion of the DexGuru Market Selector](<../.gitbook/assets/image (25).png>)
 
-Tokens that are fall under the Full Degen Mode in the [market-selector.md](../features/market-selector.md "mention") are tokens that are not on at least one verified Token List. We recommend double checking and verifying contract addresses for Tokens under Degen Mode to ensure you're interacting with the correct Token.&#x20;
+Tokens that are fall under the Full Degen Mode in the [market-selector](features/market-selector/ "mention") are tokens that are not on at least one verified Token List. We recommend double checking and verifying contract addresses for Tokens under Degen Mode to ensure you're interacting with the correct Token.&#x20;
 
 ### **What exactly are token lists?**
 

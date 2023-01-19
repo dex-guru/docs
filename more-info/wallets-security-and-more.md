@@ -106,8 +106,8 @@ Connecting your wallet provides you complete access to the DexGuru platform, ena
 * Sync your Favorites list across all your devices _(via connecting with the same wallet)_
 * Buy and Sell tokens directly on DexGuru
 * Setup Price Alerts through Push Notifications
-* [Trader Profile](../features/account-profile.md)
-* [Token Profile](../features/dyor.md)
+* [Trader Profile](../general/features/account-profile.md)
+* [Token Profile](../general/features/dyor.md)
 * [Multi-Chart](https://docs.dex.guru/general/features/multi-chart)&#x20;
 * _And more..._ s_tay tuned, we have some cool features coming soon 😉_
 

@@ -49,4 +49,4 @@ There are many popular tokens such as SAFEMOON coin that have these in-built tra
 
 ## **Can I place limit orders and stop orders for token buys and sells?**
 
-Yes, limit orders are supported by DexGuru. Learn more about [limit-orders.md](../features/limit-orders.md "mention")
+Yes, limit orders are supported by DexGuru. Learn more about [limit-orders.md](../general/features/limit-orders.md "mention")

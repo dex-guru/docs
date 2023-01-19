@@ -1,10 +1,10 @@
-# Custom Indicators
+# Custom Chart Indicators
 
 At DexGuru we always strive to provide the best data for our users. We went as far as adding our custom indicators to charting.&#x20;
 
 ### **Token Liquidity Indicator**&#x20;
 
-Allows you to directly see the token's liquidity over time on the chart. Learn more about how we calculate liquidity [here](token-liquidity.md). &#x20;
+Allows you to directly see the token's liquidity over time on the chart. Learn more about how we calculate liquidity [here](../general/features/token-liquidity.md). &#x20;
 
 <figure><img src="../.gitbook/assets/Screen Shot 2022-09-12 at 7.03.01 PM (1).png" alt=""><figcaption></figcaption></figure>
 

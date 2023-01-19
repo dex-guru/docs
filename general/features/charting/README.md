@@ -8,7 +8,7 @@ description: analyze market data to pinpoint optimal entry and exit points for y
 
 #### Learn more about how price charts are displayed on DexGuru [here](../../../more-info/price-charts.md).&#x20;
 
-#### Learn more about DexGuru's custom chart indicators [here.](custom-indicators.md)&#x20;
+#### Learn more about DexGuru's custom chart indicators [here.](../../../features/custom-chart-indicators.md)&#x20;
 
 
 
