@@ -14,7 +14,7 @@ You can access the page by clicking on the **Token Profile** _(in the header)_ o
 
 Below is more information regarding each part of this page:
 
-## **Token Profile Main Features**
+## **Main Features**
 
 <figure><img src="../../.gitbook/assets/Screen Shot 2023-01-18 at 3.54.37 PM.png" alt=""><figcaption></figcaption></figure>
 
@@ -36,7 +36,7 @@ Community-related links such as Twitter, Discord, Website, Community Forums & et
 
 Please note that some of this information is sourced; ford from CoinGecko API and is Off-Chain in nature, for more information regarding our usage of supplementary Off-Chain Data, please visit the [off-chain-data-usage.md](../../data/off-chain-data-usage.md "mention") page**.**
 
-## Token On-chain Custom Metrics
+## On-chain Custom Metrics
 
 Provides you with an in-depth look into token distribution, holding time, and more.&#x20;
 
