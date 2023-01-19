@@ -1,7 +1,8 @@
 # Market Selector
 
-Explore on-chain markets in the top left corner. It will show the name of a token, its volume over the last 24 hours, and its price. You can search for tokens and add them to your favorites by pressing the heart button. \
+Explore on-chain markets in the top left corner. It will show the name of a token, its volume over the last 24 hours, and its price. You can search for tokens and add them to your favorites by pressing the heart button.&#x20;
 
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-01-18 at 6.20.29 PM.png" alt=""><figcaption></figcaption></figure>
 
 Note: Some of our features are only available once you connect a wallet. After connecting it, you will be able to save your favorite tokens by pressing a heart button. DexGuru is a fully non-custodial platform, so the assets in your wallet are always under your control.\
 
@@ -15,7 +16,6 @@ There is no need to use your computer mouse to open our Market Selector; use hot
 
 ![](<../../../.gitbook/assets/Market Selector 02.png>)
 
-\
 
 
 ## What is the "Full Degen Mode" ?
