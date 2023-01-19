@@ -16,9 +16,13 @@ This feature is currently accessible by clicking on any transaction on the main 
 
 ## Trader Overview&#x20;
 
-![Trader Overview with Asset Value & Trading Volume](<../../.gitbook/assets/image (32).png>)
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-01-18 at 5.55.40 PM.png" alt=""><figcaption></figcaption></figure>
 
 At the top of the Trader Profile, you will be able to see a quick overview with information such as:
+
+**Account type**
+
+Learn more at the [account-labeling.md](account-labeling.md "mention") page.&#x20;
 
 **Asset Value**
 
