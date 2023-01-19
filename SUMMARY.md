@@ -6,13 +6,6 @@
 * [FAQ](general/faq.md)
 * [Troubleshooting Errors](general/troubleshooting-errors.md)
 
-## How to
-
-* [Connect your Wallet](how-to/connect-wallet.md)
-* [Buy & Sell Tokens](how-to/buy-sell.md)
-* [Check Wallet Balance](how-to/see-my-wallets-balance.md)
-* [Enable Telegram Price Alerts](how-to/enable-telegram-price-alerts.md)
-
 ## Features
 
 * [Token Profile](general/features/dyor.md)
@@ -33,6 +26,13 @@
 * [Multichain](general/features/multichain.md)
 * [Charting](general/features/charting/README.md)
 * [Custom Chart Indicators](features/custom-chart-indicators.md)
+
+## How to
+
+* [Connect your Wallet](how-to/connect-wallet.md)
+* [Buy & Sell Tokens](how-to/buy-sell.md)
+* [Check Wallet Balance](how-to/see-my-wallets-balance.md)
+* [Enable Telegram Price Alerts](how-to/enable-telegram-price-alerts.md)
 
 ## More Info
 
