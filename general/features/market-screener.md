@@ -6,7 +6,7 @@ description: >-
 
 # Market Screener
 
-![](<../../.gitbook/assets/Market Screener\_01.png>)
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-01-18 at 6.05.22 PM.png" alt=""><figcaption></figcaption></figure>
 
 Types of traders:&#x20;
 
