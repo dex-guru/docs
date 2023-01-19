@@ -12,8 +12,6 @@ You can access the page by clicking on the **Token Profile** _(in the header)_ o
 
 <figure><img src="../../.gitbook/assets/Screen Shot 2023-01-18 at 3.45.15 PM.png" alt=""><figcaption></figcaption></figure>
 
-Below is more information regarding each part of this page:
-
 ## **Main Features**
 
 <figure><img src="../../.gitbook/assets/Screen Shot 2023-01-18 at 3.54.37 PM.png" alt=""><figcaption></figcaption></figure>
