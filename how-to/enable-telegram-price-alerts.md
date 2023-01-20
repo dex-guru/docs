@@ -8,8 +8,6 @@ description: >-
 
 Read [alerts-and-notifications.md](../general/features/alerts-and-notifications.md "mention")for general information about notifications.
 
-Watch this [video](https://www.youtube.com/watch?v=PobSLoS2YRg) on how to enable Telegram notifications for token prices or follow the instructions below.&#x20;
-
 To enable notifications for a token, you need:&#x20;
 
 1. [Connect your web3 wallet.](enable-telegram-price-alerts.md#1.-connect-your-web3-wallet.)
