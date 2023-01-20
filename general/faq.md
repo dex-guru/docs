@@ -8,32 +8,34 @@ coverY: 0
 
 ## What is DexGuru?
 
-DexGuru is a trading terminal that focuses on providing the best trading experience possible. We strive to bring the following all under one easy to use integrated UI:
+DexGuru is an on-chain analytics and trading terminal that focuses on providing the best trading experience possible. We strive to bring the following all under one easy-to-use integrated UI:
 
 * Real-time Data across all DEX Markets
 * On-Chain Research
 * Powerful Data Analytics
 * Token Swap Execution Capabilities
 
-Our goal is to make it easy for all traders to leverage on-chain data in a simple, understandable and timely way and enabling them to make the best possible decisions in real-time.
+Our goal is to make it easy for all traders to leverage on-chain data in a simple, understandable, and timely way and enable them to make the best possible decisions in real time.
 
 To learn more about DexGuru and what we're all about, visit our [Manifesto on our blog](https://blog.dex.guru/manifesto)!
 
 ## Is DexGuru free to use? And does trading on DexGuru cost anything extra?
 
-Yes! DexGuru is currently completely free to use. All features on the DexGuru are available to everyone once they have connected their wallet.&#x20;
+Yes! DexGuru is currently completely free to use. All features on DexGuru are available to everyone once they have connected their wallet.&#x20;
 
-Trading tokens on DexGuru is also completely free, but bear in mind you will still need to pay Network Transaction Fees (Gas Fees) as you would if you were normally swapping on a DEX/AMM.&#x20;
+Trading tokens on DexGuru is also completely free, but bear in mind you will still need to pay Network Transaction Fees (Gas Fees) as you would if you were usually swapping on a DEX/AMM.&#x20;
 
 {% hint style="info" %}
-We do have future plans to introduce and add premium subscription plans for more comprehensive and advanced features! Keep on the look out :eyes:
+We do have future plans to introduce and add premium subscription plans for more comprehensive and advanced features! Keep on the lookout :eyes:
 {% endhint %}
 
 ## How **are Token Swap O**rders being routed?
 
-All swaps on DexGuru are routed through the 0x Protocol API, Paraswap, or 1inch API. All orders are optimized through their exchange network.&#x20;
+All swaps on DexGuru are routed through one of the suported DEX aggregators. We call this process Meta-aggregtion.&#x20;
 
-For more details about 0x Protocol API, 1inch API and how token swaps work on DexGuru, please visit [swapping-tokens.md](../more-info/swapping-tokens.md "mention")
+For more details about please visit\
+[meta-aggregation.md](features/trading-tools/meta-aggregation.md "mention")\
+[swapping-tokens.md](../more-info/swapping-tokens.md "mention")
 
 ## Do I need to connect my Wallet to use DexGuru?&#x20;
 
@@ -47,11 +49,11 @@ Additionally, you will be asked for token approvals before swapping a token on D
 
 For more in-depth information about Signature Requests, Token Approvals and using your Wallet on DexGuru, check out the [wallets-security-and-more.md](../more-info/wallets-security-and-more.md "mention") section.
 
-## What is the "Full Degen Mode" inside the Market Selector aka Unverified Tokens?
+## What is the "Full Degen Mode🙊" inside the Market Selector aka Unverified Tokens?
 
 ![Degen Mode in the bottom portion of the DexGuru Market Selector](<../.gitbook/assets/image (25).png>)
 
-Tokens that are fall under the Full Degen Mode in the [market-selector](features/market-selector/ "mention") are tokens that are not on at least one verified Token List. We recommend double checking and verifying contract addresses for Tokens under Degen Mode to ensure you're interacting with the correct Token.&#x20;
+Tokens that fall under the Full Degen Mode in the [market-selector](features/market-selector/ "mention") are tokens that are not on at least one verified Token List. We recommend double-checking and verifying contract addresses for Tokens under Degen Mode to ensure you're interacting with the correct Token.&#x20;
 
 ### **What exactly are token lists?**
 
@@ -77,7 +79,7 @@ Additionally, tokens that are not verified and that fall under Full Degen Mode d
 As always, DYOR, double check all Token contract addresses that you're interacting with to ensure they are the right one, especially if they are not on Token Lists.
 
 {% hint style="info" %}
-_You may have previously seen the button "Manage Token Lists" when selecting tokens to swap on leading DEXs, the lists that appear there are likely to be the same ones that we use!_
+_You may have previously seen the button "Manage Token Lists" when selecting tokens to swap on leading DEXs; the lists that appear there are likely to be the same ones that we use!_
 {% endhint %}
 
 ### Why are Recently Listed Tokens under Degen Mode?
@@ -88,7 +90,7 @@ For the vast majority of cases, Tokens shown in the Recently Listed tab will als
 
 ## How can I add/update a Token's Logo?&#x20;
 
-Currently Token logos are being pulled from 3 off-chain data sources, if one source does not contain a Token's Logo, then the next one will be used. They are listed and ranked below in terms of priority:
+Currently, Token logos are being pulled from 3 off-chain data sources, if one source does not contain a Token's Logo, then the next one will be used. They are listed and ranked below in terms of priority:
 
 * [DexGuru Asset Repo](https://github.com/dex-guru/assets)&#x20;
 * [Trust Wallet's Asset Repo](https://github.com/trustwallet/assets)&#x20;
@@ -104,28 +106,28 @@ For more information about how Token data is pulled and displayed on DexGuru, pl
 
 The :thinking: is used a placeholder for Tokens that currently do not have their Logos in one of the sources listed above in [#how-can-i-add-update-a-tokens-logo](faq.md#how-can-i-add-update-a-tokens-logo "mention")
 
-## What is the process for getting a new Token listed on DexGuru?
+## What is the process for getting a new Token listed on DexGuru
 
-We're a permission-less platform, meaning there is no application process nor listing fees. We automatically index all tokens that are on our [supported-chains.md](../data/supported-chains.md "mention"), have liquidity on at least one of our [supported-dexs.md](../data/supported-dexs.md "mention") and has had recent transactions.&#x20;
+We're a permission-less platform, meaning there is no application process or listing fees. We automatically index all tokens that are on our [supported-chains.md](../data/supported-chains.md "mention"), have liquidity on at least one of our [supported-dexs.md](../data/supported-dexs.md "mention") and has had recent transactions.&#x20;
 
-For more information about how data makes it way onto DexGuru, please check out our [data-faq.md](../data/data-faq.md "mention") which covers many questions you may have!
+For more information about how data makes its way onto DexGuru, please check out our [data-faq.md](../data/data-faq.md "mention") which covers many questions you may have!
 
 ## What is the process for getting a new exchange integrated on your platform?
 
 There are 2 steps needed:
 
-1. Integration with [0x Protocol API](https://0x.org/docs/api) or 1inch API, which enables us to route orders via your exchange.  Reach out to the 0x team at their [discord](https://discord.gg/d3FTX3M) or [fill this form to get in touch](https://docs.google.com/forms/d/e/1FAIpQLSf9Xw5M4I8c2Kw1mTkc5LsucrT\_3pRuJ6O6RRHPPvn9EXL1tQ/viewform) or contact the 1inch team.&#x20;
+1. Integration with one of DEX aggregators that we support, which enables us to route orders via your exchange.  Reach out to their teams. You can find the list of aggregators on [meta-aggregation.md](features/trading-tools/meta-aggregation.md "mention") page.&#x20;
 2. Integration in DexGuru UI.  &#x20;
 
 When your exchange is available at 0xAPI or 1inchA API, we can discuss further integration with Dexguru UI.&#x20;
 
 ## **DexGuru is amazing! Is there a way for me to invest in your project?**
 
-We always love the kind comments, enthusiasm and support from the DexGuru community. But we have recently raised funding rounds and not looking for new investors. You can read more about this on our [blog](https://blog.dex.guru/)!
+We always love the kind comments, enthusiasm, and support from the DexGuru community. But we have recently raised funding rounds and not looking for new investors. You can read more about this on our [blog](https://blog.dex.guru/)!
 
 ## Ser, Wen Token? Wen Airdrop?
 
-Eventually, there will be a DexGuru Token. However, there is currently No ETA or any further details to share about it yet as we're focused on building the best trader experience first!
+We're focused on building the best trader experience first!
 
 Additionally, we have no plans to do any airdrops and would like to make it clear that you won't receive anything if you are using DexGuru with an expectation of future airdrops :blush:.&#x20;
 
