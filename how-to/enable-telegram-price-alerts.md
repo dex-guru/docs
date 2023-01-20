@@ -14,10 +14,8 @@ To enable notifications for a token, you need:&#x20;
 
 1. [Connect your web3 wallet.](enable-telegram-price-alerts.md#1.-connect-your-web3-wallet.)
 2. [Add tokens to your Favorites.](enable-telegram-price-alerts.md#2.-add-tokens-to-your-favorites.)
-3. [Go to Settings to connect the Telegram bot to your DexGuru account.](enable-telegram-price-alerts.md#3.-go-to-settings.)
-4. [Go to Alerts & Notifications🔔 to create or edit(if you already have one) your alert.](enable-telegram-price-alerts.md#4.-go-to-alerts-and-notifications-to-create-or-edit-if-you-already-have-one-your-alert.)
-5. [Make sure Telegram is set as a delivery channel and customize your price threshold.](enable-telegram-price-alerts.md#5.-make-sure-telegram-is-set-as-a-delivery-channel-and-customize-your-price-threshold.)
-6. [Save your changes.](enable-telegram-price-alerts.md#undefined)
+3. [Go to Alerts & Notifications🔔 to create your alert and to connect the Telegram bot to your DexGuru account. ](enable-telegram-price-alerts.md#3.-go-to-alerts-and-notifications-to-create-your-alert-and-to-connect-the-telegram-bot-to-your-dexgu)
+4. [Save your changes.](enable-telegram-price-alerts.md#undefined)&#x20;
 
 ### 1. **Connect your web3 wallet.**
 
@@ -29,14 +27,7 @@ Press a heart button to add a token to your Favorites.
 
 ![](<../.gitbook/assets/2. Add tokens to your Favorites..png>)
 
-### 3. Go to Settings to connect the Telegram bot to your DexGuru account.&#x20;
-
-* Generate Access Code
-* Send the "/connect yourGeneratedAccessCodeHere" command to [@dxgurubot](https://t.me/dxgurubot) in Telegram&#x20;
-
-<figure><img src="../.gitbook/assets/Screen Shot 2022-10-04 at 3.41.28 PM.png" alt=""><figcaption></figcaption></figure>
-
-### 4. Go to Alerts & Notifications🔔 to create or edit(if you already have one) your alert.
+### 3. Go to Alerts & Notifications🔔 to create your alert and to connect the Telegram bot to your DexGuru account.&#x20;
 
 Create a new alert if you do not have one.
 
@@ -46,11 +37,7 @@ Edit an existing alert if you already have one.&#x20;
 
 <figure><img src="../.gitbook/assets/Screen Shot 2022-10-04 at 5.27.13 PM (1).png" alt=""><figcaption></figcaption></figure>
 
-### **5.** Make sure Telegram is set as a delivery channel and customize your price threshold.
-
-<figure><img src="../.gitbook/assets/Screen Shot 2022-10-04 at 5.41.35 PM.png" alt=""><figcaption></figcaption></figure>
-
-### 6. **Save your changes.**
+### 4. **Save your changes.**
 
 <figure><img src="../.gitbook/assets/Screen Shot 2022-10-04 at 5.48.32 PM.png" alt=""><figcaption></figcaption></figure>
 
