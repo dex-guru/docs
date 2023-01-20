@@ -15,8 +15,6 @@ All token price charts on DexGuru are currently displayed using [TradingView’s
 
 You will be able to adjust time periods, add lines, drawings, technical indicators and customize charts to your preferences and liking.&#x20;
 
-All customizations that you make to your charts are autosaved to your local storage on your device’s browser, meaning when you revisit DexGuru from the same device and browser any previous customizations will be there when you return!
-
 {% hint style="success" %}
 _There are no limitations on the number of indicators that you can add to the charts on DexGuru, which is normally restricted on the TradingView platform based on paid memberships plans_ 🥳
 {% endhint %}
