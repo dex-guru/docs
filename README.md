@@ -13,7 +13,7 @@ We've built an interface that provides access to easy-to-understand on-chain dat
 
 ## Getting Help & Finding Answers
 
-When using DexGuru you may find yourself coming across some questions, and we hope to be able to answer them all in these help documentation. We suggest looking for the relevant section in the left or simply searching (in the top right) keywords to your question, you will most likely find your answer the fastest that way.&#x20;
+When using DexGuru, you may find yourself coming across some questions, and we hope to be able to answer them all in this documentation. We suggest looking for the relevant section on the left or using the search bar to answer your questions; you will most likely find your answer the fastest that way.&#x20;
 
 Below is an overview of some key sections in the help documentation:&#x20;
 
@@ -39,7 +39,7 @@ If you still can't find what you're looking for in the help documentation here, 
 
 ## **Official DexGuru Links**
 
-**Always check your URL to make sure you're using the official DexGuru platform and related websites.** Below is a list of all the current official related links we have:
+**Always check your URL to ensure you use the official DexGuru platform and related websites.** Below is a list of all the current official related links we have:
 
 * Website -> [https://dex.guru/](https://dex.guru/)
 * Blog -> [https://blog.dex.guru/](https://blog.dex.guru/)
