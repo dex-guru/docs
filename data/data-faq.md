@@ -16,11 +16,11 @@ We have invested heavily in our data infrastructure. For each chain that we supp
 
 All market data displayed on DexGuru is from on-chain transactions. However, we have included the usage of limited amount of supplemental off-chain data sources to help us provide additional information and context for a better user experience. An example of off-chain data in DexGuru UI is the token logos or information about verified tokens.
 
-For more details, visit [Broken link](broken-reference "mention") and [off-chain-data-usage.md](off-chain-data-usage.md "mention") sections_._
+For more details, visit [data-completeness.md](data-completeness.md "mention") and [off-chain-data-usage.md](off-chain-data-usage.md "mention") sections_._
 
 ## Is there a delay in the data?
 
-Data displayed on DexGuru is relayed from our blockchain nodes as soon as they pick up it and retrieve it directly from the blockchain. Under normal circumstances, you can expect the data to be live and have minimal latency.
+Data displayed on DexGuru is relayed from our blockchain nodes as soon as they pick it up and retrieve it directly from the blockchain. Under normal circumstances, you can expect the data to be live and have minimal latency.
 
 _If you need to receive data even faster, you may need to run your own nodes!_
 
@@ -40,7 +40,7 @@ For the most complete and updated list of chains on DexGuru, please visit [suppo
 We prioritize in covering the most popular DEXs on all the chains that we support. For a complete list of supported DEXs, please visit [supported-dexs.md](supported-dexs.md "mention")
 
 {% hint style="info" %}
-We're aiming to connect all major DEXs/AMMs with significant trading volume on EVM compatible chains by the end of 2021.&#x20;
+We're always striving to connect all major DEXs/AMMs with significant trading volume.
 {% endhint %}
 
 ## Can you add support for "X" blockchain or "X" DEX
@@ -93,11 +93,7 @@ As always, please DYOR before investing in any tokens.
 
 ## Does **filtering data by time or dates show me data based on the time-zone I am in?**
 
-Yes, it will. Applying any date filter on DexGuru will display data from transactions that occurred in the selected period for the time-zone you are currently in.
-
-For example, if a user is in London, UK, applied a date filter on trade transactions from "1st Nov 2021 to 4th Nov 2021", then the data displayed will be from transactions that occurred between 1st Nov 2021 00:00 AM and 4th Nov 2021 23:59 London, UK time.
-
-This means two people in different time-zones using the same date filters will most likely see slightly different data.
+Everything on DexGuru has UTC time.&#x20;
 
 ## I came across an issue with the data on DexGuru! What can I do?
 
