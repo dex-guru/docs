@@ -16,7 +16,7 @@ We did not build our own DEX from scratch, we currently use 0x, 1inch, and Paras
 By integrating and using 0x, 1inch, and Paraswap protocols to route orders, we're able to offer DexGuru traders optimized token swaps that are fast, gas efficient, and have low slippage, meaning you'll get the best deal and rates on your swaps.
 {% endhint %}
 
-For more information about protocols, visit their official websites: [0x](https://www.0x.org/), [1inch](https://1inch.io/), and [Paraswap](https://www.paraswap.io/).&#x20;
+For more information about protocols, visit their official websites: [0x](https://www.0x.org/), [1inch](https://1inch.io/), and [Paraswap](https://www.paraswap.io/). Learn more about [meta-aggregation.md](../general/features/trading-tools/meta-aggregation.md "mention")
 
 ## **How do I know my swap orders conducted with my wallet are safe?**
 
