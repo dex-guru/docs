@@ -21,7 +21,7 @@ To learn more about DexGuru and what we're all about, visit our [Manifesto on ou
 
 ## Is DexGuru free to use? And does trading on DexGuru cost anything extra?
 
-Yes! DexGuru is currently completely free to use. All features on DexGuru are available to everyone once they have connected their wallet.&#x20;
+DexGuru's analytics features are currently entirely free to use. All features on DexGuru are available to everyone once they have connected their wallet.&#x20;
 
 Trading tokens on DexGuru is free; however, we set a default tip of 0.5% from your order that goes to DexGuru. The tip is optional, and you can turn it off for any of your orders. Remember that you will still need to pay Network Transaction Fees (Gas Fees) as you would if you were usually swapping on a DEX/AMM.&#x20;
 
