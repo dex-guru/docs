@@ -10,19 +10,19 @@ coverY: 0
 
 ## **How do swaps on DexGuru work? Did you build your own DEX?**
 
-We did not build our own DEX from scratch; we currently use 0x, 1inch, KyberSwap, and Paraswap protocols to route all buy & sell (swap) orders on the DexGuru platform. All the above protocols are industry-leading liquidity aggregators and are used by many Web3.0 leaders that you may already be familiar with, such as MetaMask, DeFi Saver, Zapper & more.
+We did not build our own DEX from scratch, we currently use 0x, 1inch, and Paraswap protocols to route all buy & sell (swap) orders on the DexGuru platform. All the above protocols are industry-leading liquidity aggregators and are used by many Web3.0 leaders that you may already be familiar with, such as MetaMask, DeFi Saver, Zapper & more.
 
 {% hint style="success" %}
 By integrating and using 0x, 1inch, and Paraswap protocols to route orders, we're able to offer DexGuru traders optimized token swaps that are fast, gas efficient, and have low slippage, meaning you'll get the best deal and rates on your swaps.
 {% endhint %}
 
-For more information about protocols, visit their official websites: [0x](https://www.0x.org/), [1inch](https://1inch.io/), [KyberSwap](https://kyberswap.com/), and [Paraswap](https://www.paraswap.io/). Learn more about [meta-aggregation.md](../general/features/trading-tools/meta-aggregation.md "mention")
+For more information about protocols, visit their official websites: [0x](https://www.0x.org/), [1inch](https://1inch.io/), and [Paraswap](https://www.paraswap.io/). Learn more about [meta-aggregation.md](../general/features/trading-tools/meta-aggregation.md "mention")
 
 ## **How do I know my swap orders conducted with my wallet are safe?**
 
-As discussed above, when trading on DexGuru all your token approvals and orders interact with the 0x, 1inch, KyberSwap or Paraswap protocols through their proxy smart contracts. Check out the full list of smart contract addresses in the [wallets-security-and-more.md](wallets-security-and-more.md "mention")section.&#x20;
+As discussed above, when trading on DexGuru all your token approvals and orders interact with the 0x, 1inch, or Paraswap protocols through their proxy smart contracts. Check out the full list of smart contract addresses in the [wallets-security-and-more.md](wallets-security-and-more.md "mention")section.&#x20;
 
-> _You can verify the smart contract address on the official documantations:_ [_KyberSwap_](https://kyberswap.com/)_,_ [_0x_](https://docs.0x.org/introduction/0x-cheat-sheet)_,_[ _1inch_](https://docs.1inch.io/)_,_ [_Paraswap_](https://developers.paraswap.network/smart-contracts)_._&#x20;
+> _You can verify the smart contract address on the official documantations:_ [_0x_](https://docs.0x.org/introduction/0x-cheat-sheet)_,_[ _1inch_](https://docs.1inch.io/)_,_ [_Paraswap_](https://developers.paraswap.network/smart-contracts)_._&#x20;
 
 When a swap is successfully completed through DexGuru, you should see this in your transaction list on a Block Explorer. It can be "0x: Exchange Proxy" or "1inch: Router" or something like "Paraswap v5: Augustus Swapper Mainnet".&#x20;
 
@@ -37,7 +37,7 @@ And as with navigating on Web3.0, you should always double & triple-check every 
 
 ## **How are my swaps routed? And which chains are supported for swaps?**&#x20;
 
-The following protocols define the markets that are used to route your order:  [0x](https://www.0x.org/), [1inch](https://1inch.io/), [Paraswap](https://www.paraswap.io/), [KyberSwap](https://kyberswap.com/). You may find that your swap may be routed across more than 1 DEX as both protocols optimize your order to be filled with the lowest slippage possible. :raised\_hands:
+The following protocols define the markets that are used to route your order:  [0x](https://www.0x.org/), [1inch](https://1inch.io/), [Paraswap](https://www.paraswap.io/). You may find that your swap may be routed across more than 1 DEX as both protocols optimize your order to be filled with the lowest slippage possible. :raised\_hands:
 
 ## I **bought/sold** "X" Token but received less than the amount displayed
 

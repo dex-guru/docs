@@ -45,15 +45,15 @@ Trade Price is calculated by taking the amount of token being swapped during the
 
 ### #6 - Token From Amount and USD value
 
-You input the amount of token you expect to be taken out of your wallet. Under the token amount, we will calculate an approximation of how much that would be in US dollars. We calculate it by multiplying the number you input by the latest token price. We can’t guarantee an exact USD price due to the nature of decentralized exchanges.
+You input the amount of tokens you expect to be taken out of your wallet. Under the token amount, we will calculate an approximation of how much that would be in US dollars. We calculate it by multiplying the number you input by the latest token price. We can’t guarantee an exact USD price due to the nature of decentralized exchanges.
 
 ### #7 - Rate
 
-We derive the ratio based on a [0xAPI](https://0x.org/api), 1inch, or Paraswap responses. All orders are routed through their API except the [Arbitrum](https://bridge.arbitrum.io/) chain. Arbitrum orders are routed through [1inch API](https://docs.1inch.io/docs/limit-order-protocol/api/).&#x20;
+We derive the ratio based on 0xAPI, 1inch, KyberSwap, or Paraswap responses. All orders are routed through their API except the [Arbitrum](https://bridge.arbitrum.io/) chain. Arbitrum orders are routed through [1inch API](https://docs.1inch.io/docs/limit-order-protocol/api/).&#x20;
 
 ### #8 - Token To Amount and USD value
 
-The amount of tokens you receive and their USD value is based on a [0xAPI](https://0x.org/api), Paraswap, or [1inch API](https://docs.1inch.io/docs/limit-order-protocol/api/) responses. The percentage is calculated by comparing the USD value of the token that is being taken from your wallet to the USD value of the token you are receiving by the end of the transaction.
+The amount of tokens you receive and their USD value is based on 0xAPI, Paraswap, KyberSwap, or 1inch API responses. The percentage is calculated by comparing the USD value of the token that is being taken from your wallet to the USD value of the token you are receiving by the end of the transaction.
 
 ## Market Selector
 
