@@ -66,7 +66,7 @@ Optimism: [0x216B4B4Ba9F3e719726886d34a177484278Bfcae](https://optimistic.ethers
 
 Fantom: [0x216B4B4Ba9F3e719726886d34a177484278Bfcae](https://etherscan.io/address/0x216b4b4ba9f3e719726886d34a177484278bfcae#code)
 
-#### via KyberSwap:
+#### via KyberSwap ([source](https://github.com/dex-guru/meta-aggregation-api/blob/main/meta\_aggregation\_api/providers/kyberswap\_v1/config.json)):
 
 Ethereum: [0x6131B5fae19EA4f9D964eAc0408E4408b66337b5](https://etherscan.io/address/0x6131B5fae19EA4f9D964eAc0408E4408b66337b5)
 
