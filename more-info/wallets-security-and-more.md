@@ -127,6 +127,7 @@ Connecting your wallet provides you complete access to the DexGuru platform, ena
 * [Trader Profile](../general/features/account-profile.md)
 * [Token Profile](../general/features/dyor.md)
 * [Multi-Chart](https://docs.dex.guru/general/features/multi-chart)&#x20;
+* In-depth Analytics of Volume and Liquidity by DEX
 * _And more..._ s_tay tuned, we have some cool features coming soon 😉_
 
 For guides and information on how to use the above features, visit [Broken link](broken-reference "mention") & [Broken link](broken-reference "mention")sections for more details.
