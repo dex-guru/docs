@@ -52,11 +52,11 @@ Fantom - [0x1111111254EEB25477B68fb85Ed929f73A960582](https://ftmscan.com/addres
 
 #### via Paraswap ([source](https://developers.paraswap.network/smart-contracts)):
 
-Mainnet: [0x216b4b4ba9f3e719726886d34a177484278bfcae](https://etherscan.io/address/0x216b4b4ba9f3e719726886d34a177484278bfcae#code)
+Ethereum: [0x216b4b4ba9f3e719726886d34a177484278bfcae](https://etherscan.io/address/0x216b4b4ba9f3e719726886d34a177484278bfcae#code)
 
 Polygon: [0x216b4b4ba9f3e719726886d34a177484278bfcae](https://polygonscan.com/address/0x216B4B4Ba9F3e719726886d34a177484278Bfcae#code)
 
-BSC: [0x216b4b4ba9f3e719726886d34a177484278bfcae](https://ropsten.etherscan.io/address/0x216b4b4ba9f3e719726886d34a177484278bfcae)
+BSC: [0x216b4b4ba9f3e719726886d34a177484278bfcae](https://bscscan.com/address/0x216b4b4ba9f3e719726886d34a177484278bfcae#code)
 
 Avalanche: [0x216b4b4ba9f3e719726886d34a177484278bfcae](https://cchain.explorer.avax.network/address/0x216B4B4Ba9F3e719726886d34a177484278Bfcae/contracts)
 
@@ -65,6 +65,24 @@ Arbitrum: [0x216B4B4Ba9F3e719726886d34a177484278Bfcae](https://arbiscan.io/addre
 Optimism: [0x216B4B4Ba9F3e719726886d34a177484278Bfcae](https://optimistic.etherscan.io/address/0x216b4b4ba9f3e719726886d34a177484278bfcae)
 
 Fantom: [0x216B4B4Ba9F3e719726886d34a177484278Bfcae](https://etherscan.io/address/0x216b4b4ba9f3e719726886d34a177484278bfcae#code)
+
+#### via KyberSwap:
+
+Ethereum: [0x6131B5fae19EA4f9D964eAc0408E4408b66337b5](https://etherscan.io/address/0x6131B5fae19EA4f9D964eAc0408E4408b66337b5)
+
+Polygon: [0x6131B5fae19EA4f9D964eAc0408E4408b66337b5](https://polygonscan.com/address/0x6131b5fae19ea4f9d964eac0408e4408b66337b5#code)
+
+BSC: [0x6131B5fae19EA4f9D964eAc0408E4408b66337b5](https://bscscan.com/address/0x6131b5fae19ea4f9d964eac0408e4408b66337b5)
+
+Avalanche: [0x6131B5fae19EA4f9D964eAc0408E4408b66337b5](https://snowtrace.io/address/0x6131b5fae19ea4f9d964eac0408e4408b66337b5#code)
+
+Arbitrum: [0x6131B5fae19EA4f9D964eAc0408E4408b66337b5](https://arbiscan.io/address/0x6131b5fae19ea4f9d964eac0408e4408b66337b5#contracts)
+
+Optimism: [0x6131B5fae19EA4f9D964eAc0408E4408b66337b5](https://optimistic.etherscan.io/address/0x6131b5fae19ea4f9d964eac0408e4408b66337b5#code)
+
+Fantom: [0x6131B5fae19EA4f9D964eAc0408E4408b66337b5](https://etherscan.io/address/0x6131B5fae19EA4f9D964eAc0408E4408b66337b5#code)
+
+#### &#x20;
 
 ### Limit orders:
 
