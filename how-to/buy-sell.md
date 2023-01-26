@@ -6,7 +6,9 @@ description: How to trade on DexGuru?
 
 **For more info about how Buying & Selling tokens work under the hood, please visit the**[swapping-tokens.md](../more-info/swapping-tokens.md "mention") section. This section is a practical guide on trading directly on DexGuru
 
-****
+{% embed url="https://assets-stage.dex.guru/video/HowToSellTokenOnDexGuru.mp4" %}
+How to sell token on DexGuru
+{% endembed %}
 
 **1. Firstly, you need to** [**connect your wallet**](https://docs.dex.guru/how-to/connect-wallet)**.**
 
