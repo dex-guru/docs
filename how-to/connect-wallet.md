@@ -64,6 +64,10 @@ All set:&#x20;
 
 ## Connect your wallet on mobile&#x20;
 
+{% embed url="https://assets-stage.dex.guru/video/HowToConnectWalletOnMobileFull.mp4" %}
+How to connect MetaMask wallet to DexGuru on your phone&#x20;
+{% endembed %}
+
 You need to have your web3 wallet app installed on your phone. Go to your wallet app and look for the browser there. Now go to dex.guru
 
 ![](<../.gitbook/assets/Connect wallet009.png>)
