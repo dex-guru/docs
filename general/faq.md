@@ -49,7 +49,7 @@ Additionally, you will be asked for token approvals before swapping a token on D
 
 For more in-depth information about Signature Requests, Token Approvals and using your Wallet on DexGuru, check out the [wallets-security-and-more.md](../more-info/wallets-security-and-more.md "mention") section.
 
-## What is the "Full Degen Mode🙊" inside the Market Selector aka Unverified Tokens?
+## What is the "Degen Mode🙊" inside the Market Selector aka Unverified Tokens?
 
 ![Degen Mode in the bottom portion of the DexGuru Market Selector](<../.gitbook/assets/image (25).png>)
 
@@ -108,22 +108,31 @@ The :thinking: is used a placeholder for Tokens that currently do not have their
 
 ## What is the process for getting a new Token listed on DexGuru
 
-We're a permission-less platform, meaning there is no application process or listing fees. We automatically index all tokens that are on our [supported-chains.md](../data/supported-chains.md "mention"), have liquidity on at least one of our [supported-dexs.md](../data/supported-dexs.md "mention") and has had recent transactions.&#x20;
+We're a permissionless platform, meaning there is no application process or listing fees. We automatically index all tokens that are on our [supported-chains.md](../data/supported-chains.md "mention"), have liquidity on at least one of our [supported-dexs.md](../data/supported-dexs.md "mention") and has had recent transactions.&#x20;
 
 For more information about how data makes its way onto DexGuru, please check out our [data-faq.md](../data/data-faq.md "mention") which covers many questions you may have!
 
-## What is the process for getting a new exchange integrated on your platform?
+## What is the process for getting a new integration with your platform?
 
-There are 2 steps needed:
+#### Integrations for Exchanges/AMMs/DEXs
 
-1. Integration with one of DEX aggregators that we support, which enables us to route orders via your exchange.  Reach out to their teams. You can find the list of aggregators on [meta-aggregation.md](features/trading-tools/meta-aggregation.md "mention") page.&#x20;
-2. Integration in DexGuru UI.  &#x20;
+1\. To enable routing via your exchange:
 
-When your exchange is available at 0xAPI or 1inchA API, we can discuss further integration with Dexguru UI.&#x20;
+* Integration with one of DEX aggregators that we support, which enables us to route orders via your exchange.  Reach out to their teams. You can find the list of aggregators on [meta-aggregation.md](features/trading-tools/meta-aggregation.md "mention") page.&#x20;
 
-## **DexGuru is amazing! Is there a way for me to invest in your project?**
+2\. To show price charts and trading info in DexGuru UI:&#x20;
 
-We always love the kind comments, enthusiasm, and support from the DexGuru community. But we have recently raised funding rounds and not looking for new investors. You can read more about this on our [blog](https://blog.dex.guru/)!
+* Integration in DexGuru UI. This could be done via pull request at this repo: [https://github.com/dex-guru/data-sources](https://github.com/dex-guru/data-sources)  &#x20;
+
+#### Integrations for Aggregators&#x20;
+
+You can add your aggregator to our Meta-aggregation API at this repo: [https://github.com/dex-guru/meta-aggregation-api](https://github.com/dex-guru/meta-aggregation-api) &#x20;
+
+#### Integrations for  EVM-compatible blockchains&#x20;
+
+We recently streamlined the process of adding new EVM-compatible networks, it could be done with a simple pull request as described here:: [https://github.com/dex-guru/data-sources](https://github.com/dex-guru/data-sources)  &#x20;
+
+Feel free to reach out team at our discord server if you have further questions.&#x20;
 
 ## Ser, Wen Token? Wen Airdrop?
 
