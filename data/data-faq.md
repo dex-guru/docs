@@ -37,17 +37,21 @@ For the most complete and updated list of chains on DexGuru, please visit [suppo
 
 ## Which DEXs (Decentralized Exchanges/AMMs) do you cover?
 
-We prioritize in covering the most popular DEXs on all the chains that we support. For a complete list of supported DEXs, please visit [supported-dexs.md](supported-dexs.md "mention")
+We prioritize in covering the most popular DEXs on all the chains that we support. For a complete list of supported DEXs, please visit [supported-dexs.md](supported-dexs.md "mention")or check our [Dex Metrics page](https://dex.guru/markets) for live data.&#x20;
 
 {% hint style="info" %}
 We're always striving to connect all major DEXs/AMMs with significant trading volume.
 {% endhint %}
 
-## Can you add support for "X" blockchain or "X" DEX
+* Further reading: [Integration for new DEXs](../general/faq.md#integrations-for-exchanges-amms-dexs)
+
+## Can you add support for "X" blockchain or "X" DEX?
 
 As mentioned above, we're always looking to add the most popular Chains and corresponding DEXs/AMMs in their ecosystems.&#x20;
 
 If there is a particular chain that you would really love to see on DexGuru, hop onto our [discord server](https://discord.com/invite/dPW8fzwzz9) and let us in the #suggestions channel.
+
+* Further reading: [Integration for new ](../general/faq.md#integrations-for-exchanges-amms-dexs)[Amms](../general/faq.md#integrations-for-evm-compatible-blockchains)
 
 ## Why are some token prices & different from CoinMarketCap & CoinGecko?
 
