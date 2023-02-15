@@ -1,4 +1,4 @@
-# Cross-chain Swaps
+# Cross-Chain Swaps
 
 Cross-chain swaps on DexGuru are implemented using [LiFi](https://li.fi/) bridge aggregation protocol that supports swaps by aggregating bridges and connecting them to DEX aggregators.
 
