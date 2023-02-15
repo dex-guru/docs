@@ -13,6 +13,7 @@
 * [Account Labeling](general/features/account-labeling.md)
 * [Token Explorer (Token Tags)](general/features/token-explorer-token-tags.md)
 * [Trading Tools](general/features/trading-tools/README.md)
+* [Cross-chain Swaps](features/cross-chain-swaps.md)
 * [Meta-aggregation](general/features/trading-tools/meta-aggregation.md)
 * [Limit Orders](general/features/limit-orders.md)
 * [Multi-Chart](general/features/multi-chart.md)
