@@ -1,6 +1,6 @@
 # Cross-Chain Swaps
 
-Cross-chain swaps on DexGuru inside Trading Tools. They are implemented using [LiFi](https://li.fi/) bridge aggregation protocol that supports swaps by aggregating [bridges](https://docs.li.fi/list-chains-bridges-dexs#bridges) and connecting them to [DEX aggregators](https://docs.li.fi/list-chains-bridges-dexs#exchanges).
+Cross-chain swaps on DexGuru are available inside [trading-tools](../general/features/trading-tools/ "mention"). They are implemented using [LiFi](https://li.fi/) bridge aggregation protocol that supports swaps by aggregating [bridges](https://docs.li.fi/list-chains-bridges-dexs#bridges) and connecting them to [DEX aggregators](https://docs.li.fi/list-chains-bridges-dexs#exchanges).
 
 <figure><img src="../.gitbook/assets/Screen Shot 2023-02-14 at 5.09.14 PM.png" alt=""><figcaption></figcaption></figure>
 
