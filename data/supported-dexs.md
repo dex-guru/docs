@@ -116,30 +116,31 @@ Check out our [DEX metrics dashboard ](https://dex.guru/markets)for real-time tr
 
 ## **Fantom**
 
-| DEX Name          | Date Added         |
-| ----------------- | ------------------ |
-| SpookySwap        | 20th October 2021  |
-| SpiritSwap        | 20th October 2021  |
-| SushiSwap         | 2nd November 2021  |
-| ZooDex            | 27th December 2021 |
-| JetSwap           | 27th December 2021 |
-| PaintSwap         | 27th December 2021 |
-| Morpheus Swap     | 27th December 2021 |
-| Elk Finance       | 27th December 2021 |
-| Yoshi Exchange    | 27th December 2021 |
-| Dyfn              | 27th December 2021 |
-| SoulSwap          | 27th December 2021 |
-| WakaSwap          | 27th December 2021 |
-| KyberSwap Classic | 14th January 2022  |
-| Solidy            | 11th February 2022 |
-| Curve             | 20th April 2022    |
-| Tomb Finance      | 2nd May 2022       |
-| WigoSwap          | 17th August 2022   |
-| RadioShack        | 21st November 2022 |
-| KyberSwap Elastic | 7th December 2022  |
-| Fraxswap          | 28th December 2022 |
-| Dfyne             | 16th January 2023  |
-| Saddle            | 16th January 2023  |
+| DEX Name           | Date Added         |
+| ------------------ | ------------------ |
+| SpookySwap         | 20th October 2021  |
+| SpiritSwap         | 20th October 2021  |
+| SushiSwap          | 2nd November 2021  |
+| ZooDex             | 27th December 2021 |
+| JetSwap            | 27th December 2021 |
+| PaintSwap          | 27th December 2021 |
+| Morpheus Swap      | 27th December 2021 |
+| Elk Finance        | 27th December 2021 |
+| Yoshi Exchange     | 27th December 2021 |
+| Dyfn               | 27th December 2021 |
+| SoulSwap           | 27th December 2021 |
+| WakaSwap           | 27th December 2021 |
+| KyberSwap Classic  | 14th January 2022  |
+| Solidy             | 11th February 2022 |
+| Curve              | 20th April 2022    |
+| Tomb Finance       | 2nd May 2022       |
+| WigoSwap           | 17th August 2022   |
+| RadioShack         | 21st November 2022 |
+| KyberSwap Elastic  | 7th December 2022  |
+| Fraxswap           | 28th December 2022 |
+| Dfyne              | 16th January 2023  |
+| Saddle             | 16th January 2023  |
+| Equalizer Exchange | 21st February 2023 |
 
 ## **Polygon**
 
@@ -191,6 +192,8 @@ Check out our [DEX metrics dashboard ](https://dex.guru/markets)for real-time tr
 | Saddle            | 16th January 2023  |
 | Swapr             | 16th January 2023  |
 | Balancer          | 16th January 2023  |
+| 3xcalibur         | 21st February 2023 |
+| SolidLizard       | 21st February 2023 |
 
 ## **CELO**
 
