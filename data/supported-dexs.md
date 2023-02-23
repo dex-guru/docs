@@ -140,7 +140,7 @@ Check out our [DEX metrics dashboard ](https://dex.guru/markets)for real-time tr
 | Fraxswap           | 28th December 2022 |
 | Dfyne              | 16th January 2023  |
 | Saddle             | 16th January 2023  |
-| Equalizer Exchange | 21st February 2023 |
+| Equalizer Exchange | 23st February 2023 |
 
 ## **Polygon**
 
@@ -192,8 +192,8 @@ Check out our [DEX metrics dashboard ](https://dex.guru/markets)for real-time tr
 | Saddle            | 16th January 2023  |
 | Swapr             | 16th January 2023  |
 | Balancer          | 16th January 2023  |
-| 3xcalibur         | 21st February 2023 |
-| SolidLizard       | 21st February 2023 |
+| 3xcalibur         | 23st February 2023 |
+| SolidLizard       | 23st February 2023 |
 
 ## **CELO**
 
