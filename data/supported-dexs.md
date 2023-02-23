@@ -39,7 +39,7 @@ Check out our [DEX metrics dashboard ](https://dex.guru/markets)for real-time tr
 | DODO V1              | 16th January 2023  |
 | Fraxswap             | 16th January 2023  |
 | Saddle               | 16th January 2023  |
-| Balancer             | 16th January 2023  |
+| Balancer             | 22nd February 2023 |
 
 ## **Binance Smart Chain**
 
@@ -170,7 +170,7 @@ Check out our [DEX metrics dashboard ](https://dex.guru/markets)for real-time tr
 | DODO V1            | 16th January 2023  |
 | DODO V2            | 16th January 2023  |
 | Dfyne              | 16th January 2023  |
-| Balancer           | 16th January 2023  |
+| Balancer           | 22nd February 2023 |
 
 ## **Arbitrum**
 
@@ -191,7 +191,7 @@ Check out our [DEX metrics dashboard ](https://dex.guru/markets)for real-time tr
 | Sushiswap Trident | 16th January 2023  |
 | Saddle            | 16th January 2023  |
 | Swapr             | 16th January 2023  |
-| Balancer          | 16th January 2023  |
+| Balancer          | 22nd February 2023 |
 | 3xcalibur         | 23st February 2023 |
 | SolidLizard       | 23st February 2023 |
 
