@@ -48,10 +48,9 @@ If you still can't find what you're looking for in the help documentation here, 
 * Twitter -> [https://twitter.com/dexguru/](https://twitter.com/dexguru/)
 * Discord  -> [https://discord.com/invite/dPW8fzwzz9](https://discord.com/invite/dPW8fzwzz9)
 * Developer & API Docs -> [https://developers.dex.guru/](https://developers.dex.guru/)
-* Open-source meta-aggregation -> [https://github.com/dex-guru/meta-aggregation-api](https://github.com/dex-guru/meta-aggregation-api)
 * Telegram Channel → [https://t.me/dexguru](https://t.me/dexguru) - @dexguru
 * Telegram Notification Biot -> [@dxgurubot](https://t.me/dxgurubot)&#x20;
-* GuruDAO Governance Forum -> [https://gov.dex.guru/](https://gov.dex.guru/)
-* GuruDAO Bootstrap Phase voting -> [https://snapshot.org/#/thegurudao.eth](https://snapshot.org/#/thegurudao.eth)
+* DexGuru Android App: [https://play.google.com/store/apps/details?id=guru.dex.twa](https://play.google.com/store/apps/details?id=guru.dex.twa)&#x20;
+* DexGuru iOS App: [https://apps.apple.com/us/app/dexguru/id1668572518](https://apps.apple.com/us/app/dexguru/id1668572518) &#x20;
 
 __
