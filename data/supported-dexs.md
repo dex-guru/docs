@@ -89,6 +89,7 @@ Check out our [DEX metrics dashboard ](https://dex.guru/markets)for real-time tr
 | Elk Finance           | 16th January 2023   |
 | Planet                | 16th January 2023   |
 | Impossible Finance V3 | 16th January 2023   |
+| Sushiswap             | 17th March 2023     |
 
 ## **Avalanche**
 
@@ -194,6 +195,7 @@ Check out our [DEX metrics dashboard ](https://dex.guru/markets)for real-time tr
 | Balancer          | 22nd February 2023 |
 | 3xcalibur         | 23st February 2023 |
 | SolidLizard       | 23st February 2023 |
+| Arbswap           | 17th March 2023    |
 
 ## **CELO**
 
