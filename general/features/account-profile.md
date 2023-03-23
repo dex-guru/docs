@@ -10,9 +10,9 @@ For further information regarding a Trader's Wallet token balances and recent ac
 
 <figure><img src="../../.gitbook/assets/Screen Shot 2023-01-18 at 5.49.27 PM.png" alt=""><figcaption></figcaption></figure>
 
-This feature is currently accessible by clicking on any transaction on the main page or your wallet.&#x20;
+This feature is currently accessible by clicking on any transaction on the main page, your wallet in the top right corner, and the wallet icon in the left navbar.&#x20;
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2023-01-18 at 5.52.14 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-03-23 at 12.51.26 PM.png" alt=""><figcaption></figcaption></figure>
 
 ## Trader Overview&#x20;
 
@@ -61,9 +61,9 @@ Additionally, by clicking on the Token Balances, you will be able to see how the
 
 ## **Full Transaction List**
 
-![Full Transaction list of Trader](<../../.gitbook/assets/image (38).png>)
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-03-23 at 12.57.53 PM.png" alt=""><figcaption></figcaption></figure>
 
-In the Trader Profile, you will also be able to view full transaction history of the Trader's Address including:
+In the Trader Profile, you will also be able to view and download to CSV the full transaction history of the Trader's Address including:
 
 * Swaps
 * Transfers
