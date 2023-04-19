@@ -181,7 +181,7 @@ As with all new and emerging industries, the flow of new opportunities inevitabl
 
 Of course, this applies to Web 3.0 as well - and although we can't control the actions of bad players out there, we can always be proactive in being smart & safe when navigating web 3.0 to safeguard our wallets and funds.
 
-****:exclamation: **Here are some important things to know and remember specifically for DexGuru to help you stay safe!**
+:exclamation: **Here are some important things to know and remember specifically for DexGuru to help you stay safe!**
 
 * DexGuru does NOT currently have a Token NOR a Planned Token Sale
 * DexGuru is NOT offering any airdrops or rewards for redemption

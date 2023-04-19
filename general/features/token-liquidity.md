@@ -6,7 +6,7 @@ description: and Pools Activity
 
 <figure><img src="../../.gitbook/assets/Screen Shot 2023-01-18 at 6.01.20 PM.png" alt=""><figcaption></figcaption></figure>
 
-We measure liquidity $ value for a token, not for a trading pair. **** When determining how liquid a token is, we don’t really care about how much of that token is in liquidity pools, we care about the value of other tokens that it can be swapped for.&#x20;
+We measure liquidity $ value for a token, not for a trading pair. When determining how liquid a token is, we don’t really care about how much of that token is in liquidity pools, we care about the value of other tokens that it can be swapped for.&#x20;
 
 {% hint style="info" %}
 To determine a liquidity value for a given token X, we look across [supported liquidity pools](https://docs.dex.guru/data/supported-dexs-amms) and calculate the amounts of available tokens you can swap with token X. Then, to get the liquidity of token X, we multiply these available tokens by their corresponding USD prices and sum it all up.

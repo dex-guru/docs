@@ -46,7 +46,7 @@ This section indicates the % of the <mark style="background-color:yellow;">**Top
 
 * **In the Money -**> Holders who are in profit at the current Token Price
 * **At the Money** -> Holders who are breakeven at the current Token Price
-* **Out of the Money** -> **** Holders who are at a loss at the current Token Price
+* **Out of the Money** -> Holders who are at a loss at the current Token Price
 
 _Note: This section refers to current token holders and their current positions and not token holders who have previously sold their tokens and who have either made/broke even/lost money._
 

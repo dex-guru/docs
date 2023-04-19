@@ -8,15 +8,15 @@ description: >-
 
 For further information regarding a Trader's Wallet token balances and recent activity, you can visit their Trader Profile. This page allows you to dive deep into a Trader's wallet to see precisely what they've been up to recently and view their historical transactions.
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2023-01-18 at 5.49.27 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-03-23 at 1.00.25 PM.png" alt=""><figcaption></figcaption></figure>
 
 This feature is currently accessible by clicking on any transaction on the main page, your wallet in the top right corner, and the wallet icon in the left navbar.&#x20;
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2023-03-23 at 12.51.26 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-03-23 at 12.51.26 PM (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Trader Overview&#x20;
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2023-01-18 at 5.55.40 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-03-23 at 1.03.41 PM.png" alt=""><figcaption></figcaption></figure>
 
 At the top of the Trader Profile, you will be able to see a quick overview with information such as:
 
@@ -30,7 +30,11 @@ The total dollar value of _Tokens_\* that the trader is currently holding.&#x20;
 
 **30 Day Trading Volume**
 
-The total dollar value of tokens traded from this Trader in the past 30 days.
+The total dollar value of tokens traded from this Trader in the past 30 days.&#x20;
+
+**Inflow/Outflow, 30d**
+
+The dollar value of tokens that have been transferred to and from the account. Only verified tokens that are listed at least in one [token list](https://docs.dex.guru/data/off-chain-data-usage#usage-of-token-lists) are used for calculations.&#x20;
 
 {% hint style="info" %}
 **\*Token Display Criteria:** Currently, for tokens to be calculated in Asset Value, they must fit the criteria of:
@@ -42,7 +46,7 @@ The total dollar value of tokens traded from this Trader in the past 30 days.
 
 ## Trader Token Balances
 
-As with Asset value in the Trader Overview section, only Tokens that fit the same ** **_**Token Display Criteria**_**\*** mentioned above will be displayed here.
+As with Asset value in the Trader Overview section, only Tokens that fit the same _**Token Display Criteria**_**\*** mentioned above will be displayed here.
 
 ![Trader Token Balances that fit Token Display Criteria\*](<../../.gitbook/assets/image (30).png>)
 

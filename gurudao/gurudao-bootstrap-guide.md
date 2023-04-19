@@ -100,16 +100,16 @@ Opensea and LooksRare collection pages will be available soon after minting star
 
 ### **Links**
 
-**Minting page:** [**https://dex.guru/season-pass**](https://dex.guru/season-pass) ****&#x20;
+**Minting page:** [**https://dex.guru/season-pass**](https://dex.guru/season-pass)&#x20;
 
-**Opensea:** [**https://opensea.io/collection/guru-season-pass-nft-v2**](https://opensea.io/collection/guru-season-pass-nft-v2)  **** &#x20;
+**Opensea:** [**https://opensea.io/collection/guru-season-pass-nft-v2**](https://opensea.io/collection/guru-season-pass-nft-v2) &#x20;
 
-**Icy.tools:** [**https://icy.tools/collections/0xbe223020724cc3e2999f5dceda3120484fdbfef7/overview**](https://icy.tools/collections/0xbe223020724cc3e2999f5dceda3120484fdbfef7/overview)****
+**Icy.tools:** [**https://icy.tools/collections/0xbe223020724cc3e2999f5dceda3120484fdbfef7/overview**](https://icy.tools/collections/0xbe223020724cc3e2999f5dceda3120484fdbfef7/overview)
 
-**Etherscan:** [**https://etherscan.io/token/0xbe223020724cc3e2999f5dceda3120484fdbfef7**](https://etherscan.io/token/0xbe223020724cc3e2999f5dceda3120484fdbfef7)  **** &#x20;
+**Etherscan:** [**https://etherscan.io/token/0xbe223020724cc3e2999f5dceda3120484fdbfef7**](https://etherscan.io/token/0xbe223020724cc3e2999f5dceda3120484fdbfef7) &#x20;
 
-**Snapshot:** [**https://snapshot.org/#/thegurudao.eth**](https://snapshot.org/#/thegurudao.eth) ****&#x20;
+**Snapshot:** [**https://snapshot.org/#/thegurudao.eth**](https://snapshot.org/#/thegurudao.eth)&#x20;
 
-****
+
 
 ### **Please do not confuse this way of creating a DAO with an Airdrop.**

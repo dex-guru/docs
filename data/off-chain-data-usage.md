@@ -78,7 +78,7 @@ Below is the complete list of Token Lists that are currently being used:
 
 **Other Lists:**
 
-* ****[CoinGecko Ethereum Token List](https://tokens.coingecko.com/uniswap/all.json)
+* [CoinGecko Ethereum Token List](https://tokens.coingecko.com/uniswap/all.json)
 * [Balancer Token List](https://raw.githubusercontent.com/balancer-labs/assets/master/generated/listed.tokenlist.json)&#x20;
 * [Bancor Token List](https://raw.githubusercontent.com/bancorprotocol/default-token-list/main/tokens.json)&#x20;
 * [KyberSwap Token List](https://raw.githubusercontent.com/KyberNetwork/ks-assets/main/tokenLists/ethereum.tokenlist.json)&#x20;
@@ -133,3 +133,7 @@ Below is the complete list of Token Lists that are currently being used:
 * [Symmetric Token List](https://raw.githubusercontent.com/centfinance/Symmetric.WebInterface-v2/symmetric-v2/src/data/listed.tokenlist.json)&#x20;
 * [Honeyswap Default](https://tokens.honeyswap.org/)&#x20;
 * [BaoSwap xDAI Default](https://raw.githubusercontent.com/baofinance/tokenlists/main/xdai.json)&#x20;
+
+### Polygon zkEVM&#x20;
+
+* [Polygon zkEVM Popular Tokens List](https://github.com/maticnetwork/polygon-token-list/blob/c317bd16a20f2dc777bffcb38a6221c9ae0bd2f2/src/tokens/zkevmPopularTokens.json)

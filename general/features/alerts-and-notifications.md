@@ -4,9 +4,21 @@ description: Never miss an opportunity with DexGuru price notifications
 
 # Alerts & Notifications
 
-The Alerts & Notifications🔔 button is located in the top right corner.&#x20;
+The Alerts & Notifications🔔 button is located in the top right corner. Currently, we support 3 types of alerts:&#x20;
+
+1. [Favorite Accounts Activity Alerts](alerts-and-notifications.md#favorite-accounts-activity-alerts)
+2. [Token Price Changes for Favorite Tokens ](alerts-and-notifications.md#token-price-changes-for-favorite-tokens)
+3. Single Token Price Alert&#x20;
 
 <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+### Favorite Accounts Activity Alerts
+
+Set up notifications for accounts that are inside your Favorites.&#x20;
+
+{% embed url="https://www.youtube.com/watch?v=mWBhl2N1WqU" %}
+
+### Token Price Changes for Favorite Tokens&#x20;
 
 Token price alerts are available for you after you connect your wallet.&#x20;
 

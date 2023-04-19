@@ -50,7 +50,7 @@ There are **five commands** you can give to the DexGuru bot by typing them in yo
 **Help** - displays instructions. \
 <mark style="color:purple;">`guru help`</mark>
 
-_<mark style="color:purple;"></mark>_
+
 
 ### Examples:
 
@@ -60,14 +60,14 @@ For example, we can set up a channel #ape-whales and create an alert for transac
 
 <mark style="color:purple;">`guru add whale ethereum 0x4d224452801aced8b2f0aebe155379bb5d594381 $200000`</mark>
 
-****\
+\
 **Monitor newly released tokens and never miss an opportunity to buy them early. Researching newly listed tokens, can help you in finding undervalued projects.**&#x20;
 
 For example, let's set up an alert for newly listed tokens with liquidity over $50,000. This time we are only interested in the Polygon platform. The command will look like this:&#x20;
 
 <mark style="color:purple;">`guru add newtoken polygon $50000`</mark>
 
-****
+
 
 **Never miss a hot market with volume alerts.** Volume is an essential tool for swing traders. A trend with a high volume alert is stronger than the one with a small volume. &#x20;
 
@@ -75,13 +75,13 @@ For example, to look for high-volume tokens on the Optimism platform, with the 5
 
 <mark style="color:purple;">`guru add volume optimism 5000%`</mark>
 
-****
+
 
 **Other examples:**
 
 <mark style="color:purple;">`guru change whale bsc 0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48 150000`</mark> - changes the whale's alert thereshold to $150000 for USDC token on the BSC network. This means that the alert is triggered only if the transaction is over $150000. \
-****\
-****<mark style="color:purple;">`guru remove`</mark> - removes all liquidity pool alerts. \
+\
+<mark style="color:purple;">`guru remove`</mark> - removes all liquidity pool alerts. \
 
 
 \

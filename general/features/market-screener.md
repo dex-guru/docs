@@ -30,7 +30,7 @@ Market Screener is an indicator based on a [stochastic oscillato](https://en.wik
 
 
     <figure><img src="../../.gitbook/assets/003.png" alt=""><figcaption></figcaption></figure>
-3.  If _**s** _ < 0.5, the bar is red and the 24h trading volume is closer to its minimum over the last 30 days. If _**s**_ > 0.5 then the bar is green and the 24h trading volume is closer to its maximum over the last 30 days.\
+3.  If _**s**_ < 0.5, the bar is red and the 24h trading volume is closer to its minimum over the last 30 days. If _**s**_ > 0.5 then the bar is green and the 24h trading volume is closer to its maximum over the last 30 days.\
 
 
     <figure><img src="../../.gitbook/assets/004.png" alt=""><figcaption></figcaption></figure>

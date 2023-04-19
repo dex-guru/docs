@@ -8,7 +8,7 @@ Note: Some of our features are only available once you connect a wallet. After c
 
 
 Inside Market Selector, you can also see assets at your connected wallet by pressing under the wallet tab. \
-****
+
 
 ![](<../../../.gitbook/assets/Market Selector 01.png>)
 

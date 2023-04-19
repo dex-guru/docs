@@ -76,13 +76,13 @@ We employ industry standard security measures designed to protect the security o
 ### INFORMATION CHOICES AND CHANGES
 
 **Accessing, Updating, Correcting, and Deleting your Information**\
-****You may access information that you have voluntarily provided through your account on the Services, and to review, correct, or delete it by sending a request to guru@dex.guru. You can request to change contact choices, opt-out of our sharing with others, and update your personal information and preferences.
+You may access information that you have voluntarily provided through your account on the Services, and to review, correct, or delete it by sending a request to guru@dex.guru. You can request to change contact choices, opt-out of our sharing with others, and update your personal information and preferences.
 
 **Tracking Technologies Generally**\
-****Regular cookies may generally be disabled or removed by tools available as part of most commercial browsers, and in some instances blocked in the future by selecting certain settings. For more information, please see our Cookies Policy.&#x20;
+Regular cookies may generally be disabled or removed by tools available as part of most commercial browsers, and in some instances blocked in the future by selecting certain settings. For more information, please see our Cookies Policy.&#x20;
 
 **Google Analytics**\
-****You may exercise choices regarding the use of cookies from Google Analytics by going to https://tools.google.com/dlpage/gaoptout and downloading the Google Analytics Opt-out Browser Add-on.
+You may exercise choices regarding the use of cookies from Google Analytics by going to https://tools.google.com/dlpage/gaoptout and downloading the Google Analytics Opt-out Browser Add-on.
 
 **CONTACT INFORMATION**&#x20;
 
