@@ -62,6 +62,10 @@ The total number of transactions involving the Token that occurred in the last 2
 * Transfers
 * Liquidity Pool Adds/Removes&#x20;
 
+#### Median Holding Time&#x20;
+
+Median holding time for a token is the middle value in a sorted sequence of durations, indicating the typical duration of token retention. It differs from average holding time by being less influenced by outliers or extreme values.
+
 ## Top Token Holders List
 
 <figure><img src="../../.gitbook/assets/Screen Shot 2023-01-18 at 4.20.42 PM.png" alt=""><figcaption></figcaption></figure>
