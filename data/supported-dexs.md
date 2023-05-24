@@ -18,28 +18,7 @@ Check out our [DEX metrics dashboard ](https://dex.guru/markets)for real-time tr
 
 ## **Ethereum**
 
-| DEX Name             | Date Added         |
-| -------------------- | ------------------ |
-| Uniswap V2           | 1st April 2021     |
-| Uniswap V3           | 27th August 2021   |
-| SushiSwap            | 10th November 2021 |
-| KyberSwap Classic    | 19th November 2021 |
-| Crypto.com DeFi Swap | 27th December 2021 |
-| Swapr                | 14th January 2022  |
-| Standard Protocol    | 14th January 2022  |
-| ShibaSwap            | 22nd February 2022 |
-| 1inch                | 14tth April 2022   |
-| Curve                | 20th April 2022    |
-| STEPN                | 17th August 2022   |
-| PancakeSwap          | 17th October 2022  |
-| RadioShack           | 21st November 2022 |
-| ApeSwap              | 28th November 2022 |
-| KyberSwap Elastic    | 7th December 2022  |
-| DODO V1              | 16th January 2023  |
-| DODO V1              | 16th January 2023  |
-| Fraxswap             | 16th January 2023  |
-| Saddle               | 16th January 2023  |
-| Balancer             | 22nd February 2023 |
+<table><thead><tr><th width="374">DEX Name</th><th>Date Added</th></tr></thead><tbody><tr><td>Uniswap V2</td><td>1st April 2021</td></tr><tr><td>Uniswap V3</td><td>27th August 2021</td></tr><tr><td>SushiSwap</td><td>10th November 2021</td></tr><tr><td>KyberSwap Classic</td><td>19th November 2021</td></tr><tr><td>Crypto.com DeFi Swap</td><td>27th December 2021</td></tr><tr><td>Swapr</td><td>14th January 2022</td></tr><tr><td>Standard Protocol</td><td>14th January 2022</td></tr><tr><td>ShibaSwap</td><td>22nd February 2022</td></tr><tr><td>1inch</td><td>14tth April 2022</td></tr><tr><td>Curve</td><td>20th April 2022</td></tr><tr><td>STEPN</td><td>17th August 2022</td></tr><tr><td>PancakeSwap</td><td>17th October 2022</td></tr><tr><td>RadioShack</td><td>21st November 2022</td></tr><tr><td>ApeSwap</td><td>28th November 2022</td></tr><tr><td>KyberSwap Elastic</td><td>7th December 2022</td></tr><tr><td>DODO V1</td><td>16th January 2023</td></tr><tr><td>DODO V1</td><td>16th January 2023</td></tr><tr><td>Fraxswap</td><td>16th January 2023</td></tr><tr><td>Saddle</td><td>16th January 2023</td></tr><tr><td>Balancer</td><td>22nd February 2023</td></tr></tbody></table>
 
 ## **Binance Smart Chain**
 

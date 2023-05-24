@@ -59,7 +59,6 @@
 ## Other Resources <a href="#resources" id="resources"></a>
 
 * [API](resources/api.md)
-* [Discord Bot](resources/discord-bot.md)
 * [Brand Assets](resources/brand-assets.md)
 * [Privacy Policy](resources/privacy-policy.md)
 * [Terms of Service](resources/terms-of-service.md)
