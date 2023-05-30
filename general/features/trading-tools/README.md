@@ -2,7 +2,7 @@
 
 Once you connect your web3 wallet, you can exchange one crypto for another directly from the DexGuru interface in the Trading Section. Keep in mind that when you’re buying or selling crypto via our interface, you interact with smart contracts deployed on public chains like Ethereum or BSC. We do not control your transactions and couldn't stop a transaction or attempt to reverse a transaction after it occurred. You’re the only one ultimately responsible for any transactions. &#x20;
 
-![](<../../../.gitbook/assets/001 (1) (1).png>)
+![](<../../../.gitbook/assets/001 (1) (1) (1).png>)
 
 Use percentage buttons to allocate only that percentage of an asset from your wallet to a given trade. This way, you can sell 50% of all your tokens in 2 clicks. First, by pressing the 50% button and then the sell button.&#x20;
 

@@ -4,7 +4,7 @@ description: Analyze and customize multiple token charts inside just one tab.
 
 # Multi-Chart
 
-<figure><img src="../../.gitbook/assets/001 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/001 (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 To **open Multi-Chart**, click on the puzzle 🧩 icon in the left navbar.
 

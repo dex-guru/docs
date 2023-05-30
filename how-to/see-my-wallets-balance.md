@@ -21,7 +21,7 @@ If you do not see assets in your wallet, it is a good idea to check your walletâ
 
 Copy your walletâ€™s public address and search for it on a blockchain explorer.
 
-![](<../.gitbook/assets/001 (1).png>)
+![](<../.gitbook/assets/001 (1) (1).png>)
 
 
 

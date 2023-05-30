@@ -8,7 +8,7 @@ coverY: 0
 
 ## "**0x API Estimation Error" when attempting to swap**&#x20;
 
-<figure><img src="../.gitbook/assets/001 (4).png" alt=""><figcaption><p>0x API Estimation Error when attempting to swap</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/001 (1).png" alt=""><figcaption><p>0x API Estimation Error when attempting to swap</p></figcaption></figure>
 
 ### General Cases
 
