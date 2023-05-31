@@ -6,7 +6,7 @@ Once you connect your web3 wallet, you can exchange one crypto for another direc
 
 Use percentage buttons to allocate only that percentage of an asset from your wallet to a given trade. This way, you can sell 50% of all your tokens in 2 clicks. First, by pressing the 50% button and then the sell button.&#x20;
 
-![Percentage buttons](<../../../.gitbook/assets/002 (1) (1).png>)
+![Percentage buttons](<../../../.gitbook/assets/002 (1) (1) (1).png>)
 
 If this is the first time you are making a transaction with a specific token, you’ll have to complete a token approval transaction. You only need to press Approve/Sell button once.&#x20;
 

@@ -51,7 +51,7 @@ For more in-depth information about Signature Requests, Token Approvals and usin
 
 ## What is the "Degen Mode🙊" inside the Market Selector aka Unverified Tokens?
 
-![Degen Mode in the bottom portion of the DexGuru Market Selector](<../.gitbook/assets/image (25).png>)
+<figure><img src="../.gitbook/assets/001 (2).png" alt=""><figcaption><p>Degen Mode in the bottom portion of the DexGuru Market Selector</p></figcaption></figure>
 
 Tokens that fall under the Full Degen Mode in the [market-selector](features/market-selector/ "mention") are tokens that are not on at least one verified Token List. We recommend double-checking and verifying contract addresses for Tokens under Degen Mode to ensure you're interacting with the correct Token.&#x20;
 
@@ -84,7 +84,7 @@ _You may have previously seen the button "Manage Token Lists" when selecting tok
 
 ### Why are Recently Listed Tokens under Degen Mode?
 
-![Recently Listed tab in Market Selector](<../.gitbook/assets/image (27) (1).png>)
+<figure><img src="../.gitbook/assets/002.png" alt=""><figcaption><p>Recently Listed tab in Market Selector</p></figcaption></figure>
 
 For the vast majority of cases, Tokens shown in the Recently Listed tab will also fall under Degen Mode due to their recency of being created within the past 24 hours. During this time period, it is very unlikely that these tokens have been able to been verified into an existing established Token and as a result will fall under Degen Mode.
 

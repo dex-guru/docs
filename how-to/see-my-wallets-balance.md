@@ -27,7 +27,7 @@ Copy your wallet’s public address and search for it on a blockchain explorer.
 
 After entering your public address, you will see your ETH or BNB balance in native value. You will also see all up-to-date transactions that happened to your wallet. To view Expanded Token Holdings click on the button next to the value of your custom tokens.
 
-![](<../.gitbook/assets/002 (1).png>)
+![](<../.gitbook/assets/002 (1) (1).png>)
 
 ![](<../.gitbook/assets/003 (1) (1).png>)
 
