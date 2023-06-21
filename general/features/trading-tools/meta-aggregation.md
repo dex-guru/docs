@@ -6,7 +6,7 @@ Meta-aggregation is a unique mechanism DexGuru uses to optimize trades and offer
 
 Supporting multiple decentralized exchange aggregators allows us to request a quote from each and provide you with a better option. We call it meta-aggregation. Moreover, this is an open-source feature, developers could easily add new order routing providers (DEX aggregators) using the following Github link [https://github.com/dex-guru/meta-aggregation-api](https://github.com/dex-guru/meta-aggregation-api)
 
-<figure><img src="../../../.gitbook/assets/Router.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Router (1).png" alt=""><figcaption></figcaption></figure>
 
 Meta-aggregation is available for market orders on Ethereum, BSC, Polygon, Avalanche, Fantom, Arbitrum, Optimism, and CELO networks. We currently use 0x and 1inch protocols to provide this feature to you.
 
