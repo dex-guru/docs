@@ -24,7 +24,7 @@ How to connect your wallet to DexGuru on Desktop
 
 Click on a wallet icon at the top right corner&#x20;
 
-<figure><img src="../.gitbook/assets/001 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/001 (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Choose Metamask&#x20;
 
