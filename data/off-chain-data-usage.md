@@ -16,15 +16,10 @@ However, we have included the usage of a very limited amount of data from well-e
 
 Currently, our usage of off-chain data sources are: &#x20;
 
-* [DexGuru Asset Repo](https://github.com/dex-guru/assets) for Tokens & Exchange Assets
+* [DexGuru Asset Repo](https://github.com/dex-guru/assets) for Tokens & Exchange Logos
 * [Trust Wallet's Asset Repo](https://github.com/trustwallet/assets) for Token Logos&#x20;
 * [Coingecko's API](https://www.coingecko.com/en/api/documentation) for basic Token information such as:&#x20;
   * Token Official Website/Social Media/Discord Channel
-  * Market Cap
-  * Circulating Supply
-  * Fully Diluted Valuation
-  * Max Supply&#x20;
-  * Token Rank&#x20;
   * Token Logos&#x20;
 
 _Note: If you are looking to update your Token's Logo, you may do so directly through our Asset Repo listed above and follow the instructions & requirements._&#x20;

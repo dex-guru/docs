@@ -51,7 +51,7 @@ For more in-depth information about Signature Requests, Token Approvals and usin
 
 ## What is the "Degen Mode🙊" inside the Market Selector aka Unverified Tokens?
 
-<figure><img src="../.gitbook/assets/001 (2).png" alt=""><figcaption><p>Degen Mode in the bottom portion of the DexGuru Market Selector</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/001 (2) (2).png" alt=""><figcaption><p>Degen Mode in the bottom portion of the DexGuru Market Selector</p></figcaption></figure>
 
 Tokens that fall under the Full Degen Mode in the [market-selector](features/market-selector/ "mention") are tokens that are not on at least one verified Token List. We recommend double-checking and verifying contract addresses for Tokens under Degen Mode to ensure you're interacting with the correct Token.&#x20;
 
